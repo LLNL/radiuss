@@ -1,0 +1,43 @@
+# The output directory to create a structure of results
+# defaults to $PWD/.cci if not set
+outdir: _data/cci
+
+# These two are only required to group people into member groups,
+# which we don't really need or want to do.
+orgs: []
+member_orgs: []
+
+# Custom set of repos in radiuss
+repos:
+- Alpine-DAV/ascent
+- flux-framework/flux-core
+- flux-framework/flux-sched
+- GLVis/glvis
+- GEOSX/LvArray
+- hpc/Spindle
+- hypre-space/hypre
+- LLNL/axom
+- LLNL/blt
+- LLNL/Caliper
+- LLNL/CARE
+- LLNL/Chai
+- LLNL/conduit
+- LLNL/hatchet
+- LLNL/hiop
+- LLNL/lbann
+- LLNL/maestrowf
+- LLNL/merlin
+- LLNL/merlin-spellbook
+- LLNL/MerlinWorkflows
+- LLNL/psuade
+- LLNL/Raja
+- LLNL/SAMRAI
+- LLNL/scr
+- LLNL/shroud
+- LLNL/sundials
+- LLNL/Umpire
+- LLNL/zfp
+- mfem/mfem
+- spack/spack
+- visit-dav/visit
+- XBraid/xbraid
