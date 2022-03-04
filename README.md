@@ -24,7 +24,7 @@ pip install contributor-ci
 # cci list
 ```
 
-The tool will read in repos from [contributor-ci.yaml](contributor-ci.yaml) (default) and we store data for cci in [_data/cci](_data/cci),
+The tool will read in repos from [contributor-ci.yaml](contributor-ci.yaml) (default) and we store data for cci in [_data](_data),
 so to run an extractor you can do the following. Note that we want to cache data monthly so we use `--save-format year/month` instead of the
 default of `year/month/day`
 
