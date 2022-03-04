@@ -14,9 +14,7 @@ jobs:
       # Development branch to be merged/released after proper test
       uses: vsoch/contributor-ci@add/custom-save-format
       env:
-      
-        # Note this also needs to be tested if a default will work
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.CCI_GITHUB_TOKEN }}
       with: 
         results_dir: _data/
         extract: repos repo_metadata topics languages releases stars activity_commits activity_lines
