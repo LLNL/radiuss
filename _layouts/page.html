@@ -24,9 +24,58 @@ input{
 
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+
+<header class="header-main">
+    <a href="{{ site.baseurl }}"><h1 class="radiuss">radiuss</h1></a>
+  <a id="NavTrigger"
+    href="#"
+    data-g-event="Header"
+    data-g-action="Click"
+    data-g-label="Nav Toggle Open">
+    <span>Menu</span>
+  </a>
+  <nav class="main-nav" id="Navigation">
+    <ul>
+          <li class="projects">
+            <a href="{{ site.baseurl }}/projects/"
+              data-g-event="Header"
+              data-g-action="Click"
+              data-g-label="Projects">
+              Projects
+            </a>
+          </li>
+          <li class="community">
+            <a href="/community/"
+              data-g-event="Header"
+              data-g-action="Click"
+              data-g-label="Community">
+              Community
+            </a>
+          </li>
+          <li class="docs">
+            <a href="/docs/"
+              data-g-event="Header"
+              data-g-action="Click"
+              data-g-label="Docs">
+              Docs
+            </a>
+          </li>
+          <li class="blog">
+            <a href="https://opensource.googleblog.com/"
+              data-g-event="Header"
+              data-g-action="Click"
+              data-g-label="Blog">
+              Blog
+            </a>
+          </li>
+    </ul>
+  </nav>
+</header>
+
 <div class="content">
 
 {{ content }}
 
 </div>
 
+<script src="{{ site.baseurl }}/assets/js/navigation.js"></script>

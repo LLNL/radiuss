@@ -38,6 +38,11 @@ And the ones we do for the site (a subset) are:
 $ cci --out-dir _data extract --save-format year/month repos repo_metadata topics languages releases stars activity_commits activity_lines
 ```
 
+## TODO
+
+- finish up projects page
+- create text styling for selected page
+- create about page with project plots
 
 ## License
 

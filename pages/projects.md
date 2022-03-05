@@ -4,17 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-{% capture all_tags %}{% for repo in site.data.data.latest.cci-repo_metadata %}{% assign repo_meta = repo[1] %}{% for tag in repo_meta.topics %}{{ tag }},{% endfor %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign description = repo_meta.description | split: " "%}{% for part in repo_parts %}{{ part | downcase }},{% endfor %}{% for word in description %}{{ word | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endfor %}{% endcapture %}
+{% capture all_tags %}{% for repo in site.data.data.latest.cci-repo_metadata %}{% assign repo_meta = repo[1] %}{% for tag in repo_meta.topics %}{{ tag }},{% endfor %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign description = repo_meta.description | split: " "%}{% for part in repo_parts %}{{ part | downcase }},{% endfor %}{% for word in description %}{{ word | downcase }}{% endfor %}{% endfor %}{% for repo in site.data.data.latest.cci-repos %}{% assign repo_meta = repo[1] %}{% assign language = repo_meta.primaryLanguage.name %}{{ language | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = all_tags | split:',' | sort | uniq %}
 
-<div class="filters">
-<h1 style="font-size:100px; text-align:center; weight:600" class="radiuss">radiuss</h1>
+<div class="filters" style='padding-bottom:60px;'>
+<h2 style='text-align:center; font-size: 32px; font-family:"Google Sans",sans-serif;padding-bottom:20px'>search scientific software</h2>
     <input name="tags" style="width:600px; margin:auto;margin-bottom:30px">
   </div>
   <div class="cards">
    {% assign lookup = site.data.data.latest.cci-repo_metadata %}
-   {% for repo in site.data.data.latest.cci-repos %}{% assign repo_name = repo[0] %}{% assign repo_meta = repo[1] %}{% assign description = repo_meta.description | split: " " %}{% assign repo_parts = repo_metadata.name | split: "/" %}
-    <div class="card {% for topic in lookup[repo_name].topics %}topic-{{ topic }} {% endfor %}{% for topic in description %}topic-{{ topic | downcase }} {% endfor %}{% for part in repo_parts %}topic-{{ part | downcase }} {% endfor %}" style="cursor:pointer" data-url="{{ lookup[repo_name].website }}"><span class="card-title">{{ repo[0] }}</span>
+   {% for repo in site.data.data.latest.cci-repos %}{% assign repo_name = repo[0] %}{% assign repo_meta = repo[1] %}{% assign description = repo_meta.description | split: " " %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign language = repo_meta.primaryLanguage.name %}
+    <div class="card topic-{{ language | downcase }} {% for topic in lookup[repo_name].topics %}topic-{{ topic }} {% endfor %}{% for topic in description %}topic-{{ topic | downcase }} {% endfor %}{% for part in repo_parts %}topic-{{ part | downcase }} {% endfor %}" style="cursor:pointer" data-url="{{ lookup[repo_name].website }}"><span class="card-title">{{ repo[0] }}</span>
       <div class="card-tags">       
       </div><span class="card-description"><span style="min-height:80px; max-width:72%">{{ repo_meta.description | truncate: 100 }}</span>
       <span style="max-width:20%"><a href="{{ lookup[repo_name].website }}"><img style="width:80px; position: absolute; bottom:10px; right:10px;" src="{{ repo_meta.owner.avatarUrl }}"/></a></span> 
@@ -117,8 +117,14 @@ function updateFilters() {
       $(".card").show();
     } else {
         filters = ""
+        
+        // NOTE that this does an OR to give more results
         $.each(values, function(i, e){
-          filters = filters + " .topic-" + e['value']
+          if (i == values.length - 1) {
+              filters = filters + " .topic-" + e['value']      
+          } else {
+              filters = filters + " .topic-" + e['value'] + ","           
+          }
         })
         console.log(filters)
         // If no tags, do a reset

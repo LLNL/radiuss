@@ -14,7 +14,7 @@ applications.
 RADIUSS provides a range of software products that are foundational to
 scientific applications, including build tools, math & physics libraries, data
 management and vizualization, workflow tools, and portable programming and
-memory management libraries.
+memory management libraries. See our projects [here]({{ site.baseurl }}/projects/).
 
 ## DevOps for HPC
 

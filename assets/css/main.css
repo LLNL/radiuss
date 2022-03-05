@@ -49,6 +49,7 @@ body div * {
   flex-direction: row;
   flex-wrap: wrap;
   margin-left: -16px;
+  padding: 50px 200px;
 }
 .card {
   margin-left: 16px;
