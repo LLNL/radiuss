@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/vendors.min.css">
+
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/vendors.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+</head>
+<body>
+<div class="header">
+
+  <!--Content before waves-->
+  <div class="inner-header flex">
+    <div class="flex-column">
+      <div class="item">
+        <h1 class="radiuss">radiuss</h1>
+        <h2>Rapid Application Development via an Institutional Universal Software Stack</h2>
+      </div>
+    <div class="item abstract">
+      <p>
+        RADIUSS aims to develop and deploy a common base of foundational
+        scientific software with opt-in adoption from Lawrence Livermore
+        National Laboratory applications in order to reduce long-term software
+        costs and increase agility
+      </p>
+    </div>
+    </div>
+  </div>
+  
+  <!--Waves Container-->
+  <div>
+  <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+  <defs>
+  <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+  </defs>
+  <g class="parallax">
+  <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(193,61,49,1)" />
+  <use xlink:href="#gentle-wave" x="48" y="7" fill="rgb(12,24,32)" />
+  </g>
+  </svg>
+  </div>
+  <!--Waves end-->
+  
+  </div>
+  <!--Header ends-->
+  
+  <!--Content starts-->
+  <div class="home-content flex centered-flex">
+    {{ content }}
+  </div>
+  {% include footer.html %}
+</body>
+</html>

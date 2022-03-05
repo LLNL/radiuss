@@ -1,0 +1,14 @@
+title: RADIUSS
+email: radiuss@llnl.gov
+description: >- # this means to ignore newlines until "baseurl:"
+  The RADIUSS project aims to develop and deploy a common base of
+  foundational scientific software with opt-in adoption from laboratory
+  applications in order to reduce long-term software costs and increase
+  agility.
+
+baseurl: "/radiuss" 
+url: "" 
+
+theme: minima
+plugins:
+  - jekyll-feed
