@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-{% capture all_tags %}{% for repo in site.data.data.latest.cci-repo_metadata %}{% assign repo_meta = repo[1] %}{% for tag in repo_meta.topics %}{{ tag }},{% endfor %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign description = repo_meta.description | split: " "%}{% for part in repo_parts %}{{ part | downcase }},{% endfor %}{% for word in description %}{{ word | downcase }}{% endfor %}{% endfor %}{% for repo in site.data.data.latest.cci-repos %}{% assign repo_meta = repo[1] %}{% assign language = repo_meta.primaryLanguage.name %}{{ language | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% capture all_tags %}{% for repo in site.data.data.latest.cci-repo_metadata %}{% assign repo_meta = repo[1] %}{% for tag in repo_meta.topics %}{{ tag }},{% endfor %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign description = repo_meta.description | split: " "%}{% for part in repo_parts %}{{ part | downcase }},{% endfor %}{% for word in description %}{{ word | downcase }},{% endfor %}{% endfor %}{% for repo in site.data.data.latest.cci-repos %}{% assign repo_meta = repo[1] %}{% assign language = repo_meta.primaryLanguage.name %}{{ language | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = all_tags | split:',' | sort | uniq %}
 
 <div class="filters" style='padding-bottom:60px;'>
