@@ -1,0 +1,38 @@
+<header class="header-main">
+    <a href="{{ site.baseurl }}/"><h1 class="radiuss">radiuss</h1></a>
+  <a id="NavTrigger"
+    href="#"
+    data-g-event="Header"
+    data-g-action="Click"
+    data-g-label="Nav Toggle Open">
+    <span>Menu</span>
+  </a>
+  <nav class="main-nav" id="Navigation">
+    <ul>
+      <li class="docs">
+        <a {% if page.url == "/about/" %}class="active"{% endif %} href="{{ site.baseurl }}/about/">About</a>
+      </li>
+      <li class="projects">
+        <a {% if page.url == "/projects/" %}class="active"{% endif %} href="{{ site.baseurl }}/projects/">Projects</a>
+      </li>
+      <li class="community">
+        <a href="https://software.llnl.gov/" target="_blank">LLNL OpenSource <i style="font-size:12px;margin-left:2px;" class="fa fa-external-link"></i></a>
+      </li>
+      <li><a href="https://rse-ops.github.io/" target="_blank">RSE-ops <i style="font-size:12px;margin-left:2px;" class="fa fa-external-link"></i></a></li>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+{% unless page.hide_hero %}<section class="hero short">
+  <div class="col-wrap">
+    <nav class=hero-nav>
+      <ul>
+        <li class="active">
+          <h2 style="text-align:left">{{ page.title }}</h2>
+        </li>
+      </ul>
+    </nav>
+    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+  </div>
+</section>{% endunless %}

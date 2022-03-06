@@ -9,6 +9,9 @@ The structure is under development so please come back soon!
 
 ## Usage
 
+
+### Data
+
 We run a [nightly action](.github/workflows/update-data.yaml) to get updated data
 for RADIUSS projects, however you can generate the same data on your own using
 [Contributor CI](https://contributor-ci.readthedocs.io/en/latest/getting_started/user-guide.html) as follows!
@@ -38,11 +41,24 @@ And the ones we do for the site (a subset) are:
 $ cci --out-dir _data extract --save-format year/month repos repo_metadata topics languages releases stars activity_commits activity_lines
 ```
 
+### Api
+
+The site data is served from a set of static APIs!
+
+ - `/radiuss/api/languages.json`
+ - `/radiuss/api/releases.json`
+ - `/radiuss/api/repos.json`
+ - `/radiuss/api/repos-metadata.json`
+ - `/radiuss/api/stars.json`
+ - `/radiuss/api/topics.json`
+ - `/radiuss/api/commits.json`
+ - `/radiuss/api/lines.json`
+
+
 ## TODO
 
-- finish up projects page
-- create text styling for selected page
-- create about page with project plots
+- finish about page with plots
+- favicon
 
 ## License
 

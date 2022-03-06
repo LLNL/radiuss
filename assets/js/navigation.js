@@ -388,8 +388,6 @@
             this.DocEl.className = this.DocEl.className.replace("no-js", "js"),
             this.BodyEl = document.body,
             this.BodyClass = this.BodyEl.className,
-            this.FeedbackEl = document.getElementById("SendFeedback"),
-            this.FeedbackId = this.BodyEl.getAttribute("data-feedback-id"),
             this.BodyClass.indexOf("home") >= 0)
                 new s.a;
             else if (this.BodyClass.indexOf("docs") >= 0)
@@ -401,12 +399,6 @@
                   , l = document.getElementById("AlphaMenu");
                 new i.a(n,e,r,l)
             }
-            this.FeedbackEl.addEventListener("click", function(e) {
-                e.preventDefault(),
-                "undefined" != typeof userfeedback && userfeedback.api.startFeedback({
-                    productId: t.FeedbackId
-                })
-            }),
             "ontouchstart"in document && (this.BodyEl.className = this.BodyEl.className.replace("no-touch", ""))
         }
         ,

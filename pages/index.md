@@ -3,21 +3,18 @@ layout: home
 permalink: /
 ---
 
-RADIUSS focuses on three primary areas to achieve its mission: dev-ops for
-high-performance computing (see [rse-ops](https://rse-ops.github.io/));
-open-source community building, including software hardening, documentation,
-tutorials, and outreach; and integration of RADIUSS products into LLNL
-applications.
+{% include radiuss/about.html %}
+
 
 ## RADIUSS Products
 
-RADIUSS provides a range of software products that are foundational to
-scientific applications, including build tools, math & physics libraries, data
-management and vizualization, workflow tools, and portable programming and
-memory management libraries. See our projects [here]({{ site.baseurl }}/projects/).
+{% include radiuss/products.html %}
 
 ## DevOps for HPC
 
-
+{% include radiuss/rse-ops.html %}
 
 ## Software Improvement
+
+{% include radiuss/goals.html %}
+
