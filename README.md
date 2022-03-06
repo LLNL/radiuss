@@ -55,11 +55,6 @@ The site data is served from a set of static APIs!
  - `/radiuss/api/lines.json`
 
 
-## TODO
-
-- finish about page with plots
-- favicon
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE)

@@ -8,6 +8,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/radiuss" 
 url: "" 
+domain: https://software.llnl.gov
+twitter-img: /assets/img/rse-ops-circle.png
+twitter: rseops
+twitter_card: summary
 
 theme: minima
 plugins:
