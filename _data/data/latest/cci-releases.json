@@ -432,6 +432,11 @@
                     "name": "v0.14.1",
                     "publishedAt": "2021-11-15T16:54:39Z",
                     "tagName": "v0.14.1"
+                },
+                {
+                    "name": "2022.03.0",
+                    "publishedAt": null,
+                    "tagName": ""
                 }
             ]
         }
