@@ -594,6 +594,11 @@
                     "name": "v6.0.0",
                     "publishedAt": "2021-08-19T16:56:41Z",
                     "tagName": "v6.0.0"
+                },
+                {
+                    "name": "v2022.03.0",
+                    "publishedAt": "2022-03-16T15:29:20Z",
+                    "tagName": "v2022.03.0"
                 }
             ]
         }
@@ -1138,6 +1143,21 @@
                     "name": "v0.5.0",
                     "publishedAt": "2022-01-14T22:48:08Z",
                     "tagName": "0.5.0"
+                },
+                {
+                    "name": "v0.5.1",
+                    "publishedAt": "2022-03-16T19:38:51Z",
+                    "tagName": "0.5.1"
+                },
+                {
+                    "name": "v0.5.2",
+                    "publishedAt": "2022-03-16T20:03:10Z",
+                    "tagName": "0.5.2"
+                },
+                {
+                    "name": "v0.5.3",
+                    "publishedAt": "2022-03-16T20:11:16Z",
+                    "tagName": "0.5.3"
                 }
             ]
         }
