@@ -214,7 +214,7 @@
     "LLNL/CARE": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 931805,
+            "totalSize": 939619,
             "nodes": [
                 {
                     "name": "C++",
@@ -239,7 +239,7 @@
             ],
             "edges": [
                 {
-                    "size": 653258
+                    "size": 661072
                 },
                 {
                     "size": 168005
@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2952340,
+            "totalSize": 2964342,
             "nodes": [
                 {
                     "name": "C++",
@@ -349,7 +349,7 @@
             ],
             "edges": [
                 {
-                    "size": 2257956
+                    "size": 2269302
                 },
                 {
                     "size": 305471
@@ -358,7 +358,7 @@
                     "size": 197487
                 },
                 {
-                    "size": 82278
+                    "size": 82934
                 },
                 {
                     "size": 53417
@@ -912,7 +912,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 2658856,
+            "totalSize": 2663157,
             "nodes": [
                 {
                     "name": "C++",
@@ -945,10 +945,10 @@
             ],
             "edges": [
                 {
-                    "size": 2561938
+                    "size": 2566133
                 },
                 {
-                    "size": 48218
+                    "size": 48324
                 },
                 {
                     "size": 30640
@@ -971,7 +971,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 9493073,
+            "totalSize": 9503757,
             "nodes": [
                 {
                     "name": "C++",
@@ -1008,10 +1008,10 @@
             ],
             "edges": [
                 {
-                    "size": 6502925
+                    "size": 6502511
                 },
                 {
-                    "size": 1942814
+                    "size": 1953912
                 },
                 {
                     "size": 644303
@@ -1589,7 +1589,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9492834,
+            "totalSize": 9493627,
             "nodes": [
                 {
                     "name": "C",
@@ -1642,10 +1642,10 @@
             ],
             "edges": [
                 {
-                    "size": 7171916
+                    "size": 7172577
                 },
                 {
-                    "size": 1096239
+                    "size": 1096371
                 },
                 {
                     "size": 749288
@@ -1923,7 +1923,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 13125879,
+            "totalSize": 13128971,
             "nodes": [
                 {
                     "name": "C++",
@@ -1964,7 +1964,7 @@
             ],
             "edges": [
                 {
-                    "size": 12629932
+                    "size": 12633024
                 },
                 {
                     "size": 214974
@@ -1995,8 +1995,8 @@
     },
     "spack/spack": {
         "languages": {
-            "totalCount": 16,
-            "totalSize": 17761631,
+            "totalCount": 18,
+            "totalSize": 17939367,
             "nodes": [
                 {
                     "name": "Python",
@@ -2019,12 +2019,20 @@
                     "color": "#384d54"
                 },
                 {
+                    "name": "CMake",
+                    "color": "#DA3434"
+                },
+                {
                     "name": "Makefile",
                     "color": "#427819"
                 },
                 {
-                    "name": "CMake",
-                    "color": "#DA3434"
+                    "name": "Batchfile",
+                    "color": "#C1F12E"
+                },
+                {
+                    "name": "PowerShell",
+                    "color": "#012456"
                 },
                 {
                     "name": "Lua",
@@ -2065,10 +2073,10 @@
             ],
             "edges": [
                 {
-                    "size": 17428801
+                    "size": 17589376
                 },
                 {
-                    "size": 185923
+                    "size": 186166
                 },
                 {
                     "size": 50037
@@ -2080,10 +2088,16 @@
                     "size": 20295
                 },
                 {
+                    "size": 13373
+                },
+                {
                     "size": 10131
                 },
                 {
-                    "size": 8723
+                    "size": 8907
+                },
+                {
+                    "size": 3361
                 },
                 {
                     "size": 2649
