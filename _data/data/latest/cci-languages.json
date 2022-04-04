@@ -96,7 +96,7 @@
     "GEOSX/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1781521,
+            "totalSize": 1785300,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,7 +121,7 @@
             ],
             "edges": [
                 {
-                    "size": 1638124
+                    "size": 1641903
                 },
                 {
                     "size": 62099
@@ -1589,7 +1589,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9591341,
+            "totalSize": 9595306,
             "nodes": [
                 {
                     "name": "C",
@@ -1642,13 +1642,13 @@
             ],
             "edges": [
                 {
-                    "size": 7239568
+                    "size": 7242514
                 },
                 {
-                    "size": 1113934
+                    "size": 1114644
                 },
                 {
-                    "size": 761957
+                    "size": 762266
                 },
                 {
                     "size": 162785
