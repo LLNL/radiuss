@@ -1589,7 +1589,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9583197,
+            "totalSize": 9574950,
             "nodes": [
                 {
                     "name": "C",
@@ -1642,10 +1642,10 @@
             ],
             "edges": [
                 {
-                    "size": 7232647
+                    "size": 7224283
                 },
                 {
-                    "size": 1110095
+                    "size": 1110212
                 },
                 {
                     "size": 763069
@@ -1996,7 +1996,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18131698,
+            "totalSize": 18132001,
             "nodes": [
                 {
                     "name": "Python",
@@ -2073,7 +2073,7 @@
             ],
             "edges": [
                 {
-                    "size": 17780426
+                    "size": 17780729
                 },
                 {
                     "size": 186471
