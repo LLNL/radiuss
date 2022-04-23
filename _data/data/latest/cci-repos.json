@@ -45,10 +45,10 @@
             "totalCount": 45
         },
         "pullRequests_Merged": {
-            "totalCount": 538
+            "totalCount": 539
         },
         "issues_Open": {
-            "totalCount": 103
+            "totalCount": 104
         },
         "issues_Closed": {
             "totalCount": 207
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 98
+            "totalCount": 99
         },
         "mentionableUsers": {
             "totalCount": 23
@@ -100,7 +100,7 @@
             "totalCount": 141
         },
         "pullRequests_Merged": {
-            "totalCount": 1836
+            "totalCount": 1838
         },
         "issues_Open": {
             "totalCount": 408
@@ -369,7 +369,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 16
+            "totalCount": 17
         },
         "pullRequests_Closed": {
             "totalCount": 17
@@ -708,7 +708,7 @@
             "totalCount": 506
         },
         "issues_Open": {
-            "totalCount": 95
+            "totalCount": 97
         },
         "issues_Closed": {
             "totalCount": 334
@@ -809,13 +809,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 4
         },
         "pullRequests_Closed": {
             "totalCount": 39
         },
         "pullRequests_Merged": {
-            "totalCount": 214
+            "totalCount": 215
         },
         "issues_Open": {
             "totalCount": 27
@@ -864,7 +864,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 25
+            "totalCount": 26
         },
         "pullRequests_Closed": {
             "totalCount": 141
@@ -1378,10 +1378,10 @@
         },
         "url": "https://github.com/LLNL/sundials",
         "homepageUrl": "https://computing.llnl.gov/projects/sundials",
-        "description": "SUNDIALS is a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. This is a mirror of current releases, and development will move here eventually. Pull requests are welcome for bug fixes and minor changes.",
+        "description": "Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes.",
         "createdAt": "2017-10-05T17:20:03Z",
         "defaultBranchRef": {
-            "name": "master"
+            "name": "develop"
         },
         "licenseInfo": {
             "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -1393,7 +1393,7 @@
             "totalCount": 251
         },
         "mentionableUsers": {
-            "totalCount": 12
+            "totalCount": 17
         },
         "forks": {
             "totalCount": 59
@@ -1409,10 +1409,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 1
         },
         "pullRequests_Closed": {
-            "totalCount": 31
+            "totalCount": 37
         },
         "pullRequests_Merged": {
             "totalCount": 0
@@ -1473,7 +1473,7 @@
             "totalCount": 591
         },
         "issues_Open": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "issues_Closed": {
             "totalCount": 52
@@ -1500,7 +1500,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 526
+            "totalCount": 527
         },
         "mentionableUsers": {
             "totalCount": 32
@@ -1555,7 +1555,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 918
+            "totalCount": 919
         },
         "mentionableUsers": {
             "totalCount": 476
@@ -1613,10 +1613,10 @@
             "totalCount": 2620
         },
         "mentionableUsers": {
-            "totalCount": 1079
+            "totalCount": 1080
         },
         "forks": {
-            "totalCount": 1495
+            "totalCount": 1496
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1632,16 +1632,16 @@
             "totalCount": 610
         },
         "pullRequests_Closed": {
-            "totalCount": 2375
+            "totalCount": 2380
         },
         "pullRequests_Merged": {
-            "totalCount": 20948
+            "totalCount": 20963
         },
         "issues_Open": {
-            "totalCount": 1804
+            "totalCount": 1801
         },
         "issues_Closed": {
-            "totalCount": 4398
+            "totalCount": 4403
         }
     },
     "visit-dav/visit": {
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 224
+            "totalCount": 223
         },
         "mentionableUsers": {
             "totalCount": 54
@@ -1684,19 +1684,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 78
         },
         "pullRequests_Merged": {
-            "totalCount": 1846
+            "totalCount": 1855
         },
         "issues_Open": {
-            "totalCount": 1654
+            "totalCount": 1652
         },
         "issues_Closed": {
-            "totalCount": 2886
+            "totalCount": 2889
         }
     },
     "XBraid/xbraid": {
