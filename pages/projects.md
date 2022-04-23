@@ -11,14 +11,16 @@ hide_hero: true
 <div class="filters" style='padding-bottom:60px;'>
 <h2 style='text-align:center; font-size: 32px; font-family:"Google Sans",sans-serif;padding-bottom:20px'>search scientific software</h2>
     <input name="tags" style="width:600px; margin:auto;margin-bottom:30px">
+    <p style="padding-top:10px; text-align:center; margin:auto">Looking for a particular project? Try entering a term you're interested in, like "visualization" or "maching-learning" in the box above.</p>  
   </div>
-  <div class="cards">
+<div class="cards">
+   {% assign avatars = site.data.custom.avatars %}
    {% assign lookup = site.data.data.latest.cci-repo_metadata %}
-   {% for repo in site.data.data.latest.cci-repos %}{% assign repo_name = repo[0] %}{% assign repo_meta = repo[1] %}{% assign description = repo_meta.description | split: " " %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign language = repo_meta.primaryLanguage.name %}
-    <div class="card topic-{{ language | downcase }} {% for topic in lookup[repo_name].topics %}topic-{{ topic }} {% endfor %}{% for topic in description %}topic-{{ topic | downcase }} {% endfor %}{% for part in repo_parts %}topic-{{ part | downcase }} {% endfor %}" style="cursor:pointer" data-url="{{ lookup[repo_name].website }}"><span class="card-title">{{ repo[0] }}</span>
+   {% for repo in site.data.data.latest.cci-repos %}{% assign repo_name = repo[0] %}{% assign repo_meta = repo[1] %}{% assign description = repo_meta.description | split: " " %}{% assign repo_parts = repo_metadata.name | split: "/" %}{% assign language = repo_meta.primaryLanguage.name %}{% assign website = lookup[repo_name].website %}
+    <div class="card topic-{{ language | downcase }} {% for topic in lookup[repo_name].topics %}topic-{{ topic }} {% endfor %}{% for topic in description %}topic-{{ topic | downcase }} {% endfor %}{% for part in repo_parts %}topic-{{ part | downcase }} {% endfor %}" style="cursor:pointer" data-url="{{ repo_meta.url }}"><span class="card-title">{{ repo[0] }}</span>
       <div class="card-tags">       
-      </div><span class="card-description"><span style="min-height:80px; max-width:72%">{{ repo_meta.description | truncate: 100 }}</span>
-      <span style="max-width:20%"><a href="{{ lookup[repo_name].website }}"><img style="width:80px; position: absolute; bottom:10px; right:10px;" src="{{ repo_meta.owner.avatarUrl }}"/></a></span> 
+      </div><span class="card-description"><span style="min-height:80px; max-width:80%; display:inline-block !important">{{ repo_meta.description | truncate: 100 }}</span>
+      <span style="max-width:20%"><a href="{{ lookup[repo_name].website }}"><img style="width:70px; position: absolute; bottom:10px; right:10px;" src="{% if avatars[repo_name] %}{{ site.baseurl }}/assets/img/custom/avatars/{{ avatars[repo_name] }}{% else %}{{ repo_meta.owner.avatarUrl }}{% endif %}"/></a></span> 
       </span>
     </div>{% endfor %}
   </div>
