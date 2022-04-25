@@ -9,7 +9,6 @@ The structure is under development so please come back soon!
 
 ## Usage
 
-
 ### Data
 
 We run a [nightly action](.github/workflows/update-data.yaml) to get updated data
@@ -54,6 +53,15 @@ The site data is served from a set of static APIs!
  - `/radiuss/api/commits.json`
  - `/radiuss/api/lines.json`
 
+
+### Custom Data
+
+#### Avatars
+
+If you want to define a custom avatar image for a project:
+
+1. Add the image to [assets/img/custom/avatars](assets/img/custom/avatars)
+2. Add _just the name_ to [_data/custom.yaml](_data/custom.yaml) under avatars.
 
 ## License
 
