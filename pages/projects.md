@@ -12,15 +12,16 @@ hide_hero: true
 <div class="filters" style='padding-bottom:60px;'>
 <h2 style='text-align:center; font-size: 32px; font-family:"Google Sans",sans-serif;padding-bottom:20px'>search scientific software</h2>
     <input name="tags" style="width:600px; margin:auto;margin-bottom:30px">
-    <p style="padding-top:10px; text-align:center; margin:auto">Looking for a particular project? Try entering a term you're interested in, like "visualization" or "machine-learning" in the box above.</p>
+    <p style="padding-top:10px; text-align:center; margin:auto">Looking for a particular project? Try entering a language or term you're interested in, like "python" or "machine-learning" above.</p>
   </div>
 
-<p style="text-align:center; margin:auto"><button id='star-sort' class="btn">Sort by ⭐️</button><button id='language-sort' style="margin-left:10px" class="btn">Sort by Language</button></p>
+<p style="text-align:center; margin:auto"><button id='star-sort' class="btn">Sort by ⭐️</button><button id='language-sort' style="margin-left:10px" class="btn">Sort by Language</button><button id='name-sort' style="margin-left:10px" class="btn">Sort by Name</button></p>
 <div class="cards">{% assign avatars = site.data.custom.avatars %}{% assign lookup = site.data.data.latest.cci-repo_metadata %}{% for repo in site.data.data.latest.cci-repos %}{% assign repo_name = repo[0] %}{% assign repo_meta = repo[1] %}{% assign stars = repo_meta.stargazers.totalCount %}{% assign forks = repo_meta.forks.totalCount %}{% assign description = repo_meta.description | split: " " %}{% assign repo_parts = repo_meta.name | split: "/" %}{% assign license = just_repos[repo_name].licenseInfo.name %}{% assign language = repo_meta.primaryLanguage.name %}{% assign website = lookup[repo_name].website %}
 <div class="card topic-{{ language | downcase }} {% for topic in lookup[repo_name].topics %}topic-{{ topic }} {% endfor %}{% for topic in description %}topic-{{ topic | downcase }} {% endfor %}{% for part in repo_parts %}topic-{{ part | downcase }} {% endfor %}"
     data-forks="{{ forks }}" 
     data-stars="{{ stars }}"
     data-language="{{ language }}"
+    data-name="{{ repo_name }}"
     style="cursor:pointer" data-url="{{ repo_meta.url }}"><span class="card-title">{{ repo[0] }}</span><div style="font-size:12px" class="card-tags">⭐️ {{ stars }} <span style="color:#1864f4; margin-left:15px"><strong>{{ language }}</strong></span></div><span class="card-description"><span style="min-height:80px; max-width:80%; display:inline-block !important">{{ repo_meta.description | truncate: 100 }}</span>
 <span style="max-width:20%"><a href="{{ lookup[repo_name].website }}"><img style="width:70px; position: absolute; bottom:10px; right:10px;" src="{% if avatars[repo_name] %}{{ site.baseurl }}/assets/img/custom/avatars/{{ avatars[repo_name] }}{% else %}{{ repo_meta.owner.avatarUrl }}{% endif %}"/></a></span></span></div>{% endfor %}
 </div>
@@ -47,10 +48,14 @@ function sort_by_stars(a, b){
 function sort_by_language(a, b){
     return ($(b).data("language")) < ($(a).data("language")) ? 1 : -1; 
 }
+function sort_by_name(a, b){
+    return ($(b).data("name")) < ($(a).data("name")) ? 1 : -1; 
+}
 
 // Sort by stars or language
 $("#star-sort").click(function() {$(".cards .card").sort(sort_by_stars).appendTo(".cards")})
 $("#language-sort").click(function() {$(".cards .card").sort(sort_by_language).appendTo(".cards")})
+$("#name-sort").click(function() {$(".cards .card").sort(sort_by_name).appendTo(".cards")})
 
 var tags = [{% for tag in tags_list %}{"value": "{{ tag }}"}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
 console.log(tags)

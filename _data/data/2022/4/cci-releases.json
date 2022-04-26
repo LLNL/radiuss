@@ -679,6 +679,11 @@
             ]
         }
     },
+    "LLNL/b-mpi3": {
+        "releases": {
+            "nodes": []
+        }
+    },
     "LLNL/blt": {
         "releases": {
             "nodes": [
@@ -1368,6 +1373,21 @@
                     "tagName": "v0.12.2"
                 }
             ]
+        }
+    },
+    "LLNL/spot2_container": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "LLNL/spotbe": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "LLNL/spotfe": {
+        "releases": {
+            "nodes": []
         }
     },
     "LLNL/sundials": {

@@ -706,6 +706,48 @@
             ]
         }
     },
+    "LLNL/b-mpi3": {
+        "repositoryTopics": {
+            "totalCount": 5,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "mpi"
+                    },
+                    "resourcePath": "/topics/mpi",
+                    "url": "https://github.com/topics/mpi"
+                },
+                {
+                    "topic": {
+                        "name": "cpp"
+                    },
+                    "resourcePath": "/topics/cpp",
+                    "url": "https://github.com/topics/cpp"
+                },
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                },
+                {
+                    "topic": {
+                        "name": "header-only"
+                    },
+                    "resourcePath": "/topics/header-only",
+                    "url": "https://github.com/topics/header-only"
+                },
+                {
+                    "topic": {
+                        "name": "c-plus-plus"
+                    },
+                    "resourcePath": "/topics/c-plus-plus",
+                    "url": "https://github.com/topics/c-plus-plus"
+                }
+            ]
+        }
+    },
     "LLNL/blt": {
         "repositoryTopics": {
             "totalCount": 8,
@@ -1403,6 +1445,55 @@
                     "resourcePath": "/topics/build-tools",
                     "url": "https://github.com/topics/build-tools"
                 },
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                }
+            ]
+        }
+    },
+    "LLNL/spot2_container": {
+        "repositoryTopics": {
+            "totalCount": 1,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                }
+            ]
+        }
+    },
+    "LLNL/spotbe": {
+        "repositoryTopics": {
+            "totalCount": 2,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                },
+                {
+                    "topic": {
+                        "name": "python"
+                    },
+                    "resourcePath": "/topics/python",
+                    "url": "https://github.com/topics/python"
+                }
+            ]
+        }
+    },
+    "LLNL/spotfe": {
+        "repositoryTopics": {
+            "totalCount": 1,
+            "nodes": [
                 {
                     "topic": {
                         "name": "radiuss"
