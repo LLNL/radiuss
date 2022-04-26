@@ -2,17 +2,16 @@ avatars:
   LLNL/axom: llnl-axom.png
   LLNL/blt: llnl-blt.png
   LLNL/Caliper: llnl-caliper.png
-  LLNL/conduit: llnl-conduit.svg
+  LLNL/conduit: llnl-conduit.png
   LLNL/hatchet: llnl-hatchet.png
   LLNL/maestrowf: llnl-maestrowf.png
   LLNL/merlin: llnl-merlin.png
   LLNL/merlin-spellbook: llnl-merlin.png
   LLNL/MerlinWorkflows: llnl-merlin.png
   LLNL/psuade: llnl-psuade.png
-  LLNL/Raja: llnl-raja.png
+  LLNL/RAJA: llnl-raja.png
   LLNL/sundials: llnl-sundials.png
   LLNL/Umpire: llnl-umpire.png
-  LLNL/zfp: llnl-zfp.png
 
   # LLNL/CARE
   # LLNL/Chai
@@ -21,3 +20,4 @@ avatars:
   # LLNL/SAMRAI
   # LLNL/scr
   # LLNL/shroud
+  # LLNL/zfp
