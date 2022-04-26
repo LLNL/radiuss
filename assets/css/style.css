@@ -129,13 +129,32 @@ a {
   }
 }
 /*Shrinking for mobile*/
-@media (max-width: 768px) {
+@media (max-width: 812px) {
+  .inner-header, .flex-column, .header {
+    display: block !important;
+    margin: auto;
+  }
+  .flex-column {
+    padding-right:25px;
+  }
+  .item, .abstract, p {
+    max-width: 100% !important;
+    width: 100%;
+  }
   .waves {
-    height:40px;
-    min-height:40px;
+   display:none;
+  }
+  p {
+    letter-spacing: 0px;
+    width: 75%;
+    margin: auto;
+    padding-bottom:30px;
   }
   .home-content {
-    height:30vh;
+    display: none;
+  }
+  .footer {
+    display: none;
   }
   h1 {
     font-size:24px;

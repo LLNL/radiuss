@@ -91,3 +91,10 @@ body div {
   font-size: 14px;
   color: #999;
 }
+
+/*Shrinking for mobile*/
+@media (max-width: 812px) {
+  .cards {
+    padding: 0px;
+  }
+}
