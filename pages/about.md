@@ -32,9 +32,3 @@ graph: true
 ## DevOps for HPC
 
 {% include radiuss/rse-ops.html %}
-
-<!--
-## Software Improvement
-
-{% include radiuss/goals.html %}
--->
