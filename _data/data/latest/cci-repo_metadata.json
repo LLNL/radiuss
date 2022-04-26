@@ -323,7 +323,7 @@
     "LLNL/SAMRAI": {
         "name": "LLNL/SAMRAI",
         "description": "Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development",
-        "website": "https://computing.llnl.gov/project/SAMRAI/",
+        "website": "https://computing.llnl.gov/projects/samrai",
         "topics": [
             "hpc",
             "scientific-computing",
