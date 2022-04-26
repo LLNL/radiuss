@@ -144,9 +144,15 @@ a {
   .waves {
    display:none;
   }
+  .homeradiuss {
+    padding-bottom:25px;  
+  }
+  .homep {
+    width: 75%;  
+  }
   p {
     letter-spacing: 0px;
-    width: 75%;
+    width: 100%;
     margin: auto;
     padding-bottom:30px;
   }
