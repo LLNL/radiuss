@@ -115,6 +115,18 @@
             "cpp"
         ]
     },
+    "LLNL/b-mpi3": {
+        "name": "LLNL/b-mpi3",
+        "description": "  This aims to be an wrapper to C-MPI3 for C++, using the principles of simplicity, STL, RAII and Boost and enforcing type-safety. This is a mirror of https://gitlab.com/correaa/boost-mpi3.",
+        "website": "",
+        "topics": [
+            "mpi",
+            "cpp",
+            "radiuss",
+            "header-only",
+            "c-plus-plus"
+        ]
+    },
     "LLNL/Caliper": {
         "name": "LLNL/Caliper",
         "description": "Caliper is an instrumentation and performance profiling library",
@@ -359,6 +371,31 @@
             "c-plus-plus",
             "c",
             "build-tools",
+            "radiuss"
+        ]
+    },
+    "LLNL/spotbe": {
+        "name": "LLNL/spotbe",
+        "description": "The web backend for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
+            "radiuss",
+            "python"
+        ]
+    },
+    "LLNL/spotfe": {
+        "name": "LLNL/spotfe",
+        "description": "The web frontend for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
+            "radiuss"
+        ]
+    },
+    "LLNL/spot2_container": {
+        "name": "LLNL/spot2_container",
+        "description": "The container infrastructure for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
             "radiuss"
         ]
     },

@@ -13,6 +13,10 @@ twitter-img: /assets/img/rse-ops-circle.png
 twitter: rseops
 twitter_card: summary
 
+exclude:
+  - .jekyll-cache
+  - env
+  
 theme: minima
 plugins:
   - jekyll-feed

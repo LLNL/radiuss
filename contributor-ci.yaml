@@ -18,6 +18,7 @@ repos:
 - hypre-space/hypre
 - LLNL/axom
 - LLNL/blt
+- LLNL/b-mpi3
 - LLNL/Caliper
 - LLNL/CARE
 - LLNL/Chai
@@ -34,6 +35,9 @@ repos:
 - LLNL/SAMRAI
 - LLNL/scr
 - LLNL/shroud
+- LLNL/spotbe
+- LLNL/spotfe
+- LLNL/spot2_container
 - LLNL/sundials
 - LLNL/Umpire
 - LLNL/zfp
