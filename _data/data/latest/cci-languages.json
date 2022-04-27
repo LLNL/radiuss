@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 6187827,
+            "totalSize": 6209254,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 4087543
+                    "size": 4108848
                 },
                 {
                     "size": 556587
@@ -70,7 +70,7 @@
                     "size": 304482
                 },
                 {
-                    "size": 139009
+                    "size": 139131
                 },
                 {
                     "size": 81923
@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2965730,
+            "totalSize": 2965757,
             "nodes": [
                 {
                     "name": "C++",
@@ -355,7 +355,7 @@
                     "size": 305471
                 },
                 {
-                    "size": 197487
+                    "size": 197514
                 },
                 {
                     "size": 83018
@@ -2197,7 +2197,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18225235,
+            "totalSize": 18234186,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,7 +2274,7 @@
             ],
             "edges": [
                 {
-                    "size": 17879392
+                    "size": 17888343
                 },
                 {
                     "size": 190855
