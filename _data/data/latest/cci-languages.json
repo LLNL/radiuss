@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 6209254,
+            "totalSize": 6209275,
             "nodes": [
                 {
                     "name": "C++",
@@ -70,7 +70,7 @@
                     "size": 304482
                 },
                 {
-                    "size": 139131
+                    "size": 139152
                 },
                 {
                     "size": 81923
@@ -533,7 +533,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2824048,
+            "totalSize": 2801813,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,13 +574,13 @@
             ],
             "edges": [
                 {
-                    "size": 2439390
+                    "size": 2417729
                 },
                 {
                     "size": 152771
                 },
                 {
-                    "size": 76531
+                    "size": 75957
                 },
                 {
                     "size": 69267
@@ -891,7 +891,7 @@
     "LLNL/hatchet": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 850664,
+            "totalSize": 859850,
             "nodes": [
                 {
                     "name": "Python",
@@ -924,7 +924,7 @@
             ],
             "edges": [
                 {
-                    "size": 457674
+                    "size": 466860
                 },
                 {
                     "size": 258607
@@ -950,7 +950,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 2868640,
+            "totalSize": 2868740,
             "nodes": [
                 {
                     "name": "C++",
@@ -986,7 +986,7 @@
                     "size": 2771075
                 },
                 {
-                    "size": 48858
+                    "size": 48958
                 },
                 {
                     "size": 30640
@@ -1460,7 +1460,7 @@
     "LLNL/spotbe": {
         "languages": {
             "totalCount": 3,
-            "totalSize": 67848,
+            "totalSize": 67878,
             "nodes": [
                 {
                     "name": "Python",
@@ -1477,7 +1477,7 @@
             ],
             "edges": [
                 {
-                    "size": 55566
+                    "size": 55596
                 },
                 {
                     "size": 7297
@@ -1557,7 +1557,7 @@
     "LLNL/sundials": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 10401900,
+            "totalSize": 10401744,
             "nodes": [
                 {
                     "name": "C",
@@ -1602,7 +1602,7 @@
             ],
             "edges": [
                 {
-                    "size": 7030821
+                    "size": 7030935
                 },
                 {
                     "size": 1475083
@@ -1611,7 +1611,7 @@
                     "size": 800725
                 },
                 {
-                    "size": 481815
+                    "size": 481545
                 },
                 {
                     "size": 191120
@@ -1884,7 +1884,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2757167,
+            "totalSize": 2760426,
             "nodes": [
                 {
                     "name": "C++",
@@ -1925,10 +1925,10 @@
             ],
             "edges": [
                 {
-                    "size": 2006868
+                    "size": 2007046
                 },
                 {
-                    "size": 506028
+                    "size": 509109
                 },
                 {
                     "size": 83180
@@ -2124,7 +2124,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 13318313,
+            "totalSize": 13324780,
             "nodes": [
                 {
                     "name": "C++",
@@ -2165,7 +2165,7 @@
             ],
             "edges": [
                 {
-                    "size": 12819959
+                    "size": 12826426
                 },
                 {
                     "size": 216810
@@ -2197,7 +2197,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18234186,
+            "totalSize": 18266636,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,7 +2274,7 @@
             ],
             "edges": [
                 {
-                    "size": 17888343
+                    "size": 17920793
                 },
                 {
                     "size": 190855
@@ -2333,7 +2333,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98279247,
+            "totalSize": 98286396,
             "nodes": [
                 {
                     "name": "C",
@@ -2422,19 +2422,19 @@
             ],
             "edges": [
                 {
-                    "size": 74154181
+                    "size": 74159239
                 },
                 {
-                    "size": 12574006
+                    "size": 12575711
                 },
                 {
                     "size": 3606267
                 },
                 {
-                    "size": 2929167
+                    "size": 2929158
                 },
                 {
-                    "size": 1963248
+                    "size": 1963643
                 },
                 {
                     "size": 1265699
