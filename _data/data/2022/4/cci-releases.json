@@ -833,6 +833,11 @@
                     "name": "Hatchet v1.3.0",
                     "publishedAt": "2022-02-07T20:23:25Z",
                     "tagName": "v1.3.0"
+                },
+                {
+                    "name": "2022.1.0",
+                    "publishedAt": "2022-04-28T23:39:35Z",
+                    "tagName": "v2022.1.0"
                 }
             ]
         }
