@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 6209275,
+            "totalSize": 6240942,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 4108848
+                    "size": 4140372
                 },
                 {
                     "size": 556587
@@ -70,7 +70,7 @@
                     "size": 304482
                 },
                 {
-                    "size": 139152
+                    "size": 139295
                 },
                 {
                     "size": 81923
@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9706446,
+            "totalSize": 9706749,
             "nodes": [
                 {
                     "name": "C",
@@ -1843,13 +1843,13 @@
             ],
             "edges": [
                 {
-                    "size": 7336961
+                    "size": 7336959
                 },
                 {
                     "size": 1128225
                 },
                 {
-                    "size": 763423
+                    "size": 763728
                 },
                 {
                     "size": 162958
@@ -2197,7 +2197,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18327213,
+            "totalSize": 18346545,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,10 +2274,10 @@
             ],
             "edges": [
                 {
-                    "size": 17981176
+                    "size": 18000520
                 },
                 {
-                    "size": 191049
+                    "size": 191037
                 },
                 {
                     "size": 50037
@@ -2333,7 +2333,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98278893,
+            "totalSize": 98283368,
             "nodes": [
                 {
                     "name": "C",
@@ -2422,19 +2422,19 @@
             ],
             "edges": [
                 {
-                    "size": 74153754
+                    "size": 74152937
                 },
                 {
-                    "size": 12575749
+                    "size": 12580210
                 },
                 {
-                    "size": 3606267
+                    "size": 3606971
                 },
                 {
                     "size": 2929158
                 },
                 {
-                    "size": 1961488
+                    "size": 1961615
                 },
                 {
                     "size": 1265798
