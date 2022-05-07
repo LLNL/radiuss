@@ -1815,6 +1815,11 @@
                     "name": "flux-core v0.38.0",
                     "publishedAt": "2022-04-04T15:31:03Z",
                     "tagName": "v0.38.0"
+                },
+                {
+                    "name": "flux-core v0.39.0",
+                    "publishedAt": "2022-05-06T17:46:21Z",
+                    "tagName": "v0.39.0"
                 }
             ]
         }

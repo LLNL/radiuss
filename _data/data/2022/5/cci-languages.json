@@ -1075,7 +1075,7 @@
     "LLNL/maestrowf": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 403088,
+            "totalSize": 403296,
             "nodes": [
                 {
                     "name": "Python",
@@ -1096,7 +1096,7 @@
             ],
             "edges": [
                 {
-                    "size": 400123
+                    "size": 400331
                 },
                 {
                     "size": 2123
@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9714248,
+            "totalSize": 9717200,
             "nodes": [
                 {
                     "name": "C",
@@ -1843,13 +1843,13 @@
             ],
             "edges": [
                 {
-                    "size": 7343313
+                    "size": 7343231
                 },
                 {
-                    "size": 1129370
+                    "size": 1132251
                 },
                 {
-                    "size": 763728
+                    "size": 763881
                 },
                 {
                     "size": 162958
@@ -2197,7 +2197,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18369521,
+            "totalSize": 18376947,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,7 +2274,7 @@
             ],
             "edges": [
                 {
-                    "size": 18023347
+                    "size": 18030773
                 },
                 {
                     "size": 191186
@@ -2333,7 +2333,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98285407,
+            "totalSize": 98295939,
             "nodes": [
                 {
                     "name": "C",
@@ -2422,13 +2422,13 @@
             ],
             "edges": [
                 {
-                    "size": 74160928
+                    "size": 74169056
                 },
                 {
-                    "size": 12581061
+                    "size": 12581461
                 },
                 {
-                    "size": 3606971
+                    "size": 3608533
                 },
                 {
                     "size": 2929158
@@ -2437,7 +2437,7 @@
                     "size": 1961615
                 },
                 {
-                    "size": 1266530
+                    "size": 1266972
                 },
                 {
                     "size": 1172315
