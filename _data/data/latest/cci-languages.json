@@ -1491,7 +1491,7 @@
     "LLNL/spotfe": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 7817537,
+            "totalSize": 7817722,
             "nodes": [
                 {
                     "name": "JavaScript",
@@ -1528,7 +1528,7 @@
             ],
             "edges": [
                 {
-                    "size": 7621254
+                    "size": 7621439
                 },
                 {
                     "size": 72629
@@ -1557,7 +1557,7 @@
     "LLNL/sundials": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 10401744,
+            "totalSize": 10421444,
             "nodes": [
                 {
                     "name": "C",
@@ -1602,7 +1602,7 @@
             ],
             "edges": [
                 {
-                    "size": 7030935
+                    "size": 7050612
                 },
                 {
                     "size": 1475083
@@ -1611,7 +1611,7 @@
                     "size": 800725
                 },
                 {
-                    "size": 481545
+                    "size": 481568
                 },
                 {
                     "size": 191120
@@ -2197,7 +2197,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18432153,
+            "totalSize": 18441433,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,7 +2274,7 @@
             ],
             "edges": [
                 {
-                    "size": 18085833
+                    "size": 18095113
                 },
                 {
                     "size": 191186
