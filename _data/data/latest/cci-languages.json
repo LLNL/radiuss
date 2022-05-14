@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 8828990,
+            "totalSize": 8892405,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,13 +655,13 @@
             ],
             "edges": [
                 {
-                    "size": 7545257
+                    "size": 7608013
                 },
                 {
                     "size": 530184
                 },
                 {
-                    "size": 336575
+                    "size": 337234
                 },
                 {
                     "size": 175220
@@ -950,7 +950,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 2902767,
+            "totalSize": 2942245,
             "nodes": [
                 {
                     "name": "C++",
@@ -983,10 +983,10 @@
             ],
             "edges": [
                 {
-                    "size": 2798827
+                    "size": 2838235
                 },
                 {
-                    "size": 51622
+                    "size": 51692
                 },
                 {
                     "size": 34251
@@ -2123,8 +2123,8 @@
     },
     "mfem/mfem": {
         "languages": {
-            "totalCount": 9,
-            "totalSize": 13530388,
+            "totalCount": 10,
+            "totalSize": 13533496,
             "nodes": [
                 {
                     "name": "C++",
@@ -2159,19 +2159,23 @@
                     "color": "#0298c3"
                 },
                 {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
                     "name": "Python",
                     "color": "#3572A5"
                 }
             ],
             "edges": [
                 {
-                    "size": 13031557
+                    "size": 13031933
                 },
                 {
-                    "size": 217270
+                    "size": 218478
                 },
                 {
-                    "size": 119414
+                    "size": 119929
                 },
                 {
                     "size": 75239
@@ -2189,6 +2193,9 @@
                     "size": 6930
                 },
                 {
+                    "size": 1009
+                },
+                {
                     "size": 383
                 }
             ]
@@ -2197,7 +2204,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18447797,
+            "totalSize": 18467366,
             "nodes": [
                 {
                     "name": "Python",
@@ -2274,16 +2281,16 @@
             ],
             "edges": [
                 {
-                    "size": 18101477
+                    "size": 18120014
                 },
                 {
-                    "size": 191186
+                    "size": 191129
                 },
                 {
                     "size": 50037
                 },
                 {
-                    "size": 45229
+                    "size": 46318
                 },
                 {
                     "size": 13373
