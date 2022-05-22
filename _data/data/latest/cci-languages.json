@@ -891,7 +891,7 @@
     "LLNL/hatchet": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 1615884,
+            "totalSize": 1615931,
             "nodes": [
                 {
                     "name": "JavaScript",
@@ -927,7 +927,7 @@
                     "size": 1090975
                 },
                 {
-                    "size": 480035
+                    "size": 480082
                 },
                 {
                     "size": 35169
@@ -2218,7 +2218,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18524712,
+            "totalSize": 18526381,
             "nodes": [
                 {
                     "name": "Python",
@@ -2295,7 +2295,7 @@
             ],
             "edges": [
                 {
-                    "size": 18172030
+                    "size": 18173699
                 },
                 {
                     "size": 191116
