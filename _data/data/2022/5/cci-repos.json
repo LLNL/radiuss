@@ -103,7 +103,7 @@
             "totalCount": 1858
         },
         "issues_Open": {
-            "totalCount": 414
+            "totalCount": 415
         },
         "issues_Closed": {
             "totalCount": 1853
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 170
+            "totalCount": 171
         },
         "mentionableUsers": {
             "totalCount": 64
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 933
+            "totalCount": 935
         },
         "mentionableUsers": {
-            "totalCount": 486
+            "totalCount": 487
         },
         "forks": {
-            "totalCount": 329
+            "totalCount": 331
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 99
+            "totalCount": 100
         },
         "pullRequests_Closed": {
             "totalCount": 198
@@ -1803,7 +1803,7 @@
             "totalCount": 1140
         },
         "issues_Open": {
-            "totalCount": 75
+            "totalCount": 77
         },
         "issues_Closed": {
             "totalCount": 1436
@@ -1836,7 +1836,7 @@
             "totalCount": 1108
         },
         "forks": {
-            "totalCount": 1519
+            "totalCount": 1518
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 478
+            "totalCount": 477
         },
         "pullRequests_Closed": {
             "totalCount": 2485
         },
         "pullRequests_Merged": {
-            "totalCount": 21423
+            "totalCount": 21425
         },
         "issues_Open": {
-            "totalCount": 1776
+            "totalCount": 1777
         },
         "issues_Closed": {
             "totalCount": 4507
