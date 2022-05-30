@@ -1041,6 +1041,11 @@
                     "name": "v1.1.8",
                     "publishedAt": "2020-06-11T16:35:41Z",
                     "tagName": "v1.1.8"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2022-05-29T04:18:31Z",
+                    "tagName": "v1.1.9"
                 }
             ]
         }
