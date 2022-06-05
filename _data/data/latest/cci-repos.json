@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 101
+            "totalCount": 102
         },
         "mentionableUsers": {
             "totalCount": 36
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 171
+            "totalCount": 172
         },
         "mentionableUsers": {
             "totalCount": 64
@@ -378,10 +378,10 @@
             "totalCount": 296
         },
         "issues_Open": {
-            "totalCount": 98
+            "totalCount": 97
         },
         "issues_Closed": {
-            "totalCount": 219
+            "totalCount": 220
         }
     },
     "LLNL/axom": {
@@ -1253,7 +1253,7 @@
             "totalCount": 766
         },
         "issues_Open": {
-            "totalCount": 126
+            "totalCount": 127
         },
         "issues_Closed": {
             "totalCount": 225
@@ -1439,10 +1439,10 @@
             "name": "master"
         },
         "licenseInfo": {
-            "name": "Other",
+            "name": "Apache License 2.0",
             "nickname": null,
-            "spdxId": "NOASSERTION",
-            "url": "http://choosealicense.com/licenses/other/"
+            "spdxId": "Apache-2.0",
+            "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
             "totalCount": 2
@@ -1494,10 +1494,10 @@
             "name": "master"
         },
         "licenseInfo": {
-            "name": "Other",
+            "name": "Apache License 2.0",
             "nickname": null,
-            "spdxId": "NOASSERTION",
-            "url": "http://choosealicense.com/licenses/other/"
+            "spdxId": "Apache-2.0",
+            "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
             "totalCount": 4
@@ -1549,10 +1549,10 @@
             "name": "master"
         },
         "licenseInfo": {
-            "name": "Other",
+            "name": "Apache License 2.0",
             "nickname": null,
-            "spdxId": "NOASSERTION",
-            "url": "http://choosealicense.com/licenses/other/"
+            "spdxId": "Apache-2.0",
+            "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
             "totalCount": 6
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 533
+            "totalCount": 534
         },
         "mentionableUsers": {
             "totalCount": 32
         },
         "forks": {
-            "totalCount": 97
+            "totalCount": 98
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1775,10 +1775,10 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 933
+            "totalCount": 932
         },
         "mentionableUsers": {
-            "totalCount": 490
+            "totalCount": 492
         },
         "forks": {
             "totalCount": 335
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 2697
+            "totalCount": 2699
         },
         "mentionableUsers": {
             "totalCount": 1115
@@ -1852,16 +1852,16 @@
             "totalCount": 485
         },
         "pullRequests_Closed": {
-            "totalCount": 2503
+            "totalCount": 2504
         },
         "pullRequests_Merged": {
-            "totalCount": 21573
+            "totalCount": 21577
         },
         "issues_Open": {
-            "totalCount": 1775
+            "totalCount": 1776
         },
         "issues_Closed": {
-            "totalCount": 4540
+            "totalCount": 4542
         }
     },
     "visit-dav/visit": {
@@ -1885,7 +1885,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 233
+            "totalCount": 234
         },
         "mentionableUsers": {
             "totalCount": 55
@@ -1904,13 +1904,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 81
         },
         "pullRequests_Merged": {
-            "totalCount": 1914
+            "totalCount": 1915
         },
         "issues_Open": {
             "totalCount": 1639
