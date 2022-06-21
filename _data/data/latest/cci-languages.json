@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9065229,
+            "totalSize": 9093348,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,10 +655,10 @@
             ],
             "edges": [
                 {
-                    "size": 7769465
+                    "size": 7793821
                 },
                 {
-                    "size": 530364
+                    "size": 533652
                 },
                 {
                     "size": 346786
@@ -673,7 +673,7 @@
                     "size": 77107
                 },
                 {
-                    "size": 23585
+                    "size": 24060
                 },
                 {
                     "size": 18923
@@ -950,7 +950,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3087342,
+            "totalSize": 3092011,
             "nodes": [
                 {
                     "name": "C++",
@@ -991,7 +991,7 @@
             ],
             "edges": [
                 {
-                    "size": 2912559
+                    "size": 2917234
                 },
                 {
                     "size": 57821
@@ -1000,7 +1000,7 @@
                     "size": 54481
                 },
                 {
-                    "size": 31943
+                    "size": 31937
                 },
                 {
                     "size": 17331
@@ -1811,7 +1811,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9776257,
+            "totalSize": 9778952,
             "nodes": [
                 {
                     "name": "C",
@@ -1864,7 +1864,7 @@
             ],
             "edges": [
                 {
-                    "size": 7381173
+                    "size": 7383817
                 },
                 {
                     "size": 1144910
@@ -1876,7 +1876,7 @@
                     "size": 162958
                 },
                 {
-                    "size": 133239
+                    "size": 133290
                 },
                 {
                     "size": 100700
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 18869055,
+            "totalSize": 18882879,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,13 +2306,13 @@
             ],
             "edges": [
                 {
-                    "size": 18511071
+                    "size": 18523600
                 },
                 {
                     "size": 191039
                 },
                 {
-                    "size": 55094
+                    "size": 56389
                 },
                 {
                     "size": 50037
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98205336,
+            "totalSize": 98211614,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,13 +2457,13 @@
             ],
             "edges": [
                 {
-                    "size": 74261886
+                    "size": 74266722
                 },
                 {
                     "size": 12585983
                 },
                 {
-                    "size": 3640662
+                    "size": 3641778
                 },
                 {
                     "size": 2929610
@@ -2472,10 +2472,10 @@
                     "size": 1709844
                 },
                 {
-                    "size": 1270504
+                    "size": 1270695
                 },
                 {
-                    "size": 1199562
+                    "size": 1199710
                 },
                 {
                     "size": 435101
@@ -2490,7 +2490,7 @@
                     "size": 15820
                 },
                 {
-                    "size": 8566
+                    "size": 8553
                 },
                 {
                     "size": 4607
