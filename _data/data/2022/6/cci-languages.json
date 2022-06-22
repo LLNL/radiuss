@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9093348,
+            "totalSize": 9390677,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,16 +655,16 @@
             ],
             "edges": [
                 {
-                    "size": 7793821
+                    "size": 8086095
                 },
                 {
                     "size": 533652
                 },
                 {
-                    "size": 346786
+                    "size": 351788
                 },
                 {
-                    "size": 176573
+                    "size": 176626
                 },
                 {
                     "size": 115337
@@ -950,7 +950,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3092011,
+            "totalSize": 3102738,
             "nodes": [
                 {
                     "name": "C++",
@@ -991,7 +991,7 @@
             ],
             "edges": [
                 {
-                    "size": 2917234
+                    "size": 2927961
                 },
                 {
                     "size": 57821
@@ -1651,7 +1651,7 @@
     "LLNL/zfp": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1830172,
+            "totalSize": 1832671,
             "nodes": [
                 {
                     "name": "C++",
@@ -1692,16 +1692,16 @@
             ],
             "edges": [
                 {
-                    "size": 809895
+                    "size": 810491
                 },
                 {
-                    "size": 755672
+                    "size": 757555
                 },
                 {
                     "size": 106006
                 },
                 {
-                    "size": 61964
+                    "size": 61984
                 },
                 {
                     "size": 45406
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28397019,
+            "totalSize": 28398023,
             "nodes": [
                 {
                     "name": "C",
@@ -2095,7 +2095,7 @@
             ],
             "edges": [
                 {
-                    "size": 20156192
+                    "size": 20157196
                 },
                 {
                     "size": 3446385
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 18882879,
+            "totalSize": 18884343,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 18523600
+                    "size": 18525064
                 },
                 {
                     "size": 191039
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98211614,
+            "totalSize": 98243303,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,25 +2457,25 @@
             ],
             "edges": [
                 {
-                    "size": 74266722
+                    "size": 74294385
                 },
                 {
-                    "size": 12585983
+                    "size": 12587549
                 },
                 {
-                    "size": 3641778
+                    "size": 3641770
                 },
                 {
-                    "size": 2929610
+                    "size": 2931583
                 },
                 {
-                    "size": 1709844
+                    "size": 1709848
                 },
                 {
-                    "size": 1270695
+                    "size": 1271134
                 },
                 {
-                    "size": 1199710
+                    "size": 1199762
                 },
                 {
                     "size": 435101
