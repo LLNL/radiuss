@@ -21,8 +21,8 @@
   --color-asphalt: #34495e;
   --color-asphalt-dark: #22303d;
   --color-asphalt-light: #46637f;
-  --scene-background-color: #005dab;
-  --scene-background-falloff: #05355e;
+  --scene-background-color: #FFFFFF;
+  --scene-background-falloff: #F8F8F8;
 }
 
 .red {

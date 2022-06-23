@@ -5,7 +5,7 @@ layout: heartbeat-default
 {% assign types =  site.events | map: 'event_type' | join: ','  | split: ',' | uniq %}
   <ul>
     <li style="padding-top:8px">Filters:</li>{% for type in types %}
-    <li><a class="button {{ type | replace: 'Event', '' }} filter-{{ type | replace: 'Event', '' }}" href="#">{{ type | replace: 'Event', '' }}</a></li>{% endfor %}
+    <li><a style="color:rgb(26,25,25)" class="button {{ type | replace: 'Event', '' }} filter-{{ type | replace: 'Event', '' }}" href="#">{{ type | replace: 'Event', '' }}</a></li>{% endfor %}
     <li><a class="button reset filter-reset" href="#">reset</a></li>
   </ul>
   {% include browse.html %}
