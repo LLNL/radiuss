@@ -225,11 +225,11 @@ article {
 
 .site-footer {
    padding: 60px;
-   color: white;
+   color: rgb(26,25,25);
 }
 
 .site-footer a {
-  color: white;
+  color: rgb(26,25,25);
 }
 
 .flex-grid {
