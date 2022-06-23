@@ -6,7 +6,7 @@ layout: heartbeat-default
   <ul>
     <li style="padding-top:8px">Filters:</li>{% for type in types %}
     <li><a style="color:rgb(26,25,25)" class="button {{ type | replace: 'Event', '' }} filter-{{ type | replace: 'Event', '' }}" href="#">{{ type | replace: 'Event', '' }}</a></li>{% endfor %}
-    <li><a class="button reset filter-reset" href="#">reset</a></li>
+    <li><a style="color:rgb(26,25,25)" class="button reset filter-reset" href="#">reset</a></li>
   </ul>
   {% include browse.html %}
 </nav>
