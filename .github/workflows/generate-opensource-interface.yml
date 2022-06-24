@@ -30,8 +30,7 @@ jobs:
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
           git branch
-          git add docs/*
-          git add docs/_events/*
+          git add _events/*
 
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
