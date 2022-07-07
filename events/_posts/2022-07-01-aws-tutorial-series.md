@@ -1,11 +1,12 @@
 ---
 layout: page
 title: RADIUSS AWS Tutorials - August 2022
-permalink: /tutorials-summer-2022/
-graph: true
 ---
 
-Come and learn how to use some LLNL software in the cloud this summer. In August, we will be hosting a series of tutorials in collaboration with AWS, showing you how to install and use these projects on AWS EC2 instances. No previous experience necessary, sign up and learn with us.
+Come and learn how to use some LLNL software in the cloud this summer. In
+August, we will be hosting a series of tutorials in collaboration with AWS,
+showing you how to install and use these projects on AWS EC2 instances. No
+previous experience necessary, sign up and learn with us.
 
 [Sign Up!](#) form coming soon.
 
