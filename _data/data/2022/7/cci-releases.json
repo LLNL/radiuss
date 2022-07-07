@@ -2319,6 +2319,11 @@
                     "name": "v3.2.2",
                     "publishedAt": "2022-01-31T17:13:41Z",
                     "tagName": "v3.2.2"
+                },
+                {
+                    "name": "v3.3.0",
+                    "publishedAt": "2022-07-07T00:33:08Z",
+                    "tagName": "v3.3.0"
                 }
             ]
         }

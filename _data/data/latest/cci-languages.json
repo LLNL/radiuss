@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9488761,
+            "totalSize": 9488774,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,7 +655,7 @@
             ],
             "edges": [
                 {
-                    "size": 8154708
+                    "size": 8154721
                 },
                 {
                     "size": 535866
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28540216,
+            "totalSize": 28540930,
             "nodes": [
                 {
                     "name": "C",
@@ -2116,7 +2116,7 @@
                     "size": 95436
                 },
                 {
-                    "size": 63038
+                    "size": 63752
                 },
                 {
                     "size": 36177
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 18968159,
+            "totalSize": 18976196,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,10 +2306,10 @@
             ],
             "edges": [
                 {
-                    "size": 18609764
+                    "size": 18617634
                 },
                 {
-                    "size": 191039
+                    "size": 191206
                 },
                 {
                     "size": 55398
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98261224,
+            "totalSize": 98261540,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,7 +2457,7 @@
             ],
             "edges": [
                 {
-                    "size": 74303906
+                    "size": 74304222
                 },
                 {
                     "size": 12589305
