@@ -82,6 +82,6 @@ label[for='checkbox-tagify-show-input'] + input:checked ~ textaragifyea{
 <body>
 {{ content }}
 
-{% include footer.html %}
+{% unless page.no_footer %}{% include footer.html %}{% endunless %}
 </body>
 </html>
