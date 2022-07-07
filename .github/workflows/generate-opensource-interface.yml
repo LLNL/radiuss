@@ -1,0 +1,45 @@
+name: opensource-heartbeat
+
+on:
+  # nightly at 4:30am
+  schedule:   
+    - cron: 30 4 * * *
+
+jobs:
+  Update:
+    name: Generate Open Source HeartBeat Interface
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Open Source Heartbeat
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+           pip install requests pyyaml
+           # Clean up previous events
+           rm -rf _events/
+           mkdir -p _events/
+           python scripts/generate-events.py           
+
+      - name: Push to main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          git branch
+          git add _events/*
+
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git status
+
+          if git diff-index --quiet HEAD --; then
+             printf "No changes\n"
+          else
+             printf "Changes\n"
+             git commit -a -m "Automated deployment to update events $(date '+%Y-%m-%d')"
+             git push origin main
+          fi

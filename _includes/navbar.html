@@ -17,6 +17,8 @@
       </li>
       <li class="events">
         <a {% if page.url == "/events/" %}class="active"{% endif %} href="{{ site.baseurl }}/events/">Events</a>
+      <li class="activity">
+        <a {% if page.url contains: "/activity/" %}class="active"{% endif %} target="_blank" href="{{ site.baseurl }}/activity/">Activity <i style="font-size:12px;margin-left:2px;" class="fa fa-external-link"></i></a>
       </li>
       <li class="community">
         <a href="https://software.llnl.gov/" target="_blank">LLNL OpenSource <i style="font-size:12px;margin-left:2px;" class="fa fa-external-link"></i></a>
