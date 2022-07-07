@@ -10,7 +10,7 @@ August, we will be hosting a series of tutorials in collaboration with AWS,
 showing you how to install and use these projects on AWS EC2 instances. No
 previous experience necessary, sign up and learn with us.
 
-[Sign Up!](#) form coming soon.
+[Sign Up!](https://forms.gle/3wAKK5PBizUiNaVg6)
 
 # Schedule
 
