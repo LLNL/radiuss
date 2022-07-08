@@ -174,9 +174,6 @@ body{
     padding:0;
     -webkit-font-smoothing:antialiased
 }
-.container{
-    overflow-x:hidden
-}
 h1,h2,h3,h4,h5,h6{
     color:#444;
     font-family:"Google Sans",sans-serif;
