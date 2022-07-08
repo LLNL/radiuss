@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9488774,
+            "totalSize": 9503884,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,22 +655,22 @@
             ],
             "edges": [
                 {
-                    "size": 8154721
+                    "size": 8156460
                 },
                 {
                     "size": 535866
                 },
                 {
-                    "size": 344949
+                    "size": 346215
                 },
                 {
-                    "size": 176862
+                    "size": 189010
                 },
                 {
                     "size": 115337
                 },
                 {
-                    "size": 77534
+                    "size": 77491
                 },
                 {
                     "size": 57493
@@ -1023,7 +1023,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 9753892,
+            "totalSize": 9754343,
             "nodes": [
                 {
                     "name": "C++",
@@ -1063,7 +1063,7 @@
                     "size": 6676888
                 },
                 {
-                    "size": 2015698
+                    "size": 2016149
                 },
                 {
                     "size": 644295
@@ -1811,7 +1811,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 9801027,
+            "totalSize": 9806259,
             "nodes": [
                 {
                     "name": "C",
@@ -1864,10 +1864,10 @@
             ],
             "edges": [
                 {
-                    "size": 7399537
+                    "size": 7403422
                 },
                 {
-                    "size": 1151306
+                    "size": 1151892
                 },
                 {
                     "size": 764996
@@ -1876,7 +1876,7 @@
                     "size": 162958
                 },
                 {
-                    "size": 133245
+                    "size": 134006
                 },
                 {
                     "size": 100700
@@ -2145,7 +2145,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 13746302,
+            "totalSize": 13747580,
             "nodes": [
                 {
                     "name": "C++",
@@ -2190,7 +2190,7 @@
             ],
             "edges": [
                 {
-                    "size": 13234780
+                    "size": 13236058
                 },
                 {
                     "size": 223944
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 18976196,
+            "totalSize": 18910727,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,10 +2306,10 @@
             ],
             "edges": [
                 {
-                    "size": 18617634
+                    "size": 18553714
                 },
                 {
-                    "size": 191206
+                    "size": 190355
                 },
                 {
                     "size": 55398
@@ -2324,7 +2324,7 @@
                     "size": 10131
                 },
                 {
-                    "size": 10006
+                    "size": 9308
                 },
                 {
                     "size": 8907
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98261540,
+            "totalSize": 98261402,
             "nodes": [
                 {
                     "name": "C",
@@ -2475,7 +2475,7 @@
                     "size": 1274338
                 },
                 {
-                    "size": 1202393
+                    "size": 1202255
                 },
                 {
                     "size": 435101
