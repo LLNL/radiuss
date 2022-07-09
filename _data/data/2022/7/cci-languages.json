@@ -950,7 +950,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3166927,
+            "totalSize": 3166920,
             "nodes": [
                 {
                     "name": "C++",
@@ -991,13 +991,13 @@
             ],
             "edges": [
                 {
-                    "size": 2982652
+                    "size": 2982402
                 },
                 {
                     "size": 57821
                 },
                 {
-                    "size": 56516
+                    "size": 56759
                 },
                 {
                     "size": 33891
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28540930,
+            "totalSize": 28548784,
             "nodes": [
                 {
                     "name": "C",
@@ -2095,10 +2095,10 @@
             ],
             "edges": [
                 {
-                    "size": 20221477
+                    "size": 20226892
                 },
                 {
-                    "size": 3520713
+                    "size": 3523152
                 },
                 {
                     "size": 3362673
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 18910727,
+            "totalSize": 18911181,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 18553714
+                    "size": 18554168
                 },
                 {
                     "size": 190355
