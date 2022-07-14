@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 11635991,
+            "totalSize": 11443082,
             "nodes": [
                 {
                     "name": "C++",
@@ -21,12 +21,12 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "JavaScript",
-                    "color": "#f1e05a"
-                },
-                {
                     "name": "CMake",
                     "color": "#DA3434"
+                },
+                {
+                    "name": "JavaScript",
+                    "color": "#f1e05a"
                 },
                 {
                     "name": "C",
@@ -67,10 +67,10 @@
                     "size": 373085
                 },
                 {
-                    "size": 304482
+                    "size": 217547
                 },
                 {
-                    "size": 217547
+                    "size": 111573
                 },
                 {
                     "size": 88819
@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9503884,
+            "totalSize": 9504045,
             "nodes": [
                 {
                     "name": "C++",
@@ -661,16 +661,16 @@
                     "size": 535866
                 },
                 {
-                    "size": 346215
+                    "size": 346355
                 },
                 {
-                    "size": 189010
+                    "size": 189030
                 },
                 {
                     "size": 115337
                 },
                 {
-                    "size": 77491
+                    "size": 77492
                 },
                 {
                     "size": 57493
@@ -1810,8 +1810,8 @@
     },
     "flux-framework/flux-core": {
         "languages": {
-            "totalCount": 12,
-            "totalSize": 9832495,
+            "totalCount": 11,
+            "totalSize": 9830891,
             "nodes": [
                 {
                     "name": "C",
@@ -1856,15 +1856,11 @@
                 {
                     "name": "Perl",
                     "color": "#0298c3"
-                },
-                {
-                    "name": "Raku",
-                    "color": "#0000fb"
                 }
             ],
             "edges": [
                 {
-                    "size": 7424821
+                    "size": 7423217
                 },
                 {
                     "size": 1156623
@@ -1894,10 +1890,7 @@
                     "size": 10804
                 },
                 {
-                    "size": 8750
-                },
-                {
-                    "size": 429
+                    "size": 9179
                 }
             ]
         }
@@ -2145,7 +2138,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 13756603,
+            "totalSize": 13757430,
             "nodes": [
                 {
                     "name": "C++",
@@ -2190,7 +2183,7 @@
             ],
             "edges": [
                 {
-                    "size": 13245278
+                    "size": 13246105
                 },
                 {
                     "size": 223944
@@ -2224,8 +2217,8 @@
     },
     "spack/spack": {
         "languages": {
-            "totalCount": 19,
-            "totalSize": 18921826,
+            "totalCount": 18,
+            "totalSize": 18943319,
             "nodes": [
                 {
                     "name": "Python",
@@ -2260,6 +2253,10 @@
                     "color": "#C1F12E"
                 },
                 {
+                    "name": "C++",
+                    "color": "#f34b7d"
+                },
+                {
                     "name": "PowerShell",
                     "color": "#012456"
                 },
@@ -2280,14 +2277,6 @@
                     "color": null
                 },
                 {
-                    "name": "PHP",
-                    "color": "#4F5D95"
-                },
-                {
-                    "name": "C++",
-                    "color": "#f34b7d"
-                },
-                {
                     "name": "HTML",
                     "color": "#e34c26"
                 },
@@ -2300,13 +2289,13 @@
                     "color": "#4d41b1"
                 },
                 {
-                    "name": "Rascal",
-                    "color": "#fffaa0"
+                    "name": "RouterOS Script",
+                    "color": "#DE3941"
                 }
             ],
             "edges": [
                 {
-                    "size": 18564813
+                    "size": 18586306
                 },
                 {
                     "size": 190355
@@ -2330,6 +2319,9 @@
                     "size": 8907
                 },
                 {
+                    "size": 3916
+                },
+                {
                     "size": 2943
                 },
                 {
@@ -2343,12 +2335,6 @@
                 },
                 {
                     "size": 2111
-                },
-                {
-                    "size": 2106
-                },
-                {
-                    "size": 1810
                 },
                 {
                     "size": 1619
@@ -2368,7 +2354,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98261402,
+            "totalSize": 98264981,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,7 +2443,7 @@
             ],
             "edges": [
                 {
-                    "size": 74304222
+                    "size": 74304592
                 },
                 {
                     "size": 12589305
@@ -2469,13 +2455,13 @@
                     "size": 2932223
                 },
                 {
-                    "size": 1710152
+                    "size": 1711677
                 },
                 {
-                    "size": 1274338
+                    "size": 1274953
                 },
                 {
-                    "size": 1202255
+                    "size": 1203324
                 },
                 {
                     "size": 435101

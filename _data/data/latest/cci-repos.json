@@ -45,7 +45,7 @@
             "totalCount": 49
         },
         "pullRequests_Merged": {
-            "totalCount": 563
+            "totalCount": 564
         },
         "issues_Open": {
             "totalCount": 110
@@ -87,7 +87,7 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 12
+            "totalCount": 11
         },
         "repositoryTopics": {
             "totalCount": 4
@@ -100,7 +100,7 @@
             "totalCount": 149
         },
         "pullRequests_Merged": {
-            "totalCount": 1894
+            "totalCount": 1895
         },
         "issues_Open": {
             "totalCount": 413
@@ -243,7 +243,7 @@
             "totalCount": 27
         },
         "mentionableUsers": {
-            "totalCount": 80
+            "totalCount": 81
         },
         "forks": {
             "totalCount": 4
@@ -369,7 +369,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 19
@@ -424,16 +424,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 27
         },
         "pullRequests_Merged": {
-            "totalCount": 486
+            "totalCount": 487
         },
         "issues_Open": {
-            "totalCount": 121
+            "totalCount": 122
         },
         "issues_Closed": {
             "totalCount": 218
@@ -809,7 +809,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 1
@@ -1029,7 +1029,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 31
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 104
+            "totalCount": 103
         },
         "pullRequests_Closed": {
             "totalCount": 209
         },
         "pullRequests_Merged": {
-            "totalCount": 1165
+            "totalCount": 1167
         },
         "issues_Open": {
             "totalCount": 70
@@ -1830,38 +1830,38 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 2765
+            "totalCount": 2808
         },
         "mentionableUsers": {
             "totalCount": 1137
         },
         "forks": {
-            "totalCount": 1556
+            "totalCount": 1557
         },
         "primaryLanguage": {
             "name": "Python"
         },
         "languages": {
-            "totalCount": 19
+            "totalCount": 18
         },
         "repositoryTopics": {
             "totalCount": 9
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 501
+            "totalCount": 496
         },
         "pullRequests_Closed": {
-            "totalCount": 2533
+            "totalCount": 2537
         },
         "pullRequests_Merged": {
-            "totalCount": 21971
+            "totalCount": 21986
         },
         "issues_Open": {
-            "totalCount": 1836
+            "totalCount": 1842
         },
         "issues_Closed": {
-            "totalCount": 4589
+            "totalCount": 4593
         }
     },
     "visit-dav/visit": {
@@ -1904,19 +1904,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 85
         },
         "pullRequests_Merged": {
-            "totalCount": 1971
+            "totalCount": 1977
         },
         "issues_Open": {
-            "totalCount": 1662
+            "totalCount": 1659
         },
         "issues_Closed": {
-            "totalCount": 2984
+            "totalCount": 2987
         }
     },
     "XBraid/xbraid": {
