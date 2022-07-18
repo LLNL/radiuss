@@ -9,7 +9,7 @@ tags: [tutorial, event]
 
 Join us this summer as we host a series of tutorials in collaboration with AWS, demonstrating how to use several GPU-ready projects in the cloud and on premises. Follow along on your own EC2 instance (provided). No previous experience necessary.
 
-Collaborate with us on [**RADIUSS Slack**](https://radiuss-llnl.slack.com) and [**download the flier**]({{ site.baseurl }}/assets/posts/tutorial/2022-07-07-radiuss-on-aws/RADIUSS_tutorials_flier_final.pdf) (127 KB PDF) to share with your colleagues.
+Collaborate with us on [**RADIUSS Slack**](https://radiuss-llnl.slack.com) and [**download the flier**]({{ site.baseurl }}/assets/posts/tutorial/2022-07-07-radiuss-on-aws/RADIUSS_tutorials_flier_final.pdf) (127 KB PDF) to share with your colleagues. Feel free to [**email us**](mailto:radiuss-outreach@llnl.gov) with any questions.
 
 ## We're offering seven tutorials in August
 
