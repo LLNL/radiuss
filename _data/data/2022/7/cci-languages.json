@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2317983,
+            "totalSize": 2317896,
             "nodes": [
                 {
                     "name": "C++",
@@ -349,7 +349,7 @@
             ],
             "edges": [
                 {
-                    "size": 1647020
+                    "size": 1646933
                 },
                 {
                     "size": 281176
@@ -804,7 +804,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 8709429,
+            "totalSize": 8709422,
             "nodes": [
                 {
                     "name": "C++",
@@ -853,7 +853,7 @@
             ],
             "edges": [
                 {
-                    "size": 7046695
+                    "size": 7046688
                 },
                 {
                     "size": 874944
@@ -2354,7 +2354,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98272400,
+            "totalSize": 98273227,
             "nodes": [
                 {
                     "name": "C",
@@ -2443,7 +2443,7 @@
             ],
             "edges": [
                 {
-                    "size": 74310513
+                    "size": 74311211
                 },
                 {
                     "size": 12590379
@@ -2458,7 +2458,7 @@
                     "size": 1711677
                 },
                 {
-                    "size": 1275377
+                    "size": 1275506
                 },
                 {
                     "size": 1203324
