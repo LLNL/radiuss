@@ -2248,6 +2248,16 @@
                     "name": "v0.18.0",
                     "publishedAt": "2022-05-28T15:59:37Z",
                     "tagName": "v0.18.0"
+                },
+                {
+                    "name": "v0.17.3",
+                    "publishedAt": "2022-07-20T06:41:10Z",
+                    "tagName": "v0.17.3"
+                },
+                {
+                    "name": "v0.18.1",
+                    "publishedAt": "2022-07-20T17:12:57Z",
+                    "tagName": "v0.18.1"
                 }
             ]
         }
