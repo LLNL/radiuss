@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 108
+            "totalCount": 109
         },
         "mentionableUsers": {
             "totalCount": 37
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 103
+            "totalCount": 104
         },
         "mentionableUsers": {
             "totalCount": 25
@@ -405,7 +405,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 89
+            "totalCount": 90
         },
         "mentionableUsers": {
             "totalCount": 53
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 185
+            "totalCount": 186
         },
         "mentionableUsers": {
             "totalCount": 47
@@ -485,13 +485,13 @@
             "totalCount": 26
         },
         "pullRequests_Merged": {
-            "totalCount": 332
+            "totalCount": 333
         },
         "issues_Open": {
             "totalCount": 101
         },
         "issues_Closed": {
-            "totalCount": 124
+            "totalCount": 125
         }
     },
     "LLNL/b-mpi3": {
@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 236
+            "totalCount": 237
         },
         "mentionableUsers": {
             "totalCount": 29
@@ -1225,7 +1225,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 327
+            "totalCount": 328
         },
         "mentionableUsers": {
             "totalCount": 58
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 961
+            "totalCount": 962
         },
         "mentionableUsers": {
-            "totalCount": 503
+            "totalCount": 505
         },
         "forks": {
-            "totalCount": 338
+            "totalCount": 339
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 103
+            "totalCount": 102
         },
         "pullRequests_Closed": {
             "totalCount": 209
         },
         "pullRequests_Merged": {
-            "totalCount": 1168
+            "totalCount": 1169
         },
         "issues_Open": {
-            "totalCount": 72
+            "totalCount": 67
         },
         "issues_Closed": {
-            "totalCount": 1472
+            "totalCount": 1478
         }
     },
     "spack/spack": {
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 537
+            "totalCount": 538
         },
         "pullRequests_Closed": {
             "totalCount": 2547
         },
         "pullRequests_Merged": {
-            "totalCount": 22043
+            "totalCount": 22046
         },
         "issues_Open": {
-            "totalCount": 1860
+            "totalCount": 1859
         },
         "issues_Closed": {
-            "totalCount": 4602
+            "totalCount": 4603
         }
     },
     "visit-dav/visit": {
@@ -1913,7 +1913,7 @@
             "totalCount": 1998
         },
         "issues_Open": {
-            "totalCount": 1658
+            "totalCount": 1659
         },
         "issues_Closed": {
             "totalCount": 2995
