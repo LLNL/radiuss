@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/4768739?"
 user: jbschroder
-date: 2022-05-18
+date: 2022-08-01
 repo_name: XBraid/xbraid
-html_url: https://github.com/XBraid/xbraid/commit/b0fd250d019b5d9ed8a391cd23be4bb220e77aa5
+html_url: https://github.com/XBraid/xbraid/commit/e403abfaf27afaa54abf20ace7f7426e4ed88710
 repo_url: https://github.com/XBraid/xbraid
 ---
 
 <a href='https://github.com/jbschroder' target='_blank'>jbschroder</a> pushed to <a href='https://github.com/XBraid/xbraid' target='_blank'>XBraid/xbraid</a>
 
-<small>Fixing little communication thingy in Lorenz</small>
+<small>Updating viz-ex-02.py to work with current versions of scipy and numpy</small>
 
-<a href='https://github.com/XBraid/xbraid/commit/b0fd250d019b5d9ed8a391cd23be4bb220e77aa5' target='_blank'>View Commit</a>
+<a href='https://github.com/XBraid/xbraid/commit/e403abfaf27afaa54abf20ace7f7426e4ed88710' target='_blank'>View Commit</a>
