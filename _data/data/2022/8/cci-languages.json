@@ -613,7 +613,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9564483,
+            "totalSize": 9572328,
             "nodes": [
                 {
                     "name": "C++",
@@ -662,16 +662,16 @@
             ],
             "edges": [
                 {
-                    "size": 8214795
+                    "size": 8214827
                 },
                 {
                     "size": 535866
                 },
                 {
-                    "size": 348458
+                    "size": 356203
                 },
                 {
-                    "size": 189030
+                    "size": 189098
                 },
                 {
                     "size": 115337
@@ -1905,7 +1905,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2789381,
+            "totalSize": 2791067,
             "nodes": [
                 {
                     "name": "C++",
@@ -1946,7 +1946,7 @@
             ],
             "edges": [
                 {
-                    "size": 2024132
+                    "size": 2025818
                 },
                 {
                     "size": 519284
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 18974860,
+            "totalSize": 18983753,
             "nodes": [
                 {
                     "name": "Python",
@@ -2302,10 +2302,10 @@
             ],
             "edges": [
                 {
-                    "size": 18617801
+                    "size": 18626703
                 },
                 {
-                    "size": 190353
+                    "size": 190344
                 },
                 {
                     "size": 55398
@@ -2361,7 +2361,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98291287,
+            "totalSize": 98323625,
             "nodes": [
                 {
                     "name": "C",
@@ -2450,10 +2450,10 @@
             ],
             "edges": [
                 {
-                    "size": 74326720
+                    "size": 74326468
                 },
                 {
-                    "size": 12590999
+                    "size": 12590943
                 },
                 {
                     "size": 3642292
@@ -2462,13 +2462,13 @@
                     "size": 2932744
                 },
                 {
-                    "size": 1712097
+                    "size": 1720764
                 },
                 {
                     "size": 1276346
                 },
                 {
-                    "size": 1202817
+                    "size": 1226796
                 },
                 {
                     "size": 435101
