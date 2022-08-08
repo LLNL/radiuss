@@ -130,7 +130,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 50
+            "totalCount": 51
         },
         "mentionableUsers": {
             "totalCount": 25
@@ -353,7 +353,7 @@
             "totalCount": 399
         },
         "mentionableUsers": {
-            "totalCount": 40
+            "totalCount": 41
         },
         "forks": {
             "totalCount": 111
@@ -369,13 +369,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 21
         },
         "pullRequests_Closed": {
             "totalCount": 19
         },
         "pullRequests_Merged": {
-            "totalCount": 325
+            "totalCount": 326
         },
         "issues_Open": {
             "totalCount": 109
@@ -466,7 +466,7 @@
             "totalCount": 47
         },
         "forks": {
-            "totalCount": 47
+            "totalCount": 46
         },
         "primaryLanguage": {
             "name": "C++"
@@ -735,7 +735,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 118
+            "totalCount": 119
         },
         "mentionableUsers": {
             "totalCount": 48
@@ -864,13 +864,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 40
         },
         "pullRequests_Merged": {
-            "totalCount": 265
+            "totalCount": 266
         },
         "issues_Open": {
             "totalCount": 18
@@ -1803,7 +1803,7 @@
             "totalCount": 1176
         },
         "issues_Open": {
-            "totalCount": 68
+            "totalCount": 69
         },
         "issues_Closed": {
             "totalCount": 1486
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 556
+            "totalCount": 560
         },
         "pullRequests_Closed": {
             "totalCount": 2571
         },
         "pullRequests_Merged": {
-            "totalCount": 22216
+            "totalCount": 22217
         },
         "issues_Open": {
-            "totalCount": 1884
+            "totalCount": 1885
         },
         "issues_Closed": {
             "totalCount": 4626
@@ -1891,7 +1891,7 @@
             "totalCount": 56
         },
         "forks": {
-            "totalCount": 73
+            "totalCount": 74
         },
         "primaryLanguage": {
             "name": "C"
@@ -1913,7 +1913,7 @@
             "totalCount": 2008
         },
         "issues_Open": {
-            "totalCount": 1659
+            "totalCount": 1660
         },
         "issues_Closed": {
             "totalCount": 3003
