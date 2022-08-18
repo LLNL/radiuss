@@ -8679,6 +8679,10 @@
         {
             "date": "2022-06-27",
             "value": 1
+        },
+        {
+            "date": "2022-07-25",
+            "value": 2
         }
     ],
     "flux-framework/flux-sched": [
