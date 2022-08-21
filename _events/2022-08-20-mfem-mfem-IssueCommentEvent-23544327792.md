@@ -10,6 +10,6 @@ repo_url: https://github.com/mfem/mfem
 
 <a href='https://github.com/uvilla' target='_blank'>uvilla</a> commented on issue <a href='https://github.com/mfem/mfem/issues/3135' target='_blank'>mfem/mfem#3135</a>.
 
-<small>@tzanio The very first implementation of MINRES for MFEM was a direct porting of Saunder’s Matlab code:...</small>
+<small>Hi @huidong80, Is the number of iterations decreasing as the mesh gets finer?...</small>
 
 <a href='https://github.com/mfem/mfem/issues/3135' target='_blank'>View Comment</a>
