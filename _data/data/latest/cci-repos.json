@@ -378,10 +378,10 @@
             "totalCount": 333
         },
         "issues_Open": {
-            "totalCount": 110
+            "totalCount": 109
         },
         "issues_Closed": {
-            "totalCount": 238
+            "totalCount": 239
         }
     },
     "LLNL/axom": {
@@ -405,7 +405,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 88
+            "totalCount": 89
         },
         "mentionableUsers": {
             "totalCount": 55
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 546
+            "totalCount": 547
         },
         "mentionableUsers": {
             "totalCount": 33
@@ -1833,7 +1833,7 @@
             "totalCount": 2912
         },
         "mentionableUsers": {
-            "totalCount": 1147
+            "totalCount": 1148
         },
         "forks": {
             "totalCount": 1575
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 592
+            "totalCount": 591
         },
         "pullRequests_Closed": {
             "totalCount": 2600
         },
         "pullRequests_Merged": {
-            "totalCount": 22400
+            "totalCount": 22406
         },
         "issues_Open": {
-            "totalCount": 1916
+            "totalCount": 1918
         },
         "issues_Closed": {
-            "totalCount": 4651
+            "totalCount": 4652
         }
     },
     "visit-dav/visit": {
@@ -1885,7 +1885,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 252
+            "totalCount": 253
         },
         "mentionableUsers": {
             "totalCount": 56
@@ -1904,7 +1904,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 86
@@ -1913,7 +1913,7 @@
             "totalCount": 2024
         },
         "issues_Open": {
-            "totalCount": 1682
+            "totalCount": 1683
         },
         "issues_Closed": {
             "totalCount": 3009
