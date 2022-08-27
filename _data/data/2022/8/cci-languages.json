@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 11547673,
+            "totalSize": 11571318,
             "nodes": [
                 {
                     "name": "C++",
@@ -29,12 +29,12 @@
                     "color": "#f1e05a"
                 },
                 {
-                    "name": "C",
-                    "color": "#555555"
-                },
-                {
                     "name": "Shell",
                     "color": "#89e051"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
                 },
                 {
                     "name": "HTML",
@@ -64,7 +64,7 @@
                     "size": 456192
                 },
                 {
-                    "size": 399002
+                    "size": 422351
                 },
                 {
                     "size": 222378
@@ -73,10 +73,10 @@
                     "size": 111573
                 },
                 {
-                    "size": 88819
+                    "size": 88849
                 },
                 {
-                    "size": 88553
+                    "size": 88819
                 },
                 {
                     "size": 27373
@@ -1665,7 +1665,7 @@
     "LLNL/zfp": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1848018,
+            "totalSize": 1848573,
             "nodes": [
                 {
                     "name": "C++",
@@ -1712,7 +1712,7 @@
                     "size": 745870
                 },
                 {
-                    "size": 105851
+                    "size": 106406
                 },
                 {
                     "size": 61998
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9995268,
+            "totalSize": 10010392,
             "nodes": [
                 {
                     "name": "C",
@@ -1874,10 +1874,10 @@
             ],
             "edges": [
                 {
-                    "size": 7545504
+                    "size": 7558370
                 },
                 {
-                    "size": 1190903
+                    "size": 1192860
                 },
                 {
                     "size": 771128
@@ -1886,7 +1886,7 @@
                     "size": 162958
                 },
                 {
-                    "size": 135678
+                    "size": 135979
                 },
                 {
                     "size": 100700
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 19206186,
+            "totalSize": 19222959,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,13 +2309,13 @@
             ],
             "edges": [
                 {
-                    "size": 18846511
+                    "size": 18863101
                 },
                 {
                     "size": 190516
                 },
                 {
-                    "size": 57851
+                    "size": 58034
                 },
                 {
                     "size": 50037
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 99132677,
+            "totalSize": 99148227,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,10 +2457,10 @@
             ],
             "edges": [
                 {
-                    "size": 74990085
+                    "size": 75002833
                 },
                 {
-                    "size": 12664816
+                    "size": 12667197
                 },
                 {
                     "size": 3645575
@@ -2472,7 +2472,7 @@
                     "size": 1735321
                 },
                 {
-                    "size": 1280304
+                    "size": 1280725
                 },
                 {
                     "size": 1232963
