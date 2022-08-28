@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 11571318,
+            "totalSize": 11579303,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 9567351
+                    "size": 9575306
                 },
                 {
                     "size": 556587
@@ -67,7 +67,7 @@
                     "size": 422351
                 },
                 {
-                    "size": 222378
+                    "size": 222408
                 },
                 {
                     "size": 111573
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10010392,
+            "totalSize": 10024600,
             "nodes": [
                 {
                     "name": "C",
@@ -1874,10 +1874,10 @@
             ],
             "edges": [
                 {
-                    "size": 7558370
+                    "size": 7564034
                 },
                 {
-                    "size": 1192860
+                    "size": 1201372
                 },
                 {
                     "size": 771128
@@ -1886,7 +1886,7 @@
                     "size": 162958
                 },
                 {
-                    "size": 135979
+                    "size": 136011
                 },
                 {
                     "size": 100700
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 19222959,
+            "totalSize": 19223513,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 18863101
+                    "size": 18863655
                 },
                 {
                     "size": 190516
