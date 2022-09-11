@@ -10,6 +10,6 @@ repo_url: https://github.com/GLVis/glvis
 
 <a href='https://github.com/jcwright77' target='_blank'>jcwright77</a> commented on issue <a href='https://github.com/GLVis/glvis/issues/240' target='_blank'>GLVis/glvis#240</a>.
 
-<small>Thanks I may try that. Most of our software stack is built with intel so if any of that is used the final link has to be with intel....</small>
+<small>I might try that. Of course glvis now has a few dependencies as well. ...</small>
 
 <a href='https://github.com/GLVis/glvis/issues/240' target='_blank'>View Comment</a>
