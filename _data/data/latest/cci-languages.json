@@ -1186,7 +1186,7 @@
     "LLNL/merlin-spellbook": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 97271,
+            "totalSize": 95477,
             "nodes": [
                 {
                     "name": "Python",
@@ -1207,7 +1207,7 @@
             ],
             "edges": [
                 {
-                    "size": 76892
+                    "size": 75098
                 },
                 {
                     "size": 15164
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10115619,
+            "totalSize": 10116941,
             "nodes": [
                 {
                     "name": "C",
@@ -1874,7 +1874,7 @@
             ],
             "edges": [
                 {
-                    "size": 7602671
+                    "size": 7602952
                 },
                 {
                     "size": 1225150
@@ -1883,10 +1883,10 @@
                     "size": 797635
                 },
                 {
-                    "size": 162958
+                    "size": 162621
                 },
                 {
-                    "size": 137066
+                    "size": 137044
                 },
                 {
                     "size": 100700
@@ -1895,7 +1895,7 @@
                     "size": 26527
                 },
                 {
-                    "size": 22554
+                    "size": 23954
                 },
                 {
                     "size": 20375
@@ -1912,7 +1912,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2783547,
+            "totalSize": 2783421,
             "nodes": [
                 {
                     "name": "C++",
@@ -1953,10 +1953,10 @@
             ],
             "edges": [
                 {
-                    "size": 2026047
+                    "size": 2024567
                 },
                 {
-                    "size": 512403
+                    "size": 513757
                 },
                 {
                     "size": 82919
@@ -2152,7 +2152,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14018980,
+            "totalSize": 14019007,
             "nodes": [
                 {
                     "name": "C++",
@@ -2197,7 +2197,7 @@
             ],
             "edges": [
                 {
-                    "size": 13502139
+                    "size": 13502166
                 },
                 {
                     "size": 227306
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 19365624,
+            "totalSize": 19383610,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 19002231
+                    "size": 19020217
                 },
                 {
                     "size": 193889
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 99177422,
+            "totalSize": 99194254,
             "nodes": [
                 {
                     "name": "C",
@@ -2457,10 +2457,10 @@
             ],
             "edges": [
                 {
-                    "size": 75011512
+                    "size": 75022112
                 },
                 {
-                    "size": 12673682
+                    "size": 12678656
                 },
                 {
                     "size": 3650262
@@ -2469,10 +2469,10 @@
                     "size": 2978094
                 },
                 {
-                    "size": 1738718
+                    "size": 1739548
                 },
                 {
-                    "size": 1283109
+                    "size": 1283537
                 },
                 {
                     "size": 1234773
