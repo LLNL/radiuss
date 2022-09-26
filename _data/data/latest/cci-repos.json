@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 156
@@ -103,7 +103,7 @@
             "totalCount": 1991
         },
         "issues_Open": {
-            "totalCount": 360
+            "totalCount": 363
         },
         "issues_Closed": {
             "totalCount": 2034
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 184
+            "totalCount": 185
         },
         "mentionableUsers": {
             "totalCount": 67
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 409
+            "totalCount": 410
         },
         "mentionableUsers": {
             "totalCount": 42
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 288
+            "totalCount": 290
         },
         "mentionableUsers": {
             "totalCount": 21
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 555
+            "totalCount": 556
         },
         "mentionableUsers": {
             "totalCount": 33
         },
         "forks": {
-            "totalCount": 106
+            "totalCount": 107
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1739,10 +1739,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "pullRequests_Closed": {
-            "totalCount": 21
+            "totalCount": 22
         },
         "pullRequests_Merged": {
             "totalCount": 43
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1017
+            "totalCount": 1018
         },
         "mentionableUsers": {
             "totalCount": 521
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 2964
+            "totalCount": 2965
         },
         "mentionableUsers": {
             "totalCount": 1172
@@ -1855,7 +1855,7 @@
             "totalCount": 2655
         },
         "pullRequests_Merged": {
-            "totalCount": 22772
+            "totalCount": 22773
         },
         "issues_Open": {
             "totalCount": 1964
