@@ -10,6 +10,6 @@ repo_url: https://github.com/spack/spack
 
 <a href='https://github.com/glennpj' target='_blank'>glennpj</a> commented on issue <a href='https://github.com/spack/spack/pull/31635' target='_blank'>spack/spack#31635</a>.
 
-<small>> Should these really be unconditioned dependencies on tex? I'm just surprised we hadn't encountered this before if it applies to all versions of R...</small>
+<small>What the R configure script does is it checks for tex and builds extra documentation if it finds it. There is no toggle for configure, if it finds tex it uses it, if not, it skips the extra documentation builds....</small>
 
 <a href='https://github.com/spack/spack/pull/31635' target='_blank'>View Comment</a>
