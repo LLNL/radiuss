@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 45
         },
         "pullRequests_Merged": {
-            "totalCount": 406
+            "totalCount": 407
         },
         "issues_Open": {
             "totalCount": 85
         },
         "issues_Closed": {
-            "totalCount": 430
+            "totalCount": 431
         }
     },
     "GLVis/glvis": {
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 558
+            "totalCount": 560
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1803,7 +1803,7 @@
             "totalCount": 1208
         },
         "issues_Open": {
-            "totalCount": 73
+            "totalCount": 74
         },
         "issues_Closed": {
             "totalCount": 1525
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 2977
+            "totalCount": 2979
         },
         "mentionableUsers": {
             "totalCount": 1180
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 600
+            "totalCount": 601
         },
         "pullRequests_Closed": {
-            "totalCount": 2663
+            "totalCount": 2664
         },
         "pullRequests_Merged": {
-            "totalCount": 22868
+            "totalCount": 22869
         },
         "issues_Open": {
-            "totalCount": 1973
+            "totalCount": 1975
         },
         "issues_Closed": {
             "totalCount": 4702
@@ -1891,7 +1891,7 @@
             "totalCount": 56
         },
         "forks": {
-            "totalCount": 76
+            "totalCount": 77
         },
         "primaryLanguage": {
             "name": "C"
