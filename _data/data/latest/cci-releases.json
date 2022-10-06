@@ -821,6 +821,11 @@
                     "name": "v0.5.1",
                     "publishedAt": "2022-04-13T23:37:40Z",
                     "tagName": "v0.5.1"
+                },
+                {
+                    "name": "v0.5.2",
+                    "publishedAt": "2022-10-05T20:10:33Z",
+                    "tagName": "v0.5.2"
                 }
             ]
         }
@@ -1990,6 +1995,11 @@
                     "name": "v0.43.0",
                     "publishedAt": "2022-09-07T01:37:01Z",
                     "tagName": "v0.43.0"
+                },
+                {
+                    "name": "v0.44.0",
+                    "publishedAt": "2022-10-05T13:55:37Z",
+                    "tagName": "v0.44.0"
                 }
             ]
         }
@@ -2121,6 +2131,11 @@
                     "name": "flux-sched v0.24.0",
                     "publishedAt": "2022-08-03T15:58:03Z",
                     "tagName": "v0.24.0"
+                },
+                {
+                    "name": "flux-sched v0.25.0",
+                    "publishedAt": "2022-10-05T14:33:29Z",
+                    "tagName": "v0.25.0"
                 }
             ]
         }
