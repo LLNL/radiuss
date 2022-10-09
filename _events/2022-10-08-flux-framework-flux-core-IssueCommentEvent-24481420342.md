@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/chu11' target='_blank'>chu11</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/4664' target='_blank'>flux-framework/flux-core#4664</a>.
 
-<small>added the flux-jobs portion of this and fixed up some other random test things along the way.  Removing WIP...</small>
+<small>thanks @grondo, fixed typo and another on the same line ("job ncore count" -> "job core count" :P)   ...</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/4664' target='_blank'>View Comment</a>
