@@ -401,7 +401,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 4291163,
+            "totalSize": 4359092,
             "nodes": [
                 {
                     "name": "C++",
@@ -426,7 +426,7 @@
             ],
             "edges": [
                 {
-                    "size": 4022618
+                    "size": 4090547
                 },
                 {
                     "size": 166853
@@ -540,7 +540,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3088108,
+            "totalSize": 3088101,
             "nodes": [
                 {
                     "name": "C++",
@@ -593,10 +593,10 @@
                     "size": 69267
                 },
                 {
-                    "size": 53262
+                    "size": 53260
                 },
                 {
-                    "size": 25350
+                    "size": 25345
                 },
                 {
                     "size": 5434
@@ -1665,7 +1665,7 @@
     "LLNL/zfp": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1851693,
+            "totalSize": 1852186,
             "nodes": [
                 {
                     "name": "C++",
@@ -1712,7 +1712,7 @@
                     "size": 745870
                 },
                 {
-                    "size": 106820
+                    "size": 107313
                 },
                 {
                     "size": 61998
@@ -2037,7 +2037,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28810858,
+            "totalSize": 28810861,
             "nodes": [
                 {
                     "name": "C",
@@ -2135,7 +2135,7 @@
                     "size": 16339
                 },
                 {
-                    "size": 8926
+                    "size": 8929
                 },
                 {
                     "size": 5071
@@ -2152,7 +2152,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14126222,
+            "totalSize": 14156345,
             "nodes": [
                 {
                     "name": "C++",
@@ -2197,13 +2197,13 @@
             ],
             "edges": [
                 {
-                    "size": 13606783
+                    "size": 13636816
                 },
                 {
-                    "size": 229891
+                    "size": 229972
                 },
                 {
-                    "size": 126589
+                    "size": 126598
                 },
                 {
                     "size": 75239
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 19622475,
+            "totalSize": 19631627,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 19257770
+                    "size": 19266922
                 },
                 {
                     "size": 193906
