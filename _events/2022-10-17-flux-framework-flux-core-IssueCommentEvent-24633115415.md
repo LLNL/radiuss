@@ -2,7 +2,7 @@
 event_type: IssueCommentEvent
 avatar: "https://avatars.githubusercontent.com/u/22429695?"
 user: codecov[bot]
-date: 2022-10-16
+date: 2022-10-17
 repo_name: flux-framework/flux-core
 html_url: https://github.com/flux-framework/flux-core/pull/4691
 repo_url: https://github.com/flux-framework/flux-core
