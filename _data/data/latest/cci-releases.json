@@ -616,6 +616,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Misc build system fixes",
+                    "publishedAt": "2022-10-21T21:44:40Z",
+                    "tagName": "v0.7.1"
+                },
+                {
                     "name": "Fortran interface and misc fixes and improvements",
                     "publishedAt": "2022-09-30T18:54:52Z",
                     "tagName": "v0.7.0"
@@ -659,11 +664,6 @@
                     "name": "Dev workflow update",
                     "publishedAt": "2021-07-07T17:47:03Z",
                     "tagName": "v0.4.4"
-                },
-                {
-                    "name": "small fixes",
-                    "publishedAt": "2021-05-06T17:15:55Z",
-                    "tagName": "v0.4.3"
                 }
             ]
         }
@@ -1029,6 +1029,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "SUNDIALS minor release v6.4.0",
+                    "publishedAt": "2022-10-21T19:39:50Z",
+                    "tagName": "v6.4.0"
+                },
+                {
                     "name": "SUNDIALS minor release v6.3.0",
                     "publishedAt": "2022-08-10T19:04:37Z",
                     "tagName": "v6.3.0"
@@ -1072,11 +1077,6 @@
                     "name": "SUNDIALS v5.6.0",
                     "publishedAt": "2020-12-12T01:18:53Z",
                     "tagName": "v5.6.0"
-                },
-                {
-                    "name": "SUNDIALS v5.5.0",
-                    "publishedAt": "2020-11-02T16:31:41Z",
-                    "tagName": "v5.5.0"
                 }
             ]
         }
