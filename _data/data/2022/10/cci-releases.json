@@ -1280,6 +1280,11 @@
             "nodes": [
                 {
                     "name": "",
+                    "publishedAt": "2022-10-22T22:41:15Z",
+                    "tagName": "v4.5"
+                },
+                {
+                    "name": "",
                     "publishedAt": "2022-03-21T23:23:07Z",
                     "tagName": "v4.4"
                 },
