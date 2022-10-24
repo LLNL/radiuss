@@ -10,6 +10,6 @@ repo_url: https://github.com/spack/spack
 
 <a href='https://github.com/mwkrentel' target='_blank'>mwkrentel</a> commented on issue <a href='https://github.com/spack/spack/pull/33419' target='_blank'>spack/spack#33419</a>.
 
-<small>@spackbot run pipeline...</small>
+<small>@eugeneswalker @tldahlgren ...</small>
 
 <a href='https://github.com/spack/spack/pull/33419' target='_blank'>View Comment</a>
