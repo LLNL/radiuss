@@ -935,6 +935,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "2022.2.2",
+                    "publishedAt": "2022-10-25T04:22:45Z",
+                    "tagName": "v2022.2.2"
+                },
+                {
                     "name": "2022.2.1",
                     "publishedAt": "2022-10-17T20:10:40Z",
                     "tagName": "v2022.2.1"
