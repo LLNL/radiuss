@@ -700,7 +700,7 @@
     "LLNL/b-mpi3": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 769294,
+            "totalSize": 774909,
             "nodes": [
                 {
                     "name": "C++",
@@ -725,7 +725,7 @@
             ],
             "edges": [
                 {
-                    "size": 732223
+                    "size": 737601
                 },
                 {
                     "size": 22264
@@ -734,7 +734,7 @@
                     "size": 13283
                 },
                 {
-                    "size": 1055
+                    "size": 1292
                 },
                 {
                     "size": 469
@@ -964,7 +964,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3222423,
+            "totalSize": 3218542,
             "nodes": [
                 {
                     "name": "C++",
@@ -1005,7 +1005,7 @@
             ],
             "edges": [
                 {
-                    "size": 3026751
+                    "size": 3022870
                 },
                 {
                     "size": 61298
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 19836616,
+            "totalSize": 19845269,
             "nodes": [
                 {
                     "name": "Python",
@@ -2316,10 +2316,10 @@
             ],
             "edges": [
                 {
-                    "size": 19472209
+                    "size": 19481011
                 },
                 {
-                    "size": 193581
+                    "size": 193432
                 },
                 {
                     "size": 58236
