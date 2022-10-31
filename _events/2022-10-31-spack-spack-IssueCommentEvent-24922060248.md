@@ -2,7 +2,7 @@
 event_type: IssueCommentEvent
 avatar: "https://avatars.githubusercontent.com/u/38933153?"
 user: eugeneswalker
-date: 2022-10-30
+date: 2022-10-31
 repo_name: spack/spack
 html_url: https://github.com/spack/spack/pull/33599
 repo_url: https://github.com/spack/spack
