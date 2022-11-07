@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/chu11' target='_blank'>chu11</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/4761' target='_blank'>flux-framework/flux-core#4761</a>.
 
-<small>> okay changed to your spec @chu11 ! I guess I'm wondering - why not just return a job from the submit functions, and then the person can call to_dict() on it?...</small>
+<small>> Ok I’ll go back to that and add state! But I’d like to hear from @chu11 first because he asked me to not use that implementation....</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/4761' target='_blank'>View Comment</a>
