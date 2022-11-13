@@ -1745,7 +1745,7 @@
     "XBraid/xbraid": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 1422643,
+            "totalSize": 1442858,
             "nodes": [
                 {
                     "name": "C",
@@ -1794,13 +1794,13 @@
             ],
             "edges": [
                 {
-                    "size": 837301
+                    "size": 856931
                 },
                 {
                     "size": 334227
                 },
                 {
-                    "size": 171155
+                    "size": 171740
                 },
                 {
                     "size": 41500
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20017371,
+            "totalSize": 20018052,
             "nodes": [
                 {
                     "name": "Python",
@@ -2316,7 +2316,7 @@
             ],
             "edges": [
                 {
-                    "size": 19648697
+                    "size": 19649378
                 },
                 {
                     "size": 194137
