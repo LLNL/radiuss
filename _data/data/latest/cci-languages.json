@@ -96,7 +96,7 @@
     "GEOSX/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1793417,
+            "totalSize": 1793416,
             "nodes": [
                 {
                     "name": "C++",
@@ -127,7 +127,7 @@
                     "size": 62099
                 },
                 {
-                    "size": 40067
+                    "size": 40066
                 },
                 {
                     "size": 35815
@@ -401,7 +401,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 4560766,
+            "totalSize": 4567069,
             "nodes": [
                 {
                     "name": "C++",
@@ -426,10 +426,10 @@
             ],
             "edges": [
                 {
-                    "size": 4276380
+                    "size": 4282210
                 },
                 {
-                    "size": 173991
+                    "size": 174464
                 },
                 {
                     "size": 75805
@@ -1318,7 +1318,7 @@
     "LLNL/scr": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1458102,
+            "totalSize": 1458281,
             "nodes": [
                 {
                     "name": "C",
@@ -1350,7 +1350,7 @@
                     "size": 872211
                 },
                 {
-                    "size": 309781
+                    "size": 309960
                 },
                 {
                     "size": 126364
@@ -1832,7 +1832,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10341188,
+            "totalSize": 10344420,
             "nodes": [
                 {
                     "name": "C",
@@ -1881,19 +1881,19 @@
             ],
             "edges": [
                 {
-                    "size": 7698529
+                    "size": 7698607
                 },
                 {
                     "size": 1300450
                 },
                 {
-                    "size": 850142
+                    "size": 853305
                 },
                 {
                     "size": 163111
                 },
                 {
-                    "size": 137408
+                    "size": 137399
                 },
                 {
                     "size": 100815
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20026683,
+            "totalSize": 20051174,
             "nodes": [
                 {
                     "name": "Python",
@@ -2316,10 +2316,10 @@
             ],
             "edges": [
                 {
-                    "size": 19657613
+                    "size": 19682414
                 },
                 {
-                    "size": 194137
+                    "size": 193827
                 },
                 {
                     "size": 61947
@@ -2375,7 +2375,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98845253,
+            "totalSize": 98872851,
             "nodes": [
                 {
                     "name": "C",
@@ -2464,25 +2464,25 @@
             ],
             "edges": [
                 {
-                    "size": 74915222
+                    "size": 74921448
                 },
                 {
-                    "size": 12663944
+                    "size": 12684356
                 },
                 {
                     "size": 3649080
                 },
                 {
-                    "size": 2978094
+                    "size": 2978945
                 },
                 {
                     "size": 1551820
                 },
                 {
-                    "size": 1287052
+                    "size": 1287113
                 },
                 {
-                    "size": 1192769
+                    "size": 1192817
                 },
                 {
                     "size": 435101
