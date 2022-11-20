@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/vsoch' target='_blank'>vsoch</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/4761' target='_blank'>flux-framework/flux-core#4761</a>.
 
-<small>Woot! @grondo how soon will this be available in the fluxrm/flux-sched containers? That's the base I use for the restful API (where I currently implemented the same function but will very happily delete code and use this!)...</small>
+<small>Woot! Thank you! I'll test this out next round of work on the RESTful API. In other news - adding Flux to Nextflow! I can't believe I wrote in a language I didn't know and it kind of worked? lol....</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/4761' target='_blank'>View Comment</a>
