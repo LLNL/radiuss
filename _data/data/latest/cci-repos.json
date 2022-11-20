@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 164
@@ -356,7 +356,7 @@
             "totalCount": 44
         },
         "forks": {
-            "totalCount": 118
+            "totalCount": 117
         },
         "primaryLanguage": {
             "name": "C"
@@ -845,7 +845,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 160
+            "totalCount": 161
         },
         "mentionableUsers": {
             "totalCount": 25
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 129
+            "totalCount": 130
         },
         "pullRequests_Closed": {
             "totalCount": 216
@@ -1803,7 +1803,7 @@
             "totalCount": 1238
         },
         "issues_Open": {
-            "totalCount": 88
+            "totalCount": 89
         },
         "issues_Closed": {
             "totalCount": 1553
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3061
+            "totalCount": 3062
         },
         "mentionableUsers": {
             "totalCount": 1214
         },
         "forks": {
-            "totalCount": 1666
+            "totalCount": 1668
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 585
+            "totalCount": 579
         },
         "pullRequests_Closed": {
             "totalCount": 2744
         },
         "pullRequests_Merged": {
-            "totalCount": 23711
+            "totalCount": 23722
         },
         "issues_Open": {
             "totalCount": 2018
         },
         "issues_Closed": {
-            "totalCount": 4800
+            "totalCount": 4801
         }
     },
     "visit-dav/visit": {
@@ -1904,7 +1904,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 94
