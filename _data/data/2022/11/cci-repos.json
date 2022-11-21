@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 164
         },
         "pullRequests_Merged": {
-            "totalCount": 2063
+            "totalCount": 2064
         },
         "issues_Open": {
             "totalCount": 372
@@ -191,7 +191,7 @@
             "totalCount": 67
         },
         "forks": {
-            "totalCount": 39
+            "totalCount": 40
         },
         "primaryLanguage": {
             "name": "C++"
@@ -204,7 +204,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 8
@@ -680,7 +680,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 86
+            "totalCount": 87
         },
         "mentionableUsers": {
             "totalCount": 33
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 130
+            "totalCount": 131
         },
         "pullRequests_Closed": {
             "totalCount": 216
@@ -1830,10 +1830,10 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3062
+            "totalCount": 3063
         },
         "mentionableUsers": {
-            "totalCount": 1214
+            "totalCount": 1215
         },
         "forks": {
             "totalCount": 1668
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 579
+            "totalCount": 580
         },
         "pullRequests_Closed": {
             "totalCount": 2744
         },
         "pullRequests_Merged": {
-            "totalCount": 23722
+            "totalCount": 23730
         },
         "issues_Open": {
-            "totalCount": 2018
+            "totalCount": 2019
         },
         "issues_Closed": {
             "totalCount": 4801
