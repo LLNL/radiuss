@@ -100,7 +100,7 @@
             "totalCount": 164
         },
         "pullRequests_Merged": {
-            "totalCount": 2067
+            "totalCount": 2068
         },
         "issues_Open": {
             "totalCount": 373
@@ -405,7 +405,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 97
+            "totalCount": 98
         },
         "mentionableUsers": {
             "totalCount": 57
@@ -1225,7 +1225,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 348
+            "totalCount": 349
         },
         "mentionableUsers": {
             "totalCount": 59
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 230
+            "totalCount": 231
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1078
+            "totalCount": 1079
         },
         "mentionableUsers": {
-            "totalCount": 547
+            "totalCount": 548
         },
         "forks": {
-            "totalCount": 370
+            "totalCount": 371
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1803,7 +1803,7 @@
             "totalCount": 1239
         },
         "issues_Open": {
-            "totalCount": 92
+            "totalCount": 93
         },
         "issues_Closed": {
             "totalCount": 1554
@@ -1830,10 +1830,10 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3068
+            "totalCount": 3072
         },
         "mentionableUsers": {
-            "totalCount": 1219
+            "totalCount": 1220
         },
         "forks": {
             "totalCount": 1671
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 589
+            "totalCount": 593
         },
         "pullRequests_Closed": {
-            "totalCount": 2751
+            "totalCount": 2753
         },
         "pullRequests_Merged": {
-            "totalCount": 23787
+            "totalCount": 23791
         },
         "issues_Open": {
-            "totalCount": 2023
+            "totalCount": 2024
         },
         "issues_Closed": {
             "totalCount": 4809
