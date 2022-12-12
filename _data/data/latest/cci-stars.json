@@ -6102,6 +6102,10 @@
         {
             "date": "2022-11-14",
             "value": 2
+        },
+        {
+            "date": "2022-11-28",
+            "value": 2
         }
     ],
     "LLNL/maestrowf": [
@@ -6534,6 +6538,10 @@
         {
             "date": "2022-11-28",
             "value": 2
+        },
+        {
+            "date": "2022-12-12",
+            "value": 1
         }
     ],
     "LLNL/merlin-spellbook": [

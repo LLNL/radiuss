@@ -100,7 +100,7 @@
             "totalCount": 167
         },
         "pullRequests_Merged": {
-            "totalCount": 2089
+            "totalCount": 2091
         },
         "issues_Open": {
             "totalCount": 368
@@ -900,7 +900,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 200
+            "totalCount": 201
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1010,7 +1010,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 59
+            "totalCount": 60
         },
         "mentionableUsers": {
             "totalCount": 23
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 124
+            "totalCount": 122
         },
         "pullRequests_Closed": {
             "totalCount": 216
         },
         "pullRequests_Merged": {
-            "totalCount": 1257
+            "totalCount": 1260
         },
         "issues_Open": {
             "totalCount": 83
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3097
+            "totalCount": 3098
         },
         "mentionableUsers": {
             "totalCount": 1229
         },
         "forks": {
-            "totalCount": 1681
+            "totalCount": 1680
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 638
+            "totalCount": 641
         },
         "pullRequests_Closed": {
-            "totalCount": 2782
+            "totalCount": 2783
         },
         "pullRequests_Merged": {
-            "totalCount": 23988
+            "totalCount": 23989
         },
         "issues_Open": {
             "totalCount": 2055
         },
         "issues_Closed": {
-            "totalCount": 4826
+            "totalCount": 4827
         }
     },
     "visit-dav/visit": {
