@@ -2159,7 +2159,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14176565,
+            "totalSize": 14179251,
             "nodes": [
                 {
                     "name": "C++",
@@ -2204,13 +2204,13 @@
             ],
             "edges": [
                 {
-                    "size": 13657864
+                    "size": 13660388
                 },
                 {
-                    "size": 229094
+                    "size": 229190
                 },
                 {
-                    "size": 126666
+                    "size": 126732
                 },
                 {
                     "size": 75239
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20029011,
+            "totalSize": 20050791,
             "nodes": [
                 {
                     "name": "Python",
@@ -2316,7 +2316,7 @@
             ],
             "edges": [
                 {
-                    "size": 19662934
+                    "size": 19684714
                 },
                 {
                     "size": 194261
@@ -2375,7 +2375,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 21,
-            "totalSize": 98842832,
+            "totalSize": 98818032,
             "nodes": [
                 {
                     "name": "C",
@@ -2464,10 +2464,10 @@
             ],
             "edges": [
                 {
-                    "size": 74899952
+                    "size": 74888680
                 },
                 {
-                    "size": 12684988
+                    "size": 12671346
                 },
                 {
                     "size": 3663533
@@ -2479,7 +2479,7 @@
                     "size": 1526692
                 },
                 {
-                    "size": 1288367
+                    "size": 1288481
                 },
                 {
                     "size": 1193083
