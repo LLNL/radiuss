@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 9869103,
+            "totalSize": 9870066,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,10 +1074,10 @@
             ],
             "edges": [
                 {
-                    "size": 6706761
+                    "size": 6707647
                 },
                 {
-                    "size": 2084055
+                    "size": 2084132
                 },
                 {
                     "size": 644323
@@ -1745,7 +1745,7 @@
     "XBraid/xbraid": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 1442858,
+            "totalSize": 1445730,
             "nodes": [
                 {
                     "name": "C",
@@ -1794,13 +1794,13 @@
             ],
             "edges": [
                 {
-                    "size": 856931
+                    "size": 859502
                 },
                 {
                     "size": 334227
                 },
                 {
-                    "size": 171740
+                    "size": 172041
                 },
                 {
                     "size": 41500
@@ -1832,7 +1832,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10629421,
+            "totalSize": 10631649,
             "nodes": [
                 {
                     "name": "C",
@@ -1881,13 +1881,13 @@
             ],
             "edges": [
                 {
-                    "size": 7916771
+                    "size": 7917355
                 },
                 {
-                    "size": 1357918
+                    "size": 1358777
                 },
                 {
-                    "size": 856993
+                    "size": 857166
                 },
                 {
                     "size": 163467
@@ -1902,7 +1902,7 @@
                     "size": 26527
                 },
                 {
-                    "size": 23861
+                    "size": 24473
                 },
                 {
                     "size": 20335
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20076995,
+            "totalSize": 20109725,
             "nodes": [
                 {
                     "name": "Python",
@@ -2316,7 +2316,7 @@
             ],
             "edges": [
                 {
-                    "size": 19710889
+                    "size": 19743619
                 },
                 {
                     "size": 194290
@@ -2374,8 +2374,8 @@
     },
     "visit-dav/visit": {
         "languages": {
-            "totalCount": 21,
-            "totalSize": 98834888,
+            "totalCount": 22,
+            "totalSize": 98879699,
             "nodes": [
                 {
                     "name": "C",
@@ -2430,6 +2430,10 @@
                     "color": "#EB8CEB"
                 },
                 {
+                    "name": "NASL",
+                    "color": null
+                },
+                {
                     "name": "CSS",
                     "color": "#563d7c"
                 },
@@ -2464,13 +2468,13 @@
             ],
             "edges": [
                 {
-                    "size": 74899025
+                    "size": 74900540
                 },
                 {
                     "size": 12676502
                 },
                 {
-                    "size": 3664616
+                    "size": 3703672
                 },
                 {
                     "size": 2978945
@@ -2482,7 +2486,7 @@
                     "size": 1288753
                 },
                 {
-                    "size": 1193083
+                    "size": 1193390
                 },
                 {
                     "size": 435101
@@ -2501,6 +2505,9 @@
                 },
                 {
                     "size": 4607
+                },
+                {
+                    "size": 3933
                 },
                 {
                     "size": 3559
