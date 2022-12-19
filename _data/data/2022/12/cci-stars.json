@@ -7098,6 +7098,10 @@
         {
             "date": "2022-10-31",
             "value": 1
+        },
+        {
+            "date": "2022-11-07",
+            "value": 7
         }
     ],
     "LLNL/spot2_container": [
