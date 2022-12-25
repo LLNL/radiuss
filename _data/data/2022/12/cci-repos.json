@@ -589,7 +589,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 17
@@ -955,7 +955,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 94
+            "totalCount": 95
         },
         "mentionableUsers": {
             "totalCount": 29
@@ -1638,7 +1638,7 @@
             "totalCount": 67
         },
         "issues_Open": {
-            "totalCount": 24
+            "totalCount": 25
         },
         "issues_Closed": {
             "totalCount": 106
@@ -1781,7 +1781,7 @@
             "totalCount": 551
         },
         "forks": {
-            "totalCount": 375
+            "totalCount": 376
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 126
+            "totalCount": 128
         },
         "pullRequests_Closed": {
             "totalCount": 216
@@ -1803,7 +1803,7 @@
             "totalCount": 1265
         },
         "issues_Open": {
-            "totalCount": 85
+            "totalCount": 86
         },
         "issues_Closed": {
             "totalCount": 1578
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3111
+            "totalCount": 3113
         },
         "mentionableUsers": {
             "totalCount": 1239
@@ -1855,10 +1855,10 @@
             "totalCount": 2811
         },
         "pullRequests_Merged": {
-            "totalCount": 24173
+            "totalCount": 24175
         },
         "issues_Open": {
-            "totalCount": 2055
+            "totalCount": 2056
         },
         "issues_Closed": {
             "totalCount": 4847
