@@ -898,7 +898,7 @@
     "LLNL/hatchet": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 1636273,
+            "totalSize": 1636302,
             "nodes": [
                 {
                     "name": "JavaScript",
@@ -934,7 +934,7 @@
                     "size": 1090975
                 },
                 {
-                    "size": 500424
+                    "size": 500426
                 },
                 {
                     "size": 35169
@@ -949,7 +949,7 @@
                     "size": 428
                 },
                 {
-                    "size": 190
+                    "size": 217
                 }
             ]
         }
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20158680,
+            "totalSize": 20157792,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,10 +2309,10 @@
             ],
             "edges": [
                 {
-                    "size": 19792574
+                    "size": 19791675
                 },
                 {
-                    "size": 194290
+                    "size": 194301
                 },
                 {
                     "size": 58813
