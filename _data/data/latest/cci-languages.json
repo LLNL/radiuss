@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 12575563,
+            "totalSize": 12575787,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 10384103
+                    "size": 10384327
                 },
                 {
                     "size": 556587
@@ -693,7 +693,7 @@
     "LLNL/b-mpi3": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 813905,
+            "totalSize": 812148,
             "nodes": [
                 {
                     "name": "C++",
@@ -718,13 +718,13 @@
             ],
             "edges": [
                 {
-                    "size": 772399
+                    "size": 770298
                 },
                 {
                     "size": 22264
                 },
                 {
-                    "size": 17005
+                    "size": 17349
                 },
                 {
                     "size": 1768
@@ -811,7 +811,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 8914007,
+            "totalSize": 8943813,
             "nodes": [
                 {
                     "name": "C++",
@@ -869,7 +869,7 @@
                     "size": 306768
                 },
                 {
-                    "size": 247323
+                    "size": 277129
                 },
                 {
                     "size": 195435
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20183357,
+            "totalSize": 20191656,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 19817240
+                    "size": 19825539
                 },
                 {
                     "size": 194301
