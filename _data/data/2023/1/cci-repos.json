@@ -735,7 +735,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 136
+            "totalCount": 137
         },
         "mentionableUsers": {
             "totalCount": 49
@@ -754,7 +754,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 25
@@ -864,16 +864,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 1
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 305
+            "totalCount": 306
         },
         "issues_Open": {
-            "totalCount": 20
+            "totalCount": 21
         },
         "issues_Closed": {
             "totalCount": 211
@@ -1781,7 +1781,7 @@
             "totalCount": 551
         },
         "forks": {
-            "totalCount": 379
+            "totalCount": 377
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 127
+            "totalCount": 128
         },
         "pullRequests_Closed": {
             "totalCount": 218
         },
         "pullRequests_Merged": {
-            "totalCount": 1271
+            "totalCount": 1272
         },
         "issues_Open": {
-            "totalCount": 79
+            "totalCount": 73
         },
         "issues_Closed": {
-            "totalCount": 1589
+            "totalCount": 1596
         }
     },
     "spack/spack": {
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3132
+            "totalCount": 3134
         },
         "mentionableUsers": {
             "totalCount": 1240
@@ -1849,7 +1849,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 665
+            "totalCount": 667
         },
         "pullRequests_Closed": {
             "totalCount": 2827
@@ -1885,13 +1885,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 281
+            "totalCount": 282
         },
         "mentionableUsers": {
             "totalCount": 58
         },
         "forks": {
-            "totalCount": 82
+            "totalCount": 83
         },
         "primaryLanguage": {
             "name": "C"

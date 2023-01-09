@@ -889,6 +889,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "0.8.6-pre",
+                    "publishedAt": "2023-01-08T18:09:01Z",
+                    "tagName": "v0.8.6.pre"
+                },
+                {
                     "name": "0.8.5",
                     "publishedAt": "2022-12-23T00:14:07Z",
                     "tagName": "v0.8.5"
