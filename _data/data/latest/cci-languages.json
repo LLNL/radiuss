@@ -401,7 +401,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4556817,
+            "totalSize": 4559881,
             "nodes": [
                 {
                     "name": "C++",
@@ -422,7 +422,7 @@
             ],
             "edges": [
                 {
-                    "size": 4286437
+                    "size": 4289501
                 },
                 {
                     "size": 176669
@@ -1030,7 +1030,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 9870066,
+            "totalSize": 9906397,
             "nodes": [
                 {
                     "name": "C++",
@@ -1067,16 +1067,16 @@
             ],
             "edges": [
                 {
-                    "size": 6707647
+                    "size": 6731421
                 },
                 {
-                    "size": 2084132
+                    "size": 2093888
                 },
                 {
                     "size": 644323
                 },
                 {
-                    "size": 306725
+                    "size": 309526
                 },
                 {
                     "size": 119359
@@ -2037,7 +2037,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28890296,
+            "totalSize": 28890963,
             "nodes": [
                 {
                     "name": "C",
@@ -2102,7 +2102,7 @@
             ],
             "edges": [
                 {
-                    "size": 20539946
+                    "size": 20540613
                 },
                 {
                     "size": 3535632
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20249985,
+            "totalSize": 20260288,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 19883934
+                    "size": 19894237
                 },
                 {
                     "size": 194301
