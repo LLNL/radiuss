@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 12613635,
+            "totalSize": 12613602,
             "nodes": [
                 {
                     "name": "C++",
@@ -76,7 +76,7 @@
                     "size": 111573
                 },
                 {
-                    "size": 97918
+                    "size": 97885
                 },
                 {
                     "size": 27373
@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2334364,
+            "totalSize": 2334237,
             "nodes": [
                 {
                     "name": "C++",
@@ -358,7 +358,7 @@
                     "size": 209952
                 },
                 {
-                    "size": 83328
+                    "size": 83201
                 },
                 {
                     "size": 53417
@@ -533,7 +533,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3070228,
+            "totalSize": 3070482,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,7 +574,7 @@
             ],
             "edges": [
                 {
-                    "size": 2694856
+                    "size": 2695110
                 },
                 {
                     "size": 152771
@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9747099,
+            "totalSize": 9747832,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,7 +655,7 @@
             ],
             "edges": [
                 {
-                    "size": 8360154
+                    "size": 8360887
                 },
                 {
                     "size": 535899
@@ -693,7 +693,7 @@
     "LLNL/b-mpi3": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 814154,
+            "totalSize": 816179,
             "nodes": [
                 {
                     "name": "C++",
@@ -718,13 +718,13 @@
             ],
             "edges": [
                 {
-                    "size": 772304
+                    "size": 774316
                 },
                 {
                     "size": 22264
                 },
                 {
-                    "size": 17349
+                    "size": 17362
                 },
                 {
                     "size": 1768
@@ -1030,7 +1030,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 9906397,
+            "totalSize": 9906486,
             "nodes": [
                 {
                     "name": "C++",
@@ -1067,7 +1067,7 @@
             ],
             "edges": [
                 {
-                    "size": 6731421
+                    "size": 6731510
                 },
                 {
                     "size": 2093888
@@ -1311,7 +1311,7 @@
     "LLNL/scr": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1460210,
+            "totalSize": 1457875,
             "nodes": [
                 {
                     "name": "C",
@@ -1352,7 +1352,7 @@
                     "size": 111129
                 },
                 {
-                    "size": 39935
+                    "size": 37600
                 },
                 {
                     "size": 196
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20322839,
+            "totalSize": 20331218,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,10 +2309,10 @@
             ],
             "edges": [
                 {
-                    "size": 19956546
+                    "size": 19964911
                 },
                 {
-                    "size": 194448
+                    "size": 194462
                 },
                 {
                     "size": 58813
