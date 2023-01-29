@@ -155,7 +155,7 @@
             "totalCount": 46
         },
         "pullRequests_Merged": {
-            "totalCount": 416
+            "totalCount": 417
         },
         "issues_Open": {
             "totalCount": 88
@@ -919,7 +919,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 30
+            "totalCount": 32
         },
         "pullRequests_Closed": {
             "totalCount": 143
@@ -980,7 +980,7 @@
             "totalCount": 23
         },
         "pullRequests_Merged": {
-            "totalCount": 191
+            "totalCount": 192
         },
         "issues_Open": {
             "totalCount": 51
@@ -1778,7 +1778,7 @@
             "totalCount": 1115
         },
         "mentionableUsers": {
-            "totalCount": 553
+            "totalCount": 554
         },
         "forks": {
             "totalCount": 380
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 137
+            "totalCount": 138
         },
         "pullRequests_Closed": {
             "totalCount": 220
@@ -1803,10 +1803,10 @@
             "totalCount": 1279
         },
         "issues_Open": {
-            "totalCount": 73
+            "totalCount": 72
         },
         "issues_Closed": {
-            "totalCount": 1610
+            "totalCount": 1611
         }
     },
     "spack/spack": {
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3166
+            "totalCount": 3167
         },
         "mentionableUsers": {
             "totalCount": 1249
         },
         "forks": {
-            "totalCount": 1699
+            "totalCount": 1700
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1855,10 +1855,10 @@
             "totalCount": 2865
         },
         "pullRequests_Merged": {
-            "totalCount": 24562
+            "totalCount": 24564
         },
         "issues_Open": {
-            "totalCount": 2089
+            "totalCount": 2090
         },
         "issues_Closed": {
             "totalCount": 4880
