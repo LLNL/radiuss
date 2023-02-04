@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2337702,
+            "totalSize": 2335202,
             "nodes": [
                 {
                     "name": "C++",
@@ -349,13 +349,13 @@
             ],
             "edges": [
                 {
-                    "size": 1652854
+                    "size": 1650357
                 },
                 {
                     "size": 282198
                 },
                 {
-                    "size": 210376
+                    "size": 210373
                 },
                 {
                     "size": 83462
@@ -1030,7 +1030,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10066659,
+            "totalSize": 10066772,
             "nodes": [
                 {
                     "name": "C++",
@@ -1067,13 +1067,13 @@
             ],
             "edges": [
                 {
-                    "size": 6893495
+                    "size": 6893398
                 },
                 {
                     "size": 2076483
                 },
                 {
-                    "size": 659822
+                    "size": 660032
                 },
                 {
                     "size": 310701
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10753872,
+            "totalSize": 10758207,
             "nodes": [
                 {
                     "name": "C",
@@ -1874,13 +1874,13 @@
             ],
             "edges": [
                 {
-                    "size": 7951486
+                    "size": 7951280
                 },
                 {
-                    "size": 1393844
+                    "size": 1398383
                 },
                 {
-                    "size": 908092
+                    "size": 908094
                 },
                 {
                     "size": 162931
@@ -1912,7 +1912,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2794473,
+            "totalSize": 2814805,
             "nodes": [
                 {
                     "name": "C++",
@@ -1953,10 +1953,10 @@
             ],
             "edges": [
                 {
-                    "size": 2030753
+                    "size": 2048778
                 },
                 {
-                    "size": 518176
+                    "size": 519756
                 },
                 {
                     "size": 82919
@@ -1968,7 +1968,7 @@
                     "size": 46633
                 },
                 {
-                    "size": 18499
+                    "size": 19226
                 },
                 {
                     "size": 12232
@@ -2037,7 +2037,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 28917235,
+            "totalSize": 28917276,
             "nodes": [
                 {
                     "name": "C",
@@ -2102,7 +2102,7 @@
             ],
             "edges": [
                 {
-                    "size": 20565668
+                    "size": 20565709
                 },
                 {
                     "size": 3535632
@@ -2152,7 +2152,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14207857,
+            "totalSize": 14212284,
             "nodes": [
                 {
                     "name": "C++",
@@ -2197,7 +2197,7 @@
             ],
             "edges": [
                 {
-                    "size": 13686663
+                    "size": 13691090
                 },
                 {
                     "size": 230735
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20460811,
+            "totalSize": 20465008,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2309,7 @@
             ],
             "edges": [
                 {
-                    "size": 20094494
+                    "size": 20098691
                 },
                 {
                     "size": 194472
