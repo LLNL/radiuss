@@ -87,26 +87,26 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 11
+            "totalCount": 13
         },
         "repositoryTopics": {
             "totalCount": 4
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 16
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 170
         },
         "pullRequests_Merged": {
-            "totalCount": 2132
+            "totalCount": 2133
         },
         "issues_Open": {
-            "totalCount": 375
+            "totalCount": 374
         },
         "issues_Closed": {
-            "totalCount": 2148
+            "totalCount": 2149
         }
     },
     "flux-framework/flux-sched": {
@@ -158,7 +158,7 @@
             "totalCount": 418
         },
         "issues_Open": {
-            "totalCount": 86
+            "totalCount": 87
         },
         "issues_Closed": {
             "totalCount": 438
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 200
+            "totalCount": 201
         },
         "mentionableUsers": {
             "totalCount": 47
@@ -1390,7 +1390,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 85
+            "totalCount": 86
         },
         "mentionableUsers": {
             "totalCount": 16
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 679
+            "totalCount": 685
         },
         "pullRequests_Closed": {
             "totalCount": 2869
         },
         "pullRequests_Merged": {
-            "totalCount": 24620
+            "totalCount": 24621
         },
         "issues_Open": {
-            "totalCount": 2110
+            "totalCount": 2112
         },
         "issues_Closed": {
             "totalCount": 4884

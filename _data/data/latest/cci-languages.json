@@ -1824,8 +1824,8 @@
     },
     "flux-framework/flux-core": {
         "languages": {
-            "totalCount": 11,
-            "totalSize": 10758207,
+            "totalCount": 13,
+            "totalSize": 10779668,
             "nodes": [
                 {
                     "name": "C",
@@ -1870,11 +1870,19 @@
                 {
                     "name": "Perl",
                     "color": "#0298c3"
+                },
+                {
+                    "name": "Rebol",
+                    "color": "#358a5b"
+                },
+                {
+                    "name": "R",
+                    "color": "#198CE7"
                 }
             ],
             "edges": [
                 {
-                    "size": 7951280
+                    "size": 7967435
                 },
                 {
                     "size": 1398383
@@ -1886,7 +1894,7 @@
                     "size": 162931
                 },
                 {
-                    "size": 143493
+                    "size": 146287
                 },
                 {
                     "size": 101419
@@ -1905,6 +1913,12 @@
                 },
                 {
                     "size": 10176
+                },
+                {
+                    "size": 1833
+                },
+                {
+                    "size": 679
                 }
             ]
         }
@@ -2232,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20465008,
+            "totalSize": 20465013,
             "nodes": [
                 {
                     "name": "Python",
@@ -2309,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20098691
+                    "size": 20098696
                 },
                 {
                     "size": 194472
