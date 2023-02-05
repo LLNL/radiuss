@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/chu11' target='_blank'>chu11</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/4883' target='_blank'>flux-framework/flux-core#4883</a>.
 
-<small>re-pushed, forgot to EXTRA_DIST those new test files...</small>
+<small>oops, re-pushed, a "top_builddir" should have been "top_srcdir"...</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/4883' target='_blank'>View Comment</a>
