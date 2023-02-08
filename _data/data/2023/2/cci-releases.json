@@ -2512,6 +2512,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v3.3.2",
+                    "publishedAt": "2023-02-08T00:25:16Z",
+                    "tagName": "v3.3.2"
+                },
+                {
                     "name": "v3.3.1",
                     "publishedAt": "2022-09-29T20:37:05Z",
                     "tagName": "v3.3.1"
