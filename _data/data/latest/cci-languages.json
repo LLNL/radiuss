@@ -957,7 +957,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3652086,
+            "totalSize": 3654187,
             "nodes": [
                 {
                     "name": "C++",
@@ -998,7 +998,7 @@
             ],
             "edges": [
                 {
-                    "size": 3406264
+                    "size": 3408109
                 },
                 {
                     "size": 68182
@@ -1010,7 +1010,7 @@
                     "size": 61298
                 },
                 {
-                    "size": 33620
+                    "size": 33876
                 },
                 {
                     "size": 17331
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20554182,
+            "totalSize": 20579238,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20187509
+                    "size": 20212565
                 },
                 {
                     "size": 194472
