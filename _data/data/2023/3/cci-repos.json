@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 170
         },
         "pullRequests_Merged": {
-            "totalCount": 2169
+            "totalCount": 2170
         },
         "issues_Open": {
             "totalCount": 382
@@ -185,13 +185,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 194
+            "totalCount": 195
         },
         "mentionableUsers": {
             "totalCount": 67
         },
         "forks": {
-            "totalCount": 42
+            "totalCount": 41
         },
         "primaryLanguage": {
             "name": "C++"
@@ -356,7 +356,7 @@
             "totalCount": 45
         },
         "forks": {
-            "totalCount": 125
+            "totalCount": 124
         },
         "primaryLanguage": {
             "name": "C"
@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 272
+            "totalCount": 271
         },
         "mentionableUsers": {
             "totalCount": 30
@@ -900,7 +900,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 205
+            "totalCount": 204
         },
         "mentionableUsers": {
             "totalCount": 42
@@ -1225,7 +1225,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 361
+            "totalCount": 360
         },
         "mentionableUsers": {
             "totalCount": 61
@@ -1308,7 +1308,7 @@
             "totalCount": 124
         },
         "issues_Open": {
-            "totalCount": 49
+            "totalCount": 50
         },
         "issues_Closed": {
             "totalCount": 32
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 595
+            "totalCount": 594
         },
         "mentionableUsers": {
             "totalCount": 34
         },
         "forks": {
-            "totalCount": 114
+            "totalCount": 115
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1144
+            "totalCount": 1145
         },
         "mentionableUsers": {
             "totalCount": 562
         },
         "forks": {
-            "totalCount": 382
+            "totalCount": 383
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 134
+            "totalCount": 135
         },
         "pullRequests_Closed": {
             "totalCount": 227
@@ -1803,7 +1803,7 @@
             "totalCount": 1301
         },
         "issues_Open": {
-            "totalCount": 74
+            "totalCount": 75
         },
         "issues_Closed": {
             "totalCount": 1637
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3232
+            "totalCount": 3234
         },
         "mentionableUsers": {
             "totalCount": 1247
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 655
+            "totalCount": 657
         },
         "pullRequests_Closed": {
             "totalCount": 2999
         },
         "pullRequests_Merged": {
-            "totalCount": 24922
+            "totalCount": 24923
         },
         "issues_Open": {
-            "totalCount": 2157
+            "totalCount": 2158
         },
         "issues_Closed": {
             "totalCount": 4904
