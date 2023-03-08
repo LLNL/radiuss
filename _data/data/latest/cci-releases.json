@@ -1415,6 +1415,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v 0.8.0",
+                    "publishedAt": "2023-03-08T00:57:59Z",
+                    "tagName": "0.8.0"
+                },
+                {
                     "name": "v 0.7.4",
                     "publishedAt": "2022-09-26T22:09:19Z",
                     "tagName": "0.7.4"
