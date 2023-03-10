@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37049027,
+            "totalSize": 37049034,
             "nodes": [
                 {
                     "name": "C++",
@@ -76,7 +76,7 @@
                     "size": 111573
                 },
                 {
-                    "size": 98963
+                    "size": 98970
                 },
                 {
                     "size": 27373
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 10990217,
+            "totalSize": 10990447,
             "nodes": [
                 {
                     "name": "C",
@@ -1888,7 +1888,7 @@
                     "size": 1456009
                 },
                 {
-                    "size": 977607
+                    "size": 977837
                 },
                 {
                     "size": 163263
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20706304,
+            "totalSize": 20712603,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20339596
+                    "size": 20345895
                 },
                 {
                     "size": 194507
@@ -2382,7 +2382,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 98974010,
+            "totalSize": 98992906,
             "nodes": [
                 {
                     "name": "C",
@@ -2475,25 +2475,25 @@
             ],
             "edges": [
                 {
-                    "size": 74940206
+                    "size": 74955981
                 },
                 {
-                    "size": 12679324
+                    "size": 12679887
                 },
                 {
-                    "size": 3725216
+                    "size": 3727032
                 },
                 {
                     "size": 2978354
                 },
                 {
-                    "size": 1553925
+                    "size": 1553875
                 },
                 {
-                    "size": 1292332
+                    "size": 1292713
                 },
                 {
-                    "size": 1193448
+                    "size": 1193859
                 },
                 {
                     "size": 435101
