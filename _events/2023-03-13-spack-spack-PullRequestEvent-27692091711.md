@@ -1,0 +1,13 @@
+---
+event_type: PullRequestEvent
+avatar: "https://avatars.githubusercontent.com/u/7818666?"
+user: hppritcha
+date: 2023-03-13
+repo_name: spack/spack
+html_url: https://github.com/spack/spack/pull/36098
+repo_url: https://github.com/spack/spack
+---
+
+<a href='https://github.com/hppritcha' target='_blank'>hppritcha</a> opened a pull request to <a href='https://github.com/spack/spack' target='_blank'>spack/spack</a>
+
+<a href='https://github.com/spack/spack/pull/36098' target='_blank'>View Pull Request</a>
