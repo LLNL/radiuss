@@ -10,6 +10,6 @@ repo_url: https://github.com/LLNL/merlin
 
 <a href='https://github.com/lucpeterson' target='_blank'>lucpeterson</a> commented on issue <a href='https://github.com/LLNL/merlin/issues/406' target='_blank'>LLNL/merlin#406</a>.
 
-<small>Have you configured merlin per the instructions in the tutorial? https://merlin.readthedocs.io/en/latest/modules/installation/installation.html#id3...</small>
+<small>Running via Kubernetes would be pretty cool. If you figure out the configuration and/or docs, we should add it!...</small>
 
 <a href='https://github.com/LLNL/merlin/issues/406' target='_blank'>View Comment</a>
