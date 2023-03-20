@@ -10,6 +10,6 @@ repo_url: https://github.com/mfem/mfem
 
 <a href='https://github.com/ryanblack129' target='_blank'>ryanblack129</a> commented on issue <a href='https://github.com/mfem/mfem/issues/3360' target='_blank'>mfem/mfem#3360</a>.
 
-<small>Hi @v-dobrev ...</small>
+<small>Thank you very much. Ah yes now I understand you can’t reproduce exactly in physical space. ...</small>
 
 <a href='https://github.com/mfem/mfem/issues/3360' target='_blank'>View Comment</a>
