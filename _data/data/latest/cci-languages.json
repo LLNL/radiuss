@@ -1134,7 +1134,7 @@
     "LLNL/merlin": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 608758,
+            "totalSize": 620546,
             "nodes": [
                 {
                     "name": "Python",
@@ -1163,10 +1163,10 @@
             ],
             "edges": [
                 {
-                    "size": 575654
+                    "size": 587407
                 },
                 {
-                    "size": 14852
+                    "size": 14887
                 },
                 {
                     "size": 9000
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11004243,
+            "totalSize": 11006829,
             "nodes": [
                 {
                     "name": "C",
@@ -1882,10 +1882,10 @@
             ],
             "edges": [
                 {
-                    "size": 8057491
+                    "size": 8058713
                 },
                 {
-                    "size": 1451288
+                    "size": 1452624
                 },
                 {
                     "size": 986572
@@ -1894,7 +1894,7 @@
                     "size": 163299
                 },
                 {
-                    "size": 148506
+                    "size": 148534
                 },
                 {
                     "size": 101586
@@ -2166,7 +2166,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14268556,
+            "totalSize": 14272290,
             "nodes": [
                 {
                     "name": "C++",
@@ -2211,7 +2211,7 @@
             ],
             "edges": [
                 {
-                    "size": 13743367
+                    "size": 13747101
                 },
                 {
                     "size": 232703
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 20923754,
+            "totalSize": 20935432,
             "nodes": [
                 {
                     "name": "Python",
@@ -2273,12 +2273,12 @@
                     "color": "#427819"
                 },
                 {
-                    "name": "Dockerfile",
-                    "color": "#384d54"
-                },
-                {
                     "name": "Batchfile",
                     "color": "#C1F12E"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
                 },
                 {
                     "name": "C++",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20555879
+                    "size": 20566325
                 },
                 {
                     "size": 194624
@@ -2341,10 +2341,10 @@
                     "size": 11904
                 },
                 {
-                    "size": 9365
+                    "size": 10370
                 },
                 {
-                    "size": 9138
+                    "size": 9365
                 },
                 {
                     "size": 3916
