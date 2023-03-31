@@ -1694,6 +1694,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": " SUNDIALS patch release v6.5.1",
+                    "publishedAt": "2023-03-30T18:02:12Z",
+                    "tagName": "v6.5.1"
+                },
+                {
                     "name": "SUNDIALS minor release v6.5.0",
                     "publishedAt": "2022-12-21T20:11:34Z",
                     "tagName": "v6.5.0"
