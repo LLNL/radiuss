@@ -100,10 +100,10 @@
             "totalCount": 177
         },
         "pullRequests_Merged": {
-            "totalCount": 2208
+            "totalCount": 2209
         },
         "issues_Open": {
-            "totalCount": 384
+            "totalCount": 386
         },
         "issues_Closed": {
             "totalCount": 2191
@@ -1778,7 +1778,7 @@
             "totalCount": 1162
         },
         "mentionableUsers": {
-            "totalCount": 567
+            "totalCount": 568
         },
         "forks": {
             "totalCount": 388
@@ -1803,10 +1803,10 @@
             "totalCount": 1314
         },
         "issues_Open": {
-            "totalCount": 79
+            "totalCount": 78
         },
         "issues_Closed": {
-            "totalCount": 1657
+            "totalCount": 1660
         }
     },
     "spack/spack": {
@@ -1830,10 +1830,10 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3321
+            "totalCount": 3323
         },
         "mentionableUsers": {
-            "totalCount": 1271
+            "totalCount": 1274
         },
         "forks": {
             "totalCount": 1748
@@ -1855,13 +1855,13 @@
             "totalCount": 3052
         },
         "pullRequests_Merged": {
-            "totalCount": 25523
+            "totalCount": 25529
         },
         "issues_Open": {
             "totalCount": 2182
         },
         "issues_Closed": {
-            "totalCount": 4945
+            "totalCount": 4946
         }
     },
     "visit-dav/visit": {
