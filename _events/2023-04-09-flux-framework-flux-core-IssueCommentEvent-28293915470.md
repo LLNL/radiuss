@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/jan-janssen' target='_blank'>jan-janssen</a> commented on issue <a href='https://github.com/flux-framework/flux-core/issues/5079' target='_blank'>flux-framework/flux-core#5079</a>.
 
-<small>It seems the `_GNU_SOURCE` topic is a more general issue with conda https://github.com/conda/conda-build/issues/3165 ...</small>
+<small>> Can you apply a patch during the conda build? We can try to provide a patch for `fileref.c` that can work around the issue, but I fear we'll just hit another issue since much of the code assumes a fully working glibc at this time....</small>
 
 <a href='https://github.com/flux-framework/flux-core/issues/5079' target='_blank'>View Comment</a>
