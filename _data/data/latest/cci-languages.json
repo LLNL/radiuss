@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37039642,
+            "totalSize": 37042258,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34800130
+                    "size": 34800283
                 },
                 {
                     "size": 556587
@@ -70,13 +70,13 @@
                     "size": 319572
                 },
                 {
-                    "size": 239777
+                    "size": 240548
                 },
                 {
                     "size": 111573
                 },
                 {
-                    "size": 99702
+                    "size": 101394
                 },
                 {
                     "size": 27373
@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9899498,
+            "totalSize": 9914960,
             "nodes": [
                 {
                     "name": "C++",
@@ -655,7 +655,7 @@
             ],
             "edges": [
                 {
-                    "size": 8506241
+                    "size": 8521703
                 },
                 {
                     "size": 535899
@@ -2166,7 +2166,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14309760,
+            "totalSize": 14309851,
             "nodes": [
                 {
                     "name": "C++",
@@ -2211,7 +2211,7 @@
             ],
             "edges": [
                 {
-                    "size": 13784431
+                    "size": 13784522
                 },
                 {
                     "size": 232843
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21011247,
+            "totalSize": 21019772,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20644050
+                    "size": 20652575
                 },
                 {
                     "size": 194624
