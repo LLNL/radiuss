@@ -957,7 +957,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3722941,
+            "totalSize": 3722940,
             "nodes": [
                 {
                     "name": "C++",
@@ -998,7 +998,7 @@
             ],
             "edges": [
                 {
-                    "size": 3475752
+                    "size": 3475751
                 },
                 {
                     "size": 68182
@@ -1030,7 +1030,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10678169,
+            "totalSize": 10678997,
             "nodes": [
                 {
                     "name": "C++",
@@ -1070,7 +1070,7 @@
                     "size": 7377297
                 },
                 {
-                    "size": 2139717
+                    "size": 2140545
                 },
                 {
                     "size": 720414
@@ -2051,7 +2051,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29020417,
+            "totalSize": 29096578,
             "nodes": [
                 {
                     "name": "C",
@@ -2116,10 +2116,10 @@
             ],
             "edges": [
                 {
-                    "size": 20639336
+                    "size": 20714567
                 },
                 {
-                    "size": 3565315
+                    "size": 3566205
                 },
                 {
                     "size": 3362673
@@ -2134,10 +2134,10 @@
                     "size": 196492
                 },
                 {
-                    "size": 95165
+                    "size": 95185
                 },
                 {
-                    "size": 70549
+                    "size": 70569
                 },
                 {
                     "size": 36358
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21019772,
+            "totalSize": 21020834,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20652575
+                    "size": 20653637
                 },
                 {
                     "size": 194624
@@ -2382,7 +2382,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99034790,
+            "totalSize": 99035447,
             "nodes": [
                 {
                     "name": "C",
@@ -2475,7 +2475,7 @@
             ],
             "edges": [
                 {
-                    "size": 74989315
+                    "size": 74989972
                 },
                 {
                     "size": 12682154
