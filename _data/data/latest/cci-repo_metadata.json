@@ -51,8 +51,8 @@
             "radiuss"
         ]
     },
-    "GEOSX/LvArray": {
-        "name": "GEOSX/LvArray",
+    "GEOS-DEV/LvArray": {
+        "name": "GEOS-DEV/LvArray",
         "description": "Portable HPC Containers (C++)",
         "website": "",
         "topics": [

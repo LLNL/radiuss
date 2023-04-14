@@ -69,7 +69,7 @@
             ]
         }
     },
-    "GEOSX/LvArray": {
+    "GEOS-DEV/LvArray": {
         "repositoryTopics": {
             "totalCount": 7,
             "nodes": [
