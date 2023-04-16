@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 17
         },
         "pullRequests_Closed": {
             "totalCount": 179
         },
         "pullRequests_Merged": {
-            "totalCount": 2223
+            "totalCount": 2227
         },
         "issues_Open": {
-            "totalCount": 395
+            "totalCount": 393
         },
         "issues_Closed": {
-            "totalCount": 2204
+            "totalCount": 2207
         }
     },
     "flux-framework/flux-sched": {
@@ -958,7 +958,7 @@
             "totalCount": 108
         },
         "mentionableUsers": {
-            "totalCount": 29
+            "totalCount": 30
         },
         "forks": {
             "totalCount": 38
@@ -974,13 +974,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 24
         },
         "pullRequests_Merged": {
-            "totalCount": 193
+            "totalCount": 194
         },
         "issues_Open": {
             "totalCount": 53
@@ -1778,7 +1778,7 @@
             "totalCount": 1195
         },
         "mentionableUsers": {
-            "totalCount": 574
+            "totalCount": 575
         },
         "forks": {
             "totalCount": 393
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 147
+            "totalCount": 146
         },
         "pullRequests_Closed": {
             "totalCount": 231
         },
         "pullRequests_Merged": {
-            "totalCount": 1322
+            "totalCount": 1323
         },
         "issues_Open": {
             "totalCount": 84
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3347
+            "totalCount": 3348
         },
         "mentionableUsers": {
             "totalCount": 1282
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 784
+            "totalCount": 725
         },
         "pullRequests_Closed": {
             "totalCount": 3065
         },
         "pullRequests_Merged": {
-            "totalCount": 25728
+            "totalCount": 25793
         },
         "issues_Open": {
-            "totalCount": 2042
+            "totalCount": 2045
         },
         "issues_Closed": {
             "totalCount": 5118
