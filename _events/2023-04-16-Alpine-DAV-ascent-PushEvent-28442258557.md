@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1194526?"
 user: cyrush
-date: 2023-04-15
+date: 2023-04-16
 repo_name: Alpine-DAV/ascent
-html_url: https://github.com/Alpine-DAV/ascent/commit/ceee34d62e23bc6ecfc0ad9dfcd2d70ab8f2c13e
+html_url: https://github.com/Alpine-DAV/ascent/commit/8171177a0dc1781dbfd442277b5dbf5b9f69a2e3
 repo_url: https://github.com/Alpine-DAV/ascent
 ---
 
 <a href='https://github.com/cyrush' target='_blank'>cyrush</a> pushed to <a href='https://github.com/Alpine-DAV/ascent' target='_blank'>Alpine-DAV/ascent</a>
 
-<small>no comment</small>
+<small>fixes</small>
 
-<a href='https://github.com/Alpine-DAV/ascent/commit/ceee34d62e23bc6ecfc0ad9dfcd2d70ab8f2c13e' target='_blank'>View Commit</a>
+<a href='https://github.com/Alpine-DAV/ascent/commit/8171177a0dc1781dbfd442277b5dbf5b9f69a2e3' target='_blank'>View Commit</a>
