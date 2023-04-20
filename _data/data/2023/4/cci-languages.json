@@ -214,7 +214,7 @@
     "LLNL/CARE": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 979198,
+            "totalSize": 989175,
             "nodes": [
                 {
                     "name": "C++",
@@ -239,16 +239,16 @@
             ],
             "edges": [
                 {
-                    "size": 701873
+                    "size": 711054
                 },
                 {
-                    "size": 168384
+                    "size": 169023
                 },
                 {
                     "size": 60583
                 },
                 {
-                    "size": 42756
+                    "size": 42913
                 },
                 {
                     "size": 5602
@@ -606,7 +606,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9942954,
+            "totalSize": 9951657,
             "nodes": [
                 {
                     "name": "C++",
@@ -661,10 +661,10 @@
                     "size": 535899
                 },
                 {
-                    "size": 377381
+                    "size": 386137
                 },
                 {
-                    "size": 203576
+                    "size": 203523
                 },
                 {
                     "size": 115337
@@ -811,7 +811,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9342075,
+            "totalSize": 9411861,
             "nodes": [
                 {
                     "name": "C++",
@@ -822,12 +822,12 @@
                     "color": "#555555"
                 },
                 {
-                    "name": "Fortran",
-                    "color": "#4d41b1"
-                },
-                {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "Fortran",
+                    "color": "#4d41b1"
                 },
                 {
                     "name": "CMake",
@@ -866,10 +866,10 @@
                     "size": 874996
                 },
                 {
-                    "size": 338722
+                    "size": 371278
                 },
                 {
-                    "size": 301492
+                    "size": 338722
                 },
                 {
                     "size": 191286
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11027863,
+            "totalSize": 11036323,
             "nodes": [
                 {
                     "name": "C",
@@ -1882,10 +1882,10 @@
             ],
             "edges": [
                 {
-                    "size": 8070702
+                    "size": 8077716
                 },
                 {
-                    "size": 1460474
+                    "size": 1461904
                 },
                 {
                     "size": 991043
@@ -1894,7 +1894,7 @@
                     "size": 162968
                 },
                 {
-                    "size": 147176
+                    "size": 147192
                 },
                 {
                     "size": 99997
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21088581,
+            "totalSize": 21106994,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,10 +2323,10 @@
             ],
             "edges": [
                 {
-                    "size": 20721007
+                    "size": 20738519
                 },
                 {
-                    "size": 194624
+                    "size": 195525
                 },
                 {
                     "size": 58070
@@ -2382,7 +2382,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99052550,
+            "totalSize": 99054525,
             "nodes": [
                 {
                     "name": "C",
@@ -2475,7 +2475,7 @@
             ],
             "edges": [
                 {
-                    "size": 74990116
+                    "size": 74990672
                 },
                 {
                     "size": 12682154
@@ -2490,7 +2490,7 @@
                     "size": 1546315
                 },
                 {
-                    "size": 1293715
+                    "size": 1295134
                 },
                 {
                     "size": 1196334
