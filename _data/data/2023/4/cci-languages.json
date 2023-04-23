@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37052518,
+            "totalSize": 37021976,
             "nodes": [
                 {
                     "name": "C++",
@@ -64,7 +64,7 @@
                     "size": 456192
                 },
                 {
-                    "size": 398258
+                    "size": 398354
                 },
                 {
                     "size": 319572
@@ -76,7 +76,7 @@
                     "size": 111573
                 },
                 {
-                    "size": 108757
+                    "size": 78119
                 },
                 {
                     "size": 27373
@@ -1825,7 +1825,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11036330,
+            "totalSize": 11036197,
             "nodes": [
                 {
                     "name": "C",
@@ -1882,10 +1882,10 @@
             ],
             "edges": [
                 {
-                    "size": 8077717
+                    "size": 8077443
                 },
                 {
-                    "size": 1461910
+                    "size": 1462051
                 },
                 {
                     "size": 991043
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21129002,
+            "totalSize": 21132015,
             "nodes": [
                 {
                     "name": "Python",
@@ -2323,7 +2323,7 @@
             ],
             "edges": [
                 {
-                    "size": 20760629
+                    "size": 20763642
                 },
                 {
                     "size": 195525
