@@ -750,7 +750,7 @@
     },
     "LLNL/blt": {
         "repositoryTopics": {
-            "totalCount": 8,
+            "totalCount": 9,
             "nodes": [
                 {
                     "topic": {
@@ -807,6 +807,13 @@
                     },
                     "resourcePath": "/topics/cpp",
                     "url": "https://github.com/topics/cpp"
+                },
+                {
+                    "topic": {
+                        "name": "cuda"
+                    },
+                    "resourcePath": "/topics/cuda",
+                    "url": "https://github.com/topics/cuda"
                 }
             ]
         }

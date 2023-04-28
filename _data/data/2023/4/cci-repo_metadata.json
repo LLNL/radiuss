@@ -103,7 +103,7 @@
     "LLNL/blt": {
         "name": "LLNL/blt",
         "description": "A streamlined CMake build system foundation for developing HPC software",
-        "website": null,
+        "website": "",
         "topics": [
             "cmake",
             "testing",
@@ -112,7 +112,8 @@
             "blt",
             "build-tools",
             "radiuss",
-            "cpp"
+            "cpp",
+            "cuda"
         ]
     },
     "LLNL/b-mpi3": {
