@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1793302,
+            "totalSize": 1793587,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,13 +121,13 @@
             ],
             "edges": [
                 {
-                    "size": 1645019
+                    "size": 1645290
                 },
                 {
                     "size": 62099
                 },
                 {
-                    "size": 38934
+                    "size": 38948
                 },
                 {
                     "size": 35815
@@ -693,7 +693,7 @@
     "LLNL/b-mpi3": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 801050,
+            "totalSize": 801309,
             "nodes": [
                 {
                     "name": "C++",
@@ -718,7 +718,7 @@
             ],
             "edges": [
                 {
-                    "size": 758762
+                    "size": 759021
                 },
                 {
                     "size": 22264
@@ -1839,7 +1839,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11161769,
+            "totalSize": 11169217,
             "nodes": [
                 {
                     "name": "C",
@@ -1896,19 +1896,19 @@
             ],
             "edges": [
                 {
-                    "size": 8181896
+                    "size": 8187898
                 },
                 {
-                    "size": 1479304
+                    "size": 1480503
                 },
                 {
-                    "size": 991899
+                    "size": 991987
                 },
                 {
                     "size": 163176
                 },
                 {
-                    "size": 149994
+                    "size": 150153
                 },
                 {
                     "size": 99997
@@ -2065,7 +2065,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29077867,
+            "totalSize": 29078383,
             "nodes": [
                 {
                     "name": "C",
@@ -2133,7 +2133,7 @@
                     "size": 20697989
                 },
                 {
-                    "size": 3564072
+                    "size": 3564588
                 },
                 {
                     "size": 3362673
@@ -2260,7 +2260,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21214506,
+            "totalSize": 21218577,
             "nodes": [
                 {
                     "name": "Python",
@@ -2337,7 +2337,7 @@
             ],
             "edges": [
                 {
-                    "size": 20842573
+                    "size": 20846644
                 },
                 {
                     "size": 195525
@@ -2396,7 +2396,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99107096,
+            "totalSize": 99107280,
             "nodes": [
                 {
                     "name": "C",
@@ -2501,13 +2501,13 @@
                     "size": 2982495
                 },
                 {
-                    "size": 1546315
+                    "size": 1546393
                 },
                 {
                     "size": 1295634
                 },
                 {
-                    "size": 1196334
+                    "size": 1196440
                 },
                 {
                     "size": 435101
