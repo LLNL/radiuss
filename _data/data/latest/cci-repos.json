@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 179
         },
         "pullRequests_Merged": {
-            "totalCount": 2259
+            "totalCount": 2261
         },
         "issues_Open": {
-            "totalCount": 398
+            "totalCount": 397
         },
         "issues_Closed": {
-            "totalCount": 2229
+            "totalCount": 2230
         }
     },
     "flux-framework/flux-sched": {
@@ -1308,7 +1308,7 @@
             "totalCount": 124
         },
         "issues_Open": {
-            "totalCount": 51
+            "totalCount": 52
         },
         "issues_Closed": {
             "totalCount": 32
@@ -1781,7 +1781,7 @@
             "totalCount": 577
         },
         "forks": {
-            "totalCount": 400
+            "totalCount": 399
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1797,13 +1797,13 @@
             "totalCount": 151
         },
         "pullRequests_Closed": {
-            "totalCount": 234
+            "totalCount": 235
         },
         "pullRequests_Merged": {
             "totalCount": 1337
         },
         "issues_Open": {
-            "totalCount": 86
+            "totalCount": 87
         },
         "issues_Closed": {
             "totalCount": 1688
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3392
+            "totalCount": 3391
         },
         "mentionableUsers": {
             "totalCount": 1292
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 810
+            "totalCount": 816
         },
         "pullRequests_Closed": {
-            "totalCount": 3096
+            "totalCount": 3098
         },
         "pullRequests_Merged": {
-            "totalCount": 26206
+            "totalCount": 26212
         },
         "issues_Open": {
-            "totalCount": 2049
+            "totalCount": 2048
         },
         "issues_Closed": {
-            "totalCount": 5177
+            "totalCount": 5179
         }
     },
     "visit-dav/visit": {
