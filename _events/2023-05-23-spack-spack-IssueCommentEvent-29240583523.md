@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/38933153?"
+user: eugeneswalker
+date: 2023-05-23
+repo_name: spack/spack
+html_url: https://github.com/spack/spack/pull/37837
+repo_url: https://github.com/spack/spack
+---
+
+<a href='https://github.com/eugeneswalker' target='_blank'>eugeneswalker</a> commented on issue <a href='https://github.com/spack/spack/pull/37837' target='_blank'>spack/spack#37837</a>.
+
+<small>All `E4S Cray` CI stack jobs are green!...</small>
+
+<a href='https://github.com/spack/spack/pull/37837' target='_blank'>View Comment</a>
