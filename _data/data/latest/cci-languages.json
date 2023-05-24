@@ -304,7 +304,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2333589,
+            "totalSize": 2333847,
             "nodes": [
                 {
                     "name": "C++",
@@ -349,7 +349,7 @@
             ],
             "edges": [
                 {
-                    "size": 1650416
+                    "size": 1650674
                 },
                 {
                     "size": 282198
@@ -971,7 +971,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3726919,
+            "totalSize": 3728603,
             "nodes": [
                 {
                     "name": "C++",
@@ -1012,7 +1012,7 @@
             ],
             "edges": [
                 {
-                    "size": 3479662
+                    "size": 3481346
                 },
                 {
                     "size": 68182
@@ -1839,7 +1839,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11223792,
+            "totalSize": 11224451,
             "nodes": [
                 {
                     "name": "C",
@@ -1899,7 +1899,7 @@
                     "size": 8218731
                 },
                 {
-                    "size": 1492921
+                    "size": 1493580
                 },
                 {
                     "size": 1001391
@@ -2260,7 +2260,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21451659,
+            "totalSize": 21479996,
             "nodes": [
                 {
                     "name": "Python",
@@ -2337,7 +2337,7 @@
             ],
             "edges": [
                 {
-                    "size": 21078101
+                    "size": 21106438
                 },
                 {
                     "size": 196079
@@ -2396,7 +2396,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99161744,
+            "totalSize": 99161791,
             "nodes": [
                 {
                     "name": "C",
@@ -2495,13 +2495,13 @@
                     "size": 12693126
                 },
                 {
-                    "size": 3758802
+                    "size": 3758836
                 },
                 {
                     "size": 2983821
                 },
                 {
-                    "size": 1539899
+                    "size": 1539912
                 },
                 {
                     "size": 1296670
