@@ -7042,6 +7042,10 @@
         {
             "date": "2023-04-24",
             "value": 4
+        },
+        {
+            "date": "2023-05-15",
+            "value": 2
         }
     ],
     "LLNL/merlin-spellbook": [

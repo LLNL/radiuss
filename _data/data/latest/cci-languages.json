@@ -533,7 +533,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3092000,
+            "totalSize": 3091992,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,7 +574,7 @@
             ],
             "edges": [
                 {
-                    "size": 2715441
+                    "size": 2715433
                 },
                 {
                     "size": 152771
@@ -1839,7 +1839,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11224451,
+            "totalSize": 11228656,
             "nodes": [
                 {
                     "name": "C",
@@ -1896,19 +1896,19 @@
             ],
             "edges": [
                 {
-                    "size": 8218731
+                    "size": 8221259
                 },
                 {
-                    "size": 1493580
+                    "size": 1494295
                 },
                 {
-                    "size": 1001391
+                    "size": 1002315
                 },
                 {
                     "size": 163176
                 },
                 {
-                    "size": 150837
+                    "size": 150875
                 },
                 {
                     "size": 99997
@@ -2180,7 +2180,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14857969,
+            "totalSize": 14866317,
             "nodes": [
                 {
                     "name": "C++",
@@ -2225,7 +2225,7 @@
             ],
             "edges": [
                 {
-                    "size": 14323635
+                    "size": 14331983
                 },
                 {
                     "size": 235514
@@ -2260,7 +2260,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21479996,
+            "totalSize": 21485373,
             "nodes": [
                 {
                     "name": "Python",
@@ -2337,7 +2337,7 @@
             ],
             "edges": [
                 {
-                    "size": 21106438
+                    "size": 21111815
                 },
                 {
                     "size": 196079
