@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 36011995,
+            "totalSize": 36012008,
             "nodes": [
                 {
                     "name": "C++",
@@ -76,7 +76,7 @@
                     "size": 111573
                 },
                 {
-                    "size": 78350
+                    "size": 78363
                 },
                 {
                     "size": 27373
@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4545941,
+            "totalSize": 4552797,
             "nodes": [
                 {
                     "name": "C++",
@@ -415,10 +415,10 @@
             ],
             "edges": [
                 {
-                    "size": 4273271
+                    "size": 4280102
                 },
                 {
-                    "size": 177858
+                    "size": 177883
                 },
                 {
                     "size": 80036
@@ -526,7 +526,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3092258,
+            "totalSize": 3093093,
             "nodes": [
                 {
                     "name": "C++",
@@ -567,7 +567,7 @@
             ],
             "edges": [
                 {
-                    "size": 2715433
+                    "size": 2716268
                 },
                 {
                     "size": 152771
@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10332932,
+            "totalSize": 10342876,
             "nodes": [
                 {
                     "name": "C++",
@@ -648,7 +648,7 @@
             ],
             "edges": [
                 {
-                    "size": 8941219
+                    "size": 8951163
                 },
                 {
                     "size": 535899
@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10782200,
+            "totalSize": 10783743,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,10 +1074,10 @@
             ],
             "edges": [
                 {
-                    "size": 7446974
+                    "size": 7447612
                 },
                 {
-                    "size": 2172806
+                    "size": 2173711
                 },
                 {
                     "size": 720540
@@ -1370,7 +1370,7 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 5904580,
+            "totalSize": 5905939,
             "nodes": [
                 {
                     "name": "Fortran",
@@ -1415,19 +1415,19 @@
             ],
             "edges": [
                 {
-                    "size": 1818045
+                    "size": 1817753
                 },
                 {
-                    "size": 1813356
+                    "size": 1813287
                 },
                 {
-                    "size": 1202148
+                    "size": 1202964
                 },
                 {
-                    "size": 936900
+                    "size": 937734
                 },
                 {
-                    "size": 118094
+                    "size": 118164
                 },
                 {
                     "size": 5898
@@ -1832,7 +1832,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11291984,
+            "totalSize": 11294346,
             "nodes": [
                 {
                     "name": "C",
@@ -1889,10 +1889,10 @@
             ],
             "edges": [
                 {
-                    "size": 8244412
+                    "size": 8245634
                 },
                 {
-                    "size": 1518210
+                    "size": 1519339
                 },
                 {
                     "size": 1017052
@@ -1901,7 +1901,7 @@
                     "size": 163211
                 },
                 {
-                    "size": 151680
+                    "size": 151691
                 },
                 {
                     "size": 99997
@@ -2058,7 +2058,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29049377,
+            "totalSize": 29052788,
             "nodes": [
                 {
                     "name": "C",
@@ -2123,7 +2123,7 @@
             ],
             "edges": [
                 {
-                    "size": 20658594
+                    "size": 20662005
                 },
                 {
                     "size": 3571106
@@ -2173,7 +2173,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 14888387,
+            "totalSize": 14888359,
             "nodes": [
                 {
                     "name": "C++",
@@ -2218,13 +2218,13 @@
             ],
             "edges": [
                 {
-                    "size": 14353824
+                    "size": 14353646
                 },
                 {
-                    "size": 235633
+                    "size": 235789
                 },
                 {
-                    "size": 134526
+                    "size": 134520
                 },
                 {
                     "size": 75239
@@ -2253,7 +2253,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21574579,
+            "totalSize": 21588056,
             "nodes": [
                 {
                     "name": "Python",
@@ -2292,12 +2292,12 @@
                     "color": "#f34b7d"
                 },
                 {
-                    "name": "PowerShell",
-                    "color": "#012456"
-                },
-                {
                     "name": "Lua",
                     "color": "#000080"
+                },
+                {
+                    "name": "PowerShell",
+                    "color": "#012456"
                 },
                 {
                     "name": "Standard ML",
@@ -2308,12 +2308,12 @@
                     "color": null
                 },
                 {
-                    "name": "HTML",
-                    "color": "#e34c26"
-                },
-                {
                     "name": "Tcl",
                     "color": "#e4cc98"
+                },
+                {
+                    "name": "HTML",
+                    "color": "#e34c26"
                 },
                 {
                     "name": "Perl",
@@ -2330,7 +2330,7 @@
             ],
             "edges": [
                 {
-                    "size": 21201281
+                    "size": 21214421
                 },
                 {
                     "size": 195821
@@ -2357,10 +2357,10 @@
                     "size": 3916
                 },
                 {
-                    "size": 2858
+                    "size": 2973
                 },
                 {
-                    "size": 2806
+                    "size": 2858
                 },
                 {
                     "size": 2592
@@ -2369,10 +2369,10 @@
                     "size": 2111
                 },
                 {
-                    "size": 1999
+                    "size": 2082
                 },
                 {
-                    "size": 1912
+                    "size": 1999
                 },
                 {
                     "size": 615
@@ -2389,7 +2389,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99255180,
+            "totalSize": 99255173,
             "nodes": [
                 {
                     "name": "C",
@@ -2494,7 +2494,7 @@
                     "size": 2983821
                 },
                 {
-                    "size": 1545899
+                    "size": 1545892
                 },
                 {
                     "size": 1297899
