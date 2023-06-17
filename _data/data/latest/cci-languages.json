@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 36012206,
+            "totalSize": 36018617,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 33777520
+                    "size": 33783623
                 },
                 {
                     "size": 556587
@@ -70,13 +70,13 @@
                     "size": 319572
                 },
                 {
-                    "size": 242028
+                    "size": 242259
                 },
                 {
                     "size": 111573
                 },
                 {
-                    "size": 78561
+                    "size": 78638
                 },
                 {
                     "size": 27373
@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10342876,
+            "totalSize": 10375128,
             "nodes": [
                 {
                     "name": "C++",
@@ -648,13 +648,13 @@
             ],
             "edges": [
                 {
-                    "size": 8951163
+                    "size": 8983381
                 },
                 {
                     "size": 535899
                 },
                 {
-                    "size": 375194
+                    "size": 375228
                 },
                 {
                     "size": 203841
@@ -2253,7 +2253,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21615832,
+            "totalSize": 21613868,
             "nodes": [
                 {
                     "name": "Python",
@@ -2330,7 +2330,7 @@
             ],
             "edges": [
                 {
-                    "size": 21241861
+                    "size": 21239897
                 },
                 {
                     "size": 195821
