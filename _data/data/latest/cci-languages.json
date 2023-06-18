@@ -1832,7 +1832,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11307532,
+            "totalSize": 11308719,
             "nodes": [
                 {
                     "name": "C",
@@ -1889,10 +1889,10 @@
             ],
             "edges": [
                 {
-                    "size": 8252125
+                    "size": 8252140
                 },
                 {
-                    "size": 1522049
+                    "size": 1523221
                 },
                 {
                     "size": 1020842
@@ -2058,7 +2058,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29133854,
+            "totalSize": 29133913,
             "nodes": [
                 {
                     "name": "C",
@@ -2123,7 +2123,7 @@
             ],
             "edges": [
                 {
-                    "size": 20729677
+                    "size": 20729736
                 },
                 {
                     "size": 3575623
@@ -2253,7 +2253,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 18,
-            "totalSize": 21613868,
+            "totalSize": 21613996,
             "nodes": [
                 {
                     "name": "Python",
@@ -2330,7 +2330,7 @@
             ],
             "edges": [
                 {
-                    "size": 21239897
+                    "size": 21240025
                 },
                 {
                     "size": 195821

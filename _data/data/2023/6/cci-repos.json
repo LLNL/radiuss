@@ -100,13 +100,13 @@
             "totalCount": 185
         },
         "pullRequests_Merged": {
-            "totalCount": 2316
+            "totalCount": 2317
         },
         "issues_Open": {
-            "totalCount": 411
+            "totalCount": 410
         },
         "issues_Closed": {
-            "totalCount": 2265
+            "totalCount": 2266
         }
     },
     "flux-framework/flux-sched": {
@@ -130,7 +130,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 70
+            "totalCount": 71
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -356,7 +356,7 @@
             "totalCount": 46
         },
         "forks": {
-            "totalCount": 136
+            "totalCount": 137
         },
         "primaryLanguage": {
             "name": "C"
@@ -375,10 +375,10 @@
             "totalCount": 25
         },
         "pullRequests_Merged": {
-            "totalCount": 440
+            "totalCount": 441
         },
         "issues_Open": {
-            "totalCount": 141
+            "totalCount": 142
         },
         "issues_Closed": {
             "totalCount": 291
@@ -983,7 +983,7 @@
             "totalCount": 196
         },
         "issues_Open": {
-            "totalCount": 53
+            "totalCount": 54
         },
         "issues_Closed": {
             "totalCount": 107
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 257
+            "totalCount": 259
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 624
+            "totalCount": 625
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1775,10 +1775,10 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1281
+            "totalCount": 1282
         },
         "mentionableUsers": {
-            "totalCount": 592
+            "totalCount": 593
         },
         "forks": {
             "totalCount": 409
@@ -1836,7 +1836,7 @@
             "totalCount": 1314
         },
         "forks": {
-            "totalCount": 1801
+            "totalCount": 1800
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,13 +1849,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 821
+            "totalCount": 823
         },
         "pullRequests_Closed": {
             "totalCount": 3164
         },
         "pullRequests_Merged": {
-            "totalCount": 26943
+            "totalCount": 26944
         },
         "issues_Open": {
             "totalCount": 2054
