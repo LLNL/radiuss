@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/92015510?"
+user: barracuda156
+date: 2023-06-18
+repo_name: mfem/mfem
+html_url: https://github.com/mfem/mfem/issues/3739
+repo_url: https://github.com/mfem/mfem
+---
+
+<a href='https://github.com/barracuda156' target='_blank'>barracuda156</a> commented on issue <a href='https://github.com/mfem/mfem/issues/3739' target='_blank'>mfem/mfem#3739</a>.
+
+<small>> Can post the full `cmake` command you use?...</small>
+
+<a href='https://github.com/mfem/mfem/issues/3739' target='_blank'>View Comment</a>
