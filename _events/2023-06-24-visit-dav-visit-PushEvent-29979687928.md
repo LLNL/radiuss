@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1102718?"
 user: brugger1
-date: 2023-06-23
+date: 2023-06-24
 repo_name: visit-dav/visit
-html_url: https://github.com/visit-dav/visit/commit/04a4c7823223b8a7d9b10ec1a1e3db9140783cb9
+html_url: https://github.com/visit-dav/visit/commit/475cfac1656890f099d0b6f1a7f1345446722769
 repo_url: https://github.com/visit-dav/visit
 ---
 
 <a href='https://github.com/brugger1' target='_blank'>brugger1</a> pushed to <a href='https://github.com/visit-dav/visit' target='_blank'>visit-dav/visit</a>
 
-<small>Fix an error in the frontier host profile. (#18792) (#18793)</small>
+<small>Update the last test suite pass on pascal.</small>
 
-<a href='https://github.com/visit-dav/visit/commit/04a4c7823223b8a7d9b10ec1a1e3db9140783cb9' target='_blank'>View Commit</a>
+<a href='https://github.com/visit-dav/visit/commit/475cfac1656890f099d0b6f1a7f1345446722769' target='_blank'>View Commit</a>
