@@ -10,6 +10,6 @@ repo_url: https://github.com/mfem/mfem
 
 <a href='https://github.com/psocratis' target='_blank'>psocratis</a> commented on issue <a href='https://github.com/mfem/mfem/issues/3751' target='_blank'>mfem/mfem#3751</a>.
 
-<small>@sungho91, can you send us your code or a minimal example that you see the same failure? ...</small>
+<small>> @psocratis Sure. Let me know your email address and I'll touch with you....</small>
 
 <a href='https://github.com/mfem/mfem/issues/3751' target='_blank'>View Comment</a>
