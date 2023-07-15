@@ -126,6 +126,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v0.11.0",
+                    "publishedAt": "2023-07-14T16:17:33Z",
+                    "tagName": "v0.11.0"
+                },
+                {
                     "name": "v0.10.0",
                     "publishedAt": "2023-04-19T16:18:41Z",
                     "tagName": "v0.10.0"
