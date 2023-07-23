@@ -48,10 +48,10 @@
             "totalCount": 679
         },
         "issues_Open": {
-            "totalCount": 149
+            "totalCount": 148
         },
         "issues_Closed": {
-            "totalCount": 271
+            "totalCount": 272
         }
     },
     "flux-framework/flux-core": {
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 133
+            "totalCount": 134
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 186
         },
         "pullRequests_Merged": {
-            "totalCount": 2354
+            "totalCount": 2356
         },
         "issues_Open": {
             "totalCount": 421
@@ -130,7 +130,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 73
+            "totalCount": 74
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -735,7 +735,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 153
+            "totalCount": 154
         },
         "mentionableUsers": {
             "totalCount": 51
@@ -1641,7 +1641,7 @@
             "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 121
+            "totalCount": 122
         }
     },
     "LLNL/Umpire": {
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 641
+            "totalCount": 642
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3490
+            "totalCount": 3496
         },
         "mentionableUsers": {
             "totalCount": 1331
         },
         "forks": {
-            "totalCount": 1826
+            "totalCount": 1825
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,13 +1849,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 800
+            "totalCount": 796
         },
         "pullRequests_Closed": {
             "totalCount": 3209
         },
         "pullRequests_Merged": {
-            "totalCount": 27408
+            "totalCount": 27415
         },
         "issues_Open": {
             "totalCount": 2065
