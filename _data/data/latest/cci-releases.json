@@ -292,6 +292,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2023.06.0",
+                    "publishedAt": "2023-07-25T17:55:46Z",
+                    "tagName": "v2023.06.0"
+                },
+                {
                     "name": "v2022.10.0",
                     "publishedAt": "2022-12-19T18:12:58Z",
                     "tagName": "v2022.10.0"
