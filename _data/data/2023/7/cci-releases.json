@@ -368,6 +368,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Caliper v2.10.0",
+                    "publishedAt": "2023-07-26T18:04:05Z",
+                    "tagName": "v2.10.0"
+                },
+                {
                     "name": "Caliper v2.9.1",
                     "publishedAt": "2023-01-25T00:26:07Z",
                     "tagName": "v2.9.1"
@@ -841,6 +846,11 @@
     "LLNL/axom": {
         "releases": {
             "nodes": [
+                {
+                    "name": "Axom-v0.8.0",
+                    "publishedAt": "2023-07-26T17:56:14Z",
+                    "tagName": "v0.8.0"
+                },
                 {
                     "name": "Axom-v0.7.0",
                     "publishedAt": "2022-09-01T21:39:50Z",
