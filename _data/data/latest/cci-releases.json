@@ -852,6 +852,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Axom-v0.8.1",
+                    "publishedAt": "2023-08-11T15:39:49Z",
+                    "tagName": "v0.8.1"
+                },
+                {
                     "name": "Axom-v0.8.0",
                     "publishedAt": "2023-07-26T17:56:14Z",
                     "tagName": "v0.8.0"
