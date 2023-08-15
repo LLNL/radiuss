@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10492521,
+            "totalSize": 10492461,
             "nodes": [
                 {
                     "name": "C++",
@@ -648,7 +648,7 @@
             ],
             "edges": [
                 {
-                    "size": 9084293
+                    "size": 9084233
                 },
                 {
                     "size": 535899
@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10959559,
+            "totalSize": 10960679,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,10 +1074,10 @@
             ],
             "edges": [
                 {
-                    "size": 7489928
+                    "size": 7490464
                 },
                 {
-                    "size": 2273944
+                    "size": 2274528
                 },
                 {
                     "size": 739862
@@ -2253,7 +2253,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22148444,
+            "totalSize": 22152156,
             "nodes": [
                 {
                     "name": "Python",
@@ -2334,7 +2334,7 @@
             ],
             "edges": [
                 {
-                    "size": 21488626
+                    "size": 21492252
                 },
                 {
                     "size": 473858
@@ -2346,7 +2346,7 @@
                     "size": 49894
                 },
                 {
-                    "size": 13459
+                    "size": 13545
                 },
                 {
                     "size": 13373
