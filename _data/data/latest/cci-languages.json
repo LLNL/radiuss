@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1857145,
+            "totalSize": 1857146,
             "nodes": [
                 {
                     "name": "C++",
@@ -127,7 +127,7 @@
                     "size": 62099
                 },
                 {
-                    "size": 39622
+                    "size": 39623
                 },
                 {
                     "size": 35815
@@ -905,7 +905,7 @@
     "LLNL/hatchet": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 1727106,
+            "totalSize": 1723225,
             "nodes": [
                 {
                     "name": "JavaScript",
@@ -941,7 +941,7 @@
                     "size": 1090975
                 },
                 {
-                    "size": 591230
+                    "size": 587349
                 },
                 {
                     "size": 35169
@@ -1832,7 +1832,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11618123,
+            "totalSize": 11619547,
             "nodes": [
                 {
                     "name": "C",
@@ -1892,10 +1892,10 @@
                     "size": 8402505
                 },
                 {
-                    "size": 1557937
+                    "size": 1559038
                 },
                 {
-                    "size": 1140047
+                    "size": 1140370
                 },
                 {
                     "size": 162875
@@ -2253,7 +2253,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22190673,
+            "totalSize": 22196895,
             "nodes": [
                 {
                     "name": "Python",
@@ -2334,7 +2334,7 @@
             ],
             "edges": [
                 {
-                    "size": 21512584
+                    "size": 21518806
                 },
                 {
                     "size": 473858
