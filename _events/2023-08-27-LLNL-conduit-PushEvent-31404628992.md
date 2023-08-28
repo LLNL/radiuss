@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1194526?"
 user: cyrush
-date: 2023-08-26
+date: 2023-08-27
 repo_name: LLNL/conduit
-html_url: https://github.com/LLNL/conduit/commit/106fbd0f4195b9c49aef19b94632cd83060daa51
+html_url: https://github.com/LLNL/conduit/commit/fb3531c7652fbcaa50520f8713b7cf3d685eebd8
 repo_url: https://github.com/LLNL/conduit
 ---
 
 <a href='https://github.com/cyrush' target='_blank'>cyrush</a> pushed to <a href='https://github.com/LLNL/conduit' target='_blank'>LLNL/conduit</a>
 
-<small>wip towards parsing</small>
+<small>still a mystery</small>
 
-<a href='https://github.com/LLNL/conduit/commit/106fbd0f4195b9c49aef19b94632cd83060daa51' target='_blank'>View Commit</a>
+<a href='https://github.com/LLNL/conduit/commit/fb3531c7652fbcaa50520f8713b7cf3d685eebd8' target='_blank'>View Commit</a>
