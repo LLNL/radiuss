@@ -13,7 +13,7 @@ Join us this summer as we host a series of tutorials in collaboration with AWS, 
 
 ## We're offering seven tutorials in August
 
-<a class="btn btn-dark btn-lg" type="button" href="https://forms.gle/3wAKK5PBizUiNaVg6" alt="Sign up button" target="_blank">Sign up today</a>
+<!--- <a class="btn btn-dark btn-lg" type="button" href="https://forms.gle/3wAKK5PBizUiNaVg6" alt="Sign up button" target="_blank">Sign up today</a> --->
 
 **Check out the *Materials* links below if you missed these tutorials.**
 {: .alert .alert-info .text-center}
