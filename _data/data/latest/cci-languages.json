@@ -686,7 +686,7 @@
     "LLNL/b-mpi3": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 810509,
+            "totalSize": 808406,
             "nodes": [
                 {
                     "name": "C++",
@@ -711,13 +711,13 @@
             ],
             "edges": [
                 {
-                    "size": 767804
+                    "size": 765422
                 },
                 {
                     "size": 22264
                 },
                 {
-                    "size": 18204
+                    "size": 18483
                 },
                 {
                     "size": 1768
@@ -2211,7 +2211,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22341092,
+            "totalSize": 22349304,
             "nodes": [
                 {
                     "name": "Python",
@@ -2292,7 +2292,7 @@
             ],
             "edges": [
                 {
-                    "size": 21654401
+                    "size": 21662613
                 },
                 {
                     "size": 482029
