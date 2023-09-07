@@ -526,7 +526,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3096878,
+            "totalSize": 3099741,
             "nodes": [
                 {
                     "name": "C++",
@@ -567,7 +567,7 @@
             ],
             "edges": [
                 {
-                    "size": 2719185
+                    "size": 2722048
                 },
                 {
                     "size": 152771
@@ -964,7 +964,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3892615,
+            "totalSize": 3892627,
             "nodes": [
                 {
                     "name": "C++",
@@ -1005,7 +1005,7 @@
             ],
             "edges": [
                 {
-                    "size": 3640228
+                    "size": 3640240
                 },
                 {
                     "size": 69049
@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10977060,
+            "totalSize": 10981399,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,10 +1074,10 @@
             ],
             "edges": [
                 {
-                    "size": 7459259
+                    "size": 7462972
                 },
                 {
-                    "size": 2311223
+                    "size": 2311849
                 },
                 {
                     "size": 744792
@@ -1543,7 +1543,7 @@
     "LLNL/sundials": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11134039,
+            "totalSize": 10535363,
             "nodes": [
                 {
                     "name": "C",
@@ -1578,51 +1578,51 @@
                     "color": null
                 },
                 {
-                    "name": "Makefile",
-                    "color": "#427819"
-                },
-                {
                     "name": "Perl",
                     "color": "#0298c3"
                 },
                 {
                     "name": "Dockerfile",
                     "color": "#384d54"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
                 }
             ],
             "edges": [
                 {
-                    "size": 7234582
+                    "size": 6643719
                 },
                 {
                     "size": 1583018
                 },
                 {
-                    "size": 1129496
+                    "size": 1137150
                 },
                 {
-                    "size": 494459
+                    "size": 498144
                 },
                 {
-                    "size": 206229
+                    "size": 203168
                 },
                 {
-                    "size": 196318
+                    "size": 196387
                 },
                 {
-                    "size": 175725
+                    "size": 177167
                 },
                 {
                     "size": 74748
-                },
-                {
-                    "size": 22985
                 },
                 {
                     "size": 8351
                 },
                 {
                     "size": 8128
+                },
+                {
+                    "size": 5383
                 }
             ]
         }
@@ -1891,7 +1891,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2821177,
+            "totalSize": 2820337,
             "nodes": [
                 {
                     "name": "C++",
@@ -1932,10 +1932,10 @@
             ],
             "edges": [
                 {
-                    "size": 2103700
+                    "size": 2103534
                 },
                 {
-                    "size": 469929
+                    "size": 469255
                 },
                 {
                     "size": 83041
@@ -2211,7 +2211,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22355575,
+            "totalSize": 22369039,
             "nodes": [
                 {
                     "name": "Python",
@@ -2292,7 +2292,7 @@
             ],
             "edges": [
                 {
-                    "size": 21668884
+                    "size": 21682348
                 },
                 {
                     "size": 482029
@@ -2354,7 +2354,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99179019,
+            "totalSize": 99179784,
             "nodes": [
                 {
                     "name": "C",
@@ -2447,25 +2447,25 @@
             ],
             "edges": [
                 {
-                    "size": 74993147
+                    "size": 74995022
                 },
                 {
-                    "size": 12706218
+                    "size": 12706605
                 },
                 {
                     "size": 3776621
                 },
                 {
-                    "size": 3000191
+                    "size": 2998957
                 },
                 {
-                    "size": 1564300
+                    "size": 1564015
                 },
                 {
                     "size": 1299665
                 },
                 {
-                    "size": 1227672
+                    "size": 1227694
                 },
                 {
                     "size": 435101
