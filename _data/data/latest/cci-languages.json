@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10981399,
+            "totalSize": 10981380,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,7 +1074,7 @@
             ],
             "edges": [
                 {
-                    "size": 7462972
+                    "size": 7462953
                 },
                 {
                     "size": 2311849
@@ -1231,7 +1231,7 @@
     "LLNL/psuade": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 8914038,
+            "totalSize": 8913475,
             "nodes": [
                 {
                     "name": "C++",
@@ -1256,7 +1256,7 @@
             ],
             "edges": [
                 {
-                    "size": 8603447
+                    "size": 8602884
                 },
                 {
                     "size": 207236
@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11710630,
+            "totalSize": 11715435,
             "nodes": [
                 {
                     "name": "C",
@@ -1847,10 +1847,10 @@
             ],
             "edges": [
                 {
-                    "size": 8457068
+                    "size": 8460546
                 },
                 {
-                    "size": 1574000
+                    "size": 1575301
                 },
                 {
                     "size": 1164468
@@ -1859,7 +1859,7 @@
                     "size": 162875
                 },
                 {
-                    "size": 154080
+                    "size": 154106
                 },
                 {
                     "size": 99997
@@ -1890,8 +1890,8 @@
     },
     "flux-framework/flux-sched": {
         "languages": {
-            "totalCount": 9,
-            "totalSize": 2820337,
+            "totalCount": 10,
+            "totalSize": 2861348,
             "nodes": [
                 {
                     "name": "C++",
@@ -1912,6 +1912,10 @@
                 {
                     "name": "C",
                     "color": "#555555"
+                },
+                {
+                    "name": "CMake",
+                    "color": "#DA3434"
                 },
                 {
                     "name": "Makefile",
@@ -1935,16 +1939,19 @@
                     "size": 2103534
                 },
                 {
-                    "size": 469255
+                    "size": 482033
                 },
                 {
-                    "size": 83041
+                    "size": 83043
                 },
                 {
-                    "size": 68318
+                    "size": 69283
                 },
                 {
                     "size": 48959
+                },
+                {
+                    "size": 28028
                 },
                 {
                     "size": 21977
@@ -1956,7 +1963,7 @@
                     "size": 6806
                 },
                 {
-                    "size": 6740
+                    "size": 5978
                 }
             ]
         }
@@ -2211,7 +2218,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22369039,
+            "totalSize": 22380667,
             "nodes": [
                 {
                     "name": "Python",
@@ -2292,7 +2299,7 @@
             ],
             "edges": [
                 {
-                    "size": 21682348
+                    "size": 21693976
                 },
                 {
                     "size": 482029
