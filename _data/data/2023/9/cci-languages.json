@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10981851,
+            "totalSize": 10981260,
             "nodes": [
                 {
                     "name": "C++",
@@ -1077,7 +1077,7 @@
                     "size": 7463461
                 },
                 {
-                    "size": 2311812
+                    "size": 2313088
                 },
                 {
                     "size": 744792
@@ -1086,7 +1086,7 @@
                     "size": 314760
                 },
                 {
-                    "size": 139146
+                    "size": 137279
                 },
                 {
                     "size": 3903
