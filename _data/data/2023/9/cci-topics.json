@@ -981,7 +981,7 @@
     },
     "LLNL/hiop": {
         "repositoryTopics": {
-            "totalCount": 18,
+            "totalCount": 20,
             "nodes": [
                 {
                     "topic": {
@@ -1003,13 +1003,6 @@
                     },
                     "resourcePath": "/topics/nonlinear-programming",
                     "url": "https://github.com/topics/nonlinear-programming"
-                },
-                {
-                    "topic": {
-                        "name": "nonlinear-optimization-algorithms"
-                    },
-                    "resourcePath": "/topics/nonlinear-optimization-algorithms",
-                    "url": "https://github.com/topics/nonlinear-optimization-algorithms"
                 },
                 {
                     "topic": {
@@ -1108,6 +1101,27 @@
                     },
                     "resourcePath": "/topics/radiuss",
                     "url": "https://github.com/topics/radiuss"
+                },
+                {
+                    "topic": {
+                        "name": "interior-point-optimizer"
+                    },
+                    "resourcePath": "/topics/interior-point-optimizer",
+                    "url": "https://github.com/topics/interior-point-optimizer"
+                },
+                {
+                    "topic": {
+                        "name": "nonsmooth-optimization"
+                    },
+                    "resourcePath": "/topics/nonsmooth-optimization",
+                    "url": "https://github.com/topics/nonsmooth-optimization"
+                },
+                {
+                    "topic": {
+                        "name": "rocm"
+                    },
+                    "resourcePath": "/topics/rocm",
+                    "url": "https://github.com/topics/rocm"
                 }
             ]
         }
