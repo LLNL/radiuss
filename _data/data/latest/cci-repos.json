@@ -100,13 +100,13 @@
             "totalCount": 188
         },
         "pullRequests_Merged": {
-            "totalCount": 2413
+            "totalCount": 2414
         },
         "issues_Open": {
-            "totalCount": 423
+            "totalCount": 422
         },
         "issues_Closed": {
-            "totalCount": 2322
+            "totalCount": 2323
         }
     },
     "flux-framework/flux-sched": {
@@ -155,13 +155,13 @@
             "totalCount": 51
         },
         "pullRequests_Merged": {
-            "totalCount": 452
+            "totalCount": 454
         },
         "issues_Open": {
-            "totalCount": 98
+            "totalCount": 99
         },
         "issues_Closed": {
-            "totalCount": 451
+            "totalCount": 453
         }
     },
     "GLVis/glvis": {
@@ -424,7 +424,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 40
@@ -796,7 +796,7 @@
             "totalCount": 30
         },
         "forks": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "primaryLanguage": {
             "name": "JavaScript"
@@ -809,7 +809,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 7
@@ -1010,7 +1010,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 99
+            "totalCount": 100
         },
         "mentionableUsers": {
             "totalCount": 23
@@ -1253,10 +1253,10 @@
             "totalCount": 909
         },
         "issues_Open": {
-            "totalCount": 158
+            "totalCount": 157
         },
         "issues_Closed": {
-            "totalCount": 279
+            "totalCount": 283
         }
     },
     "LLNL/SAMRAI": {
@@ -1305,13 +1305,13 @@
             "totalCount": 16
         },
         "pullRequests_Merged": {
-            "totalCount": 133
+            "totalCount": 134
         },
         "issues_Open": {
-            "totalCount": 53
+            "totalCount": 52
         },
         "issues_Closed": {
-            "totalCount": 32
+            "totalCount": 33
         }
     },
     "LLNL/scr": {
@@ -1354,7 +1354,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 21
@@ -1629,19 +1629,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 53
         },
         "pullRequests_Merged": {
-            "totalCount": 115
+            "totalCount": 116
         },
         "issues_Open": {
             "totalCount": 33
         },
         "issues_Closed": {
-            "totalCount": 126
+            "totalCount": 127
         }
     },
     "LLNL/Umpire": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1366
+            "totalCount": 1369
         },
         "mentionableUsers": {
             "totalCount": 608
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 164
+            "totalCount": 162
         },
         "pullRequests_Closed": {
             "totalCount": 241
         },
         "pullRequests_Merged": {
-            "totalCount": 1400
+            "totalCount": 1403
         },
         "issues_Open": {
-            "totalCount": 117
+            "totalCount": 116
         },
         "issues_Closed": {
-            "totalCount": 1769
+            "totalCount": 1770
         }
     },
     "spack/spack": {
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3615
+            "totalCount": 3617
         },
         "mentionableUsers": {
-            "totalCount": 1369
+            "totalCount": 1370
         },
         "forks": {
-            "totalCount": 1881
+            "totalCount": 1882
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,13 +1849,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 882
+            "totalCount": 892
         },
         "pullRequests_Closed": {
-            "totalCount": 3288
+            "totalCount": 3289
         },
         "pullRequests_Merged": {
-            "totalCount": 28052
+            "totalCount": 28063
         },
         "issues_Open": {
             "totalCount": 2143
@@ -1913,10 +1913,10 @@
             "totalCount": 2486
         },
         "issues_Open": {
-            "totalCount": 1774
+            "totalCount": 1775
         },
         "issues_Closed": {
-            "totalCount": 3190
+            "totalCount": 3191
         }
     },
     "XBraid/xbraid": {
