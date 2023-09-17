@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-sched
 
 <a href='https://github.com/vsoch' target='_blank'>vsoch</a> commented on issue <a href='https://github.com/flux-framework/flux-sched/pull/1062' target='_blank'>flux-framework/flux-sched#1062</a>.
 
-<small>It's green!! Ahh @cmisale @milroy we are almost there!! This one was easier because I could see libresource isn't linked:...</small>
+<small>Going to squash commits now that I know it works......</small>
 
 <a href='https://github.com/flux-framework/flux-sched/pull/1062' target='_blank'>View Comment</a>
