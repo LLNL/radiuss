@@ -1095,6 +1095,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2023.1.1",
+                    "publishedAt": "2023-09-20T20:49:20Z",
+                    "tagName": "v2023.1.1"
+                },
+                {
                     "name": "v2023.1.0",
                     "publishedAt": "2023-05-24T20:29:54Z",
                     "tagName": "v2023.1.0"
@@ -1746,11 +1751,6 @@
                     "name": "Full support for namespaces",
                     "publishedAt": "2018-04-05T04:52:16Z",
                     "tagName": "v0.9.0"
-                },
-                {
-                    "name": "Improve Python, allocatable support",
-                    "publishedAt": "2018-02-27T02:44:51Z",
-                    "tagName": "v0.8.0"
                 },
                 {
                     "name": "Add C preprocessor conditions to generated code",
