@@ -2,16 +2,16 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/37929162?"
 user: mergify[bot]
-date: 2023-09-22
+date: 2023-09-23
 repo_name: flux-framework/flux-core
-html_url: https://github.com/flux-framework/flux-core/commit/c349c942d8bb133095d11114d9fe916dc4cb351c
+html_url: https://github.com/flux-framework/flux-core/commit/459af28f5c9ee3177e2af1eb825643ef421acd94
 repo_url: https://github.com/flux-framework/flux-core
 ---
 
 <a href='https://github.com/mergify[bot]' target='_blank'>mergify[bot]</a> pushed to <a href='https://github.com/flux-framework/flux-core' target='_blank'>flux-framework/flux-core</a>
 
-<small>Merge pull request #5461 from garlick/nix_czmq_full
+<small>Merge pull request #5468 from garlick/nix_czmq_final
 
-libzmqutil: add cert class and use it instead of CZMQ zcert_t</small>
+drop libzcmq dependency</small>
 
-<a href='https://github.com/flux-framework/flux-core/commit/c349c942d8bb133095d11114d9fe916dc4cb351c' target='_blank'>View Commit</a>
+<a href='https://github.com/flux-framework/flux-core/commit/459af28f5c9ee3177e2af1eb825643ef421acd94' target='_blank'>View Commit</a>
