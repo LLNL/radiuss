@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/garlick' target='_blank'>garlick</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/5477' target='_blank'>flux-framework/flux-core#5477</a>.
 
-<small>Admittedly this section is useful stuff for flux framework generally but my goal (as noted in #5470) was to build up some flux-core specific documentation to complement the manual pages....</small>
+<small>I made a couple of changes to the last sections....</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/5477' target='_blank'>View Comment</a>
