@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 293
+            "totalCount": 294
         },
         "mentionableUsers": {
             "totalCount": 33
@@ -955,7 +955,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 120
+            "totalCount": 121
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -1415,7 +1415,7 @@
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 308
+            "totalCount": 309
         },
         "issues_Open": {
             "totalCount": 9
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 870
+            "totalCount": 869
         },
         "pullRequests_Closed": {
             "totalCount": 3309
         },
         "pullRequests_Merged": {
-            "totalCount": 28350
+            "totalCount": 28353
         },
         "issues_Open": {
-            "totalCount": 2165
+            "totalCount": 2167
         },
         "issues_Closed": {
             "totalCount": 5452
