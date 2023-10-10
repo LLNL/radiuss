@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 10990195,
+            "totalSize": 10990281,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,7 +1074,7 @@
             ],
             "edges": [
                 {
-                    "size": 7467907
+                    "size": 7467993
                 },
                 {
                     "size": 2308924
@@ -1141,7 +1141,7 @@
     "LLNL/merlin": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 647135,
+            "totalSize": 647522,
             "nodes": [
                 {
                     "name": "Python",
@@ -1170,7 +1170,7 @@
             ],
             "edges": [
                 {
-                    "size": 613995
+                    "size": 614382
                 },
                 {
                     "size": 14887
@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11792818,
+            "totalSize": 11791624,
             "nodes": [
                 {
                     "name": "C",
@@ -1847,10 +1847,10 @@
             ],
             "edges": [
                 {
-                    "size": 8515889
+                    "size": 8514871
                 },
                 {
-                    "size": 1587944
+                    "size": 1587945
                 },
                 {
                     "size": 1170175
@@ -1859,7 +1859,7 @@
                     "size": 166231
                 },
                 {
-                    "size": 155248
+                    "size": 155071
                 },
                 {
                     "size": 99997
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22620852,
+            "totalSize": 22634425,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 21931963
+                    "size": 21945536
                 },
                 {
                     "size": 483828
