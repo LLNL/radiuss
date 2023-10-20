@@ -297,7 +297,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2357128,
+            "totalSize": 2351509,
             "nodes": [
                 {
                     "name": "C++",
@@ -342,7 +342,7 @@
             ],
             "edges": [
                 {
-                    "size": 1665151
+                    "size": 1659532
                 },
                 {
                     "size": 288309
@@ -432,7 +432,7 @@
     "LLNL/SAMRAI": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 17445539,
+            "totalSize": 17447437,
             "nodes": [
                 {
                     "name": "C++",
@@ -485,7 +485,7 @@
             ],
             "edges": [
                 {
-                    "size": 15616620
+                    "size": 15618277
                 },
                 {
                     "size": 926074
@@ -494,7 +494,7 @@
                     "size": 288155
                 },
                 {
-                    "size": 156416
+                    "size": 156657
                 },
                 {
                     "size": 142924
@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11821960,
+            "totalSize": 11789947,
             "nodes": [
                 {
                     "name": "C",
@@ -1847,19 +1847,19 @@
             ],
             "edges": [
                 {
-                    "size": 8544032
+                    "size": 8536834
                 },
                 {
-                    "size": 1587861
+                    "size": 1565922
                 },
                 {
                     "size": 1172283
                 },
                 {
-                    "size": 166231
+                    "size": 167146
                 },
                 {
-                    "size": 154222
+                    "size": 150431
                 },
                 {
                     "size": 99997
@@ -1891,7 +1891,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 2895351,
+            "totalSize": 2879071,
             "nodes": [
                 {
                     "name": "C++",
@@ -1940,10 +1940,10 @@
             ],
             "edges": [
                 {
-                    "size": 2112050
+                    "size": 2103155
                 },
                 {
-                    "size": 485334
+                    "size": 478840
                 },
                 {
                     "size": 83502
@@ -1955,10 +1955,10 @@
                     "size": 48959
                 },
                 {
-                    "size": 31345
+                    "size": 31165
                 },
                 {
-                    "size": 22976
+                    "size": 22265
                 },
                 {
                     "size": 15865
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29415146,
+            "totalSize": 29415442,
             "nodes": [
                 {
                     "name": "C",
@@ -2095,7 +2095,7 @@
             ],
             "edges": [
                 {
-                    "size": 20998517
+                    "size": 20998813
                 },
                 {
                     "size": 3579428
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22690112,
+            "totalSize": 22708405,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,10 +2306,10 @@
             ],
             "edges": [
                 {
-                    "size": 22001015
+                    "size": 22019546
                 },
                 {
-                    "size": 484115
+                    "size": 483877
                 },
                 {
                     "size": 79072
