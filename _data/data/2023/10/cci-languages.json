@@ -1276,7 +1276,7 @@
     "LLNL/scr": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1464734,
+            "totalSize": 1463411,
             "nodes": [
                 {
                     "name": "C",
@@ -1308,16 +1308,16 @@
                     "size": 872906
                 },
                 {
-                    "size": 313548
+                    "size": 304801
                 },
                 {
                     "size": 126364
                 },
                 {
-                    "size": 112941
+                    "size": 119790
                 },
                 {
-                    "size": 38779
+                    "size": 39354
                 },
                 {
                     "size": 196
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22885721,
+            "totalSize": 22887396,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 22193683
+                    "size": 22195358
                 },
                 {
                     "size": 486443
