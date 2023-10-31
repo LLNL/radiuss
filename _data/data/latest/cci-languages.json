@@ -259,7 +259,7 @@
     "LLNL/CHAI": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 355057,
+            "totalSize": 355196,
             "nodes": [
                 {
                     "name": "C++",
@@ -280,7 +280,7 @@
             ],
             "edges": [
                 {
-                    "size": 323979
+                    "size": 324118
                 },
                 {
                     "size": 15617
@@ -818,7 +818,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10008298,
+            "totalSize": 10010678,
             "nodes": [
                 {
                     "name": "C++",
@@ -867,7 +867,7 @@
             ],
             "edges": [
                 {
-                    "size": 8136693
+                    "size": 8139073
                 },
                 {
                     "size": 874996
@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 11075392,
+            "totalSize": 11096352,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,19 +1074,19 @@
             ],
             "edges": [
                 {
-                    "size": 7523823
+                    "size": 7545311
                 },
                 {
-                    "size": 2337150
+                    "size": 2336531
                 },
                 {
                     "size": 746419
                 },
                 {
-                    "size": 315157
+                    "size": 315194
                 },
                 {
-                    "size": 144963
+                    "size": 145017
                 },
                 {
                     "size": 3903
@@ -1103,7 +1103,7 @@
     "LLNL/maestrowf": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 432499,
+            "totalSize": 433411,
             "nodes": [
                 {
                     "name": "Python",
@@ -1124,7 +1124,7 @@
             ],
             "edges": [
                 {
-                    "size": 429528
+                    "size": 430440
                 },
                 {
                     "size": 2129
@@ -1276,7 +1276,7 @@
     "LLNL/scr": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1463411,
+            "totalSize": 1454774,
             "nodes": [
                 {
                     "name": "C",
@@ -1308,16 +1308,16 @@
                     "size": 872906
                 },
                 {
-                    "size": 304801
+                    "size": 295758
                 },
                 {
                     "size": 126364
                 },
                 {
-                    "size": 119790
+                    "size": 119782
                 },
                 {
-                    "size": 39354
+                    "size": 39768
                 },
                 {
                     "size": 196
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22887396,
+            "totalSize": 22890918,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,13 +2306,13 @@
             ],
             "edges": [
                 {
-                    "size": 22195358
+                    "size": 22199596
                 },
                 {
                     "size": 486443
                 },
                 {
-                    "size": 79370
+                    "size": 78654
                 },
                 {
                     "size": 49894
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99457437,
+            "totalSize": 99469247,
             "nodes": [
                 {
                     "name": "C",
@@ -2461,25 +2461,25 @@
             ],
             "edges": [
                 {
-                    "size": 75220665
+                    "size": 75225453
                 },
                 {
                     "size": 12726151
                 },
                 {
-                    "size": 3788205
+                    "size": 3785551
                 },
                 {
                     "size": 3014111
                 },
                 {
-                    "size": 1568966
+                    "size": 1576507
                 },
                 {
                     "size": 1300462
                 },
                 {
-                    "size": 1227672
+                    "size": 1229807
                 },
                 {
                     "size": 435101
