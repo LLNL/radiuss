@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 36149932,
+            "totalSize": 36188615,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 33887187
+                    "size": 33924930
                 },
                 {
                     "size": 556925
@@ -64,13 +64,13 @@
                     "size": 477233
                 },
                 {
-                    "size": 412285
+                    "size": 413069
                 },
                 {
                     "size": 319633
                 },
                 {
-                    "size": 246272
+                    "size": 246428
                 },
                 {
                     "size": 111573
@@ -1037,7 +1037,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 11096607,
+            "totalSize": 11098328,
             "nodes": [
                 {
                     "name": "C++",
@@ -1074,10 +1074,10 @@
             ],
             "edges": [
                 {
-                    "size": 7545469
+                    "size": 7546333
                 },
                 {
-                    "size": 2336628
+                    "size": 2337485
                 },
                 {
                     "size": 746419
@@ -1276,7 +1276,7 @@
     "LLNL/scr": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1452731,
+            "totalSize": 1258736,
             "nodes": [
                 {
                     "name": "C",
@@ -1287,16 +1287,16 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "Perl",
-                    "color": "#0298c3"
-                },
-                {
                     "name": "Shell",
                     "color": "#89e051"
                 },
                 {
                     "name": "CMake",
                     "color": "#DA3434"
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
                 },
                 {
                     "name": "HTML",
@@ -1308,16 +1308,16 @@
                     "size": 872906
                 },
                 {
-                    "size": 293739
+                    "size": 292675
                 },
                 {
-                    "size": 126364
+                    "size": 47390
                 },
                 {
-                    "size": 119782
+                    "size": 38822
                 },
                 {
-                    "size": 39744
+                    "size": 6747
                 },
                 {
                     "size": 196
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 22901116,
+            "totalSize": 22903917,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 22209309
+                    "size": 22212110
                 },
                 {
                     "size": 486591
@@ -2368,7 +2368,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99473237,
+            "totalSize": 99486792,
             "nodes": [
                 {
                     "name": "C",
@@ -2461,34 +2461,34 @@
             ],
             "edges": [
                 {
-                    "size": 75227441
+                    "size": 75239440
                 },
                 {
-                    "size": 12726285
+                    "size": 12726770
                 },
                 {
-                    "size": 3786511
+                    "size": 3786674
                 },
                 {
-                    "size": 3014111
+                    "size": 3014135
                 },
                 {
-                    "size": 1577185
+                    "size": 1577187
                 },
                 {
-                    "size": 1300692
+                    "size": 1301528
                 },
                 {
                     "size": 1229807
                 },
                 {
-                    "size": 435101
+                    "size": 435142
                 },
                 {
                     "size": 82472
                 },
                 {
-                    "size": 43664
+                    "size": 43669
                 },
                 {
                     "size": 15820
