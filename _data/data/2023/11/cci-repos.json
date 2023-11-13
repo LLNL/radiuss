@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 144
+            "totalCount": 145
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -94,16 +94,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 17
         },
         "pullRequests_Closed": {
             "totalCount": 192
         },
         "pullRequests_Merged": {
-            "totalCount": 2475
+            "totalCount": 2476
         },
         "issues_Open": {
-            "totalCount": 430
+            "totalCount": 431
         },
         "issues_Closed": {
             "totalCount": 2353
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 560
+            "totalCount": 561
         },
         "mentionableUsers": {
             "totalCount": 51
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 227
+            "totalCount": 228
         },
         "mentionableUsers": {
             "totalCount": 52
@@ -1225,7 +1225,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 409
+            "totalCount": 410
         },
         "mentionableUsers": {
             "totalCount": 67
@@ -1335,7 +1335,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 88
+            "totalCount": 89
         },
         "mentionableUsers": {
             "totalCount": 26
@@ -1629,13 +1629,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 56
         },
         "pullRequests_Merged": {
-            "totalCount": 138
+            "totalCount": 139
         },
         "issues_Open": {
             "totalCount": 29
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 683
+            "totalCount": 684
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1410
+            "totalCount": 1409
         },
         "mentionableUsers": {
             "totalCount": 616
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 143
+            "totalCount": 141
         },
         "pullRequests_Closed": {
             "totalCount": 256
         },
         "pullRequests_Merged": {
-            "totalCount": 1450
+            "totalCount": 1453
         },
         "issues_Open": {
             "totalCount": 108
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3698
+            "totalCount": 3700
         },
         "mentionableUsers": {
             "totalCount": 1407
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 852
+            "totalCount": 845
         },
         "pullRequests_Closed": {
-            "totalCount": 3380
+            "totalCount": 3392
         },
         "pullRequests_Merged": {
             "totalCount": 28855
         },
         "issues_Open": {
-            "totalCount": 2180
+            "totalCount": 2185
         },
         "issues_Closed": {
             "totalCount": 5530
@@ -1904,7 +1904,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 103
