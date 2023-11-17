@@ -818,7 +818,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 9990739,
+            "totalSize": 9992532,
             "nodes": [
                 {
                     "name": "C++",
@@ -867,7 +867,7 @@
             ],
             "edges": [
                 {
-                    "size": 8233751
+                    "size": 8235544
                 },
                 {
                     "size": 874996
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29445471,
+            "totalSize": 29450400,
             "nodes": [
                 {
                     "name": "C",
@@ -2095,10 +2095,10 @@
             ],
             "edges": [
                 {
-                    "size": 21028467
+                    "size": 21031627
                 },
                 {
-                    "size": 3579428
+                    "size": 3579634
                 },
                 {
                     "size": 3362673
@@ -2107,7 +2107,7 @@
                     "size": 537655
                 },
                 {
-                    "size": 468309
+                    "size": 469872
                 },
                 {
                     "size": 196492
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23043511,
+            "totalSize": 23057441,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 22334842
+                    "size": 22348772
                 },
                 {
                     "size": 489790
