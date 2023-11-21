@@ -1790,7 +1790,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11937484,
+            "totalSize": 11941506,
             "nodes": [
                 {
                     "name": "C",
@@ -1847,31 +1847,31 @@
             ],
             "edges": [
                 {
-                    "size": 8644436
+                    "size": 8646726
                 },
                 {
-                    "size": 1593181
+                    "size": 1593592
                 },
                 {
-                    "size": 1181548
+                    "size": 1182588
                 },
                 {
                     "size": 167697
                 },
                 {
-                    "size": 153439
+                    "size": 153646
                 },
                 {
                     "size": 98934
                 },
                 {
-                    "size": 31018
+                    "size": 31033
                 },
                 {
                     "size": 26527
                 },
                 {
-                    "size": 20336
+                    "size": 20395
                 },
                 {
                     "size": 10804
@@ -2030,7 +2030,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29450400,
+            "totalSize": 29452897,
             "nodes": [
                 {
                     "name": "C",
@@ -2107,7 +2107,7 @@
                     "size": 537655
                 },
                 {
-                    "size": 469872
+                    "size": 472369
                 },
                 {
                     "size": 196492
@@ -2225,7 +2225,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23067207,
+            "totalSize": 23070433,
             "nodes": [
                 {
                     "name": "Python",
@@ -2306,7 +2306,7 @@
             ],
             "edges": [
                 {
-                    "size": 22358538
+                    "size": 22361764
                 },
                 {
                     "size": 489790
