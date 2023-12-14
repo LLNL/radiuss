@@ -2365,6 +2365,10 @@
         {
             "date": "2023-12-04",
             "value": 1
+        },
+        {
+            "date": "2023-12-11",
+            "value": 1
         }
     ],
     "LLNL/MerlinWorkflows": [],
@@ -7834,6 +7838,10 @@
         {
             "date": "2023-11-20",
             "value": 1
+        },
+        {
+            "date": "2023-11-27",
+            "value": 2
         }
     ],
     "LLNL/merlin-spellbook": [
