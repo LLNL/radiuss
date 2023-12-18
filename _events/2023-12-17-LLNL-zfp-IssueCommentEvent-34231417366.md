@@ -10,6 +10,6 @@ repo_url: https://github.com/LLNL/zfp
 
 <a href='https://github.com/cgohlke' target='_blank'>cgohlke</a> commented on issue <a href='https://github.com/LLNL/zfp/issues/222' target='_blank'>LLNL/zfp#222</a>.
 
-<small>zfp-0.5.5 passes with 14.38.33130...</small>
+<small>Yes, it could be a compiler bug introduced by the latest VS update. This issue is meant as a "heads-up" in case someone else runs into it. The workaround, to build with '/Ob1', is good enough for now. I think the issue can be closed (?)...</small>
 
 <a href='https://github.com/LLNL/zfp/issues/222' target='_blank'>View Comment</a>
