@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1858085,
+            "totalSize": 1858082,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,7 +121,7 @@
             ],
             "edges": [
                 {
-                    "size": 1709113
+                    "size": 1709110
                 },
                 {
                     "size": 62099
@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4803796,
+            "totalSize": 4803984,
             "nodes": [
                 {
                     "name": "C++",
@@ -421,7 +421,7 @@
                     "size": 181837
                 },
                 {
-                    "size": 72075
+                    "size": 72263
                 },
                 {
                     "size": 15109
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23332951,
+            "totalSize": 23339660,
             "nodes": [
                 {
                     "name": "Python",
@@ -2313,10 +2313,10 @@
             ],
             "edges": [
                 {
-                    "size": 22622241
+                    "size": 22628358
                 },
                 {
-                    "size": 491789
+                    "size": 492381
                 },
                 {
                     "size": 92676
@@ -2375,7 +2375,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99593993,
+            "totalSize": 99596249,
             "nodes": [
                 {
                     "name": "C",
@@ -2483,10 +2483,10 @@
                     "size": 1582948
                 },
                 {
-                    "size": 1303664
+                    "size": 1303770
                 },
                 {
-                    "size": 1234950
+                    "size": 1237100
                 },
                 {
                     "size": 435142
