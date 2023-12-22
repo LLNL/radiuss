@@ -2606,6 +2606,11 @@
             "nodes": [
                 {
                     "name": "",
+                    "publishedAt": "2023-12-21T21:34:46Z",
+                    "tagName": "v4.6.2-rc0"
+                },
+                {
+                    "name": "",
                     "publishedAt": "2023-09-27T21:21:21Z",
                     "tagName": "v4.6"
                 },
