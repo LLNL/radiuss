@@ -1797,7 +1797,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 12065946,
+            "totalSize": 12066627,
             "nodes": [
                 {
                     "name": "C",
@@ -1854,10 +1854,10 @@
             ],
             "edges": [
                 {
-                    "size": 8740806
+                    "size": 8741304
                 },
                 {
-                    "size": 1608615
+                    "size": 1608798
                 },
                 {
                     "size": 1198457
@@ -2232,7 +2232,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23459665,
+            "totalSize": 23471536,
             "nodes": [
                 {
                     "name": "Python",
@@ -2271,6 +2271,10 @@
                     "color": "#012456"
                 },
                 {
+                    "name": "HTML",
+                    "color": "#e34c26"
+                },
+                {
                     "name": "C++",
                     "color": "#f34b7d"
                 },
@@ -2295,10 +2299,6 @@
                     "color": null
                 },
                 {
-                    "name": "HTML",
-                    "color": "#e34c26"
-                },
-                {
                     "name": "Perl",
                     "color": "#0298c3"
                 },
@@ -2313,7 +2313,7 @@
             ],
             "edges": [
                 {
-                    "size": 22747442
+                    "size": 22756870
                 },
                 {
                     "size": 493302
@@ -2340,6 +2340,9 @@
                     "size": 8123
                 },
                 {
+                    "size": 4442
+                },
+                {
                     "size": 3916
                 },
                 {
@@ -2356,9 +2359,6 @@
                 },
                 {
                     "size": 2111
-                },
-                {
-                    "size": 1999
                 },
                 {
                     "size": 615
