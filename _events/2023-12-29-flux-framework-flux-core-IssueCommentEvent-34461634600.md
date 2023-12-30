@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/chu11' target='_blank'>chu11</a> commented on issue <a href='https://github.com/flux-framework/flux-core/issues/4186' target='_blank'>flux-framework/flux-core#4186</a>.
 
-<small>> It would be interesting to hear why you don't like it....</small>
+<small>> If --filter is supported then a separate --nodelist option isn't even needed, and could be supported, etc. It will also be very useful to be able to query jobs that ran on a given node at a certain time or in a given window....</small>
 
 <a href='https://github.com/flux-framework/flux-core/issues/4186' target='_blank'>View Comment</a>
