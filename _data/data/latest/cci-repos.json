@@ -103,7 +103,7 @@
             "totalCount": 2530
         },
         "issues_Open": {
-            "totalCount": 425
+            "totalCount": 426
         },
         "issues_Closed": {
             "totalCount": 2386
@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 304
+            "totalCount": 305
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 423
+            "totalCount": 424
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -1803,7 +1803,7 @@
             "totalCount": 1493
         },
         "issues_Open": {
-            "totalCount": 102
+            "totalCount": 104
         },
         "issues_Closed": {
             "totalCount": 1866
@@ -1830,13 +1830,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 3768
+            "totalCount": 3770
         },
         "mentionableUsers": {
             "totalCount": 1435
         },
         "forks": {
-            "totalCount": 1957
+            "totalCount": 1958
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 901
+            "totalCount": 903
         },
         "pullRequests_Closed": {
             "totalCount": 3444
         },
         "pullRequests_Merged": {
-            "totalCount": 29479
+            "totalCount": 29483
         },
         "issues_Open": {
-            "totalCount": 2216
+            "totalCount": 2217
         },
         "issues_Closed": {
             "totalCount": 5618
@@ -1885,7 +1885,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 353
+            "totalCount": 354
         },
         "mentionableUsers": {
             "totalCount": 59
@@ -1913,7 +1913,7 @@
             "totalCount": 2617
         },
         "issues_Open": {
-            "totalCount": 1817
+            "totalCount": 1819
         },
         "issues_Closed": {
             "totalCount": 3242
