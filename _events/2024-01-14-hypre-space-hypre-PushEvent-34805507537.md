@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/50467563?"
 user: victorapm
-date: 2024-01-12
+date: 2024-01-14
 repo_name: hypre-space/hypre
-html_url: https://github.com/hypre-space/hypre/commit/762d1c997e8962e673742e10db3bc88979990a00
+html_url: https://github.com/hypre-space/hypre/commit/7d3166d7e4ba54d91f390b67400fcedcc10addc4
 repo_url: https://github.com/hypre-space/hypre
 ---
 
 <a href='https://github.com/victorapm' target='_blank'>victorapm</a> pushed to <a href='https://github.com/hypre-space/hypre' target='_blank'>hypre-space/hypre</a>
 
-<small>Annotate MGR regions</small>
+<small>Fix HIP compilation</small>
 
-<a href='https://github.com/hypre-space/hypre/commit/762d1c997e8962e673742e10db3bc88979990a00' target='_blank'>View Commit</a>
+<a href='https://github.com/hypre-space/hypre/commit/7d3166d7e4ba54d91f390b67400fcedcc10addc4' target='_blank'>View Commit</a>
