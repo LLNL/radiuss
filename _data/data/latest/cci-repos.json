@@ -369,19 +369,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 26
+            "totalCount": 25
         },
         "pullRequests_Closed": {
             "totalCount": 30
         },
         "pullRequests_Merged": {
-            "totalCount": 507
+            "totalCount": 508
         },
         "issues_Open": {
             "totalCount": 148
         },
         "issues_Closed": {
-            "totalCount": 338
+            "totalCount": 339
         }
     },
     "LLNL/axom": {
@@ -1778,7 +1778,7 @@
             "totalCount": 1458
         },
         "mentionableUsers": {
-            "totalCount": 615
+            "totalCount": 616
         },
         "forks": {
             "totalCount": 430
@@ -1803,10 +1803,10 @@
             "totalCount": 1498
         },
         "issues_Open": {
-            "totalCount": 107
+            "totalCount": 106
         },
         "issues_Closed": {
-            "totalCount": 1867
+            "totalCount": 1868
         }
     },
     "spack/spack": {
@@ -1836,7 +1836,7 @@
             "totalCount": 1440
         },
         "forks": {
-            "totalCount": 1965
+            "totalCount": 1966
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,16 +1849,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 898
+            "totalCount": 905
         },
         "pullRequests_Closed": {
-            "totalCount": 3456
+            "totalCount": 3460
         },
         "pullRequests_Merged": {
-            "totalCount": 29636
+            "totalCount": 29639
         },
         "issues_Open": {
-            "totalCount": 2223
+            "totalCount": 2227
         },
         "issues_Closed": {
             "totalCount": 5632
