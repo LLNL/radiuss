@@ -1804,7 +1804,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 12036952,
+            "totalSize": 12036966,
             "nodes": [
                 {
                     "name": "C",
@@ -1861,7 +1861,7 @@
             ],
             "edges": [
                 {
-                    "size": 8750274
+                    "size": 8750288
                 },
                 {
                     "size": 1566298
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23581237,
+            "totalSize": 23610696,
             "nodes": [
                 {
                     "name": "Python",
@@ -2320,7 +2320,7 @@
             ],
             "edges": [
                 {
-                    "size": 22864793
+                    "size": 22894252
                 },
                 {
                     "size": 494217
@@ -2382,7 +2382,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99606732,
+            "totalSize": 99583023,
             "nodes": [
                 {
                     "name": "C",
@@ -2475,25 +2475,25 @@
             ],
             "edges": [
                 {
-                    "size": 75317762
+                    "size": 75317594
                 },
                 {
                     "size": 12742488
                 },
                 {
-                    "size": 3794483
+                    "size": 3794800
                 },
                 {
                     "size": 3014135
                 },
                 {
-                    "size": 1582948
+                    "size": 1581873
                 },
                 {
-                    "size": 1304787
+                    "size": 1304931
                 },
                 {
-                    "size": 1238577
+                    "size": 1215650
                 },
                 {
                     "size": 435142
