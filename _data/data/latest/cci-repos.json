@@ -955,7 +955,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 123
+            "totalCount": 124
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1460
+            "totalCount": 1462
         },
         "mentionableUsers": {
             "totalCount": 618
         },
         "forks": {
-            "totalCount": 430
+            "totalCount": 431
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 141
+            "totalCount": 142
         },
         "pullRequests_Closed": {
             "totalCount": 258
@@ -1855,13 +1855,13 @@
             "totalCount": 3466
         },
         "pullRequests_Merged": {
-            "totalCount": 29724
+            "totalCount": 29731
         },
         "issues_Open": {
-            "totalCount": 2222
+            "totalCount": 2221
         },
         "issues_Closed": {
-            "totalCount": 5648
+            "totalCount": 5650
         }
     },
     "visit-dav/visit": {
