@@ -1,15 +1,0 @@
----
-event_type: IssueCommentEvent
-avatar: "https://avatars.githubusercontent.com/u/1659704?"
-user: scheibelp
-date: 2024-01-20
-repo_name: spack/spack
-html_url: https://github.com/spack/spack/issues/42137
-repo_url: https://github.com/spack/spack
----
-
-<a href='https://github.com/scheibelp' target='_blank'>scheibelp</a> commented on issue <a href='https://github.com/spack/spack/issues/42137' target='_blank'>spack/spack#42137</a>.
-
-<small>Regarding...</small>
-
-<a href='https://github.com/spack/spack/issues/42137' target='_blank'>View Comment</a>
