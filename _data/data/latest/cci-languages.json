@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1858218,
+            "totalSize": 1872751,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,13 +121,13 @@
             ],
             "edges": [
                 {
-                    "size": 1709110
+                    "size": 1711273
                 },
                 {
-                    "size": 62099
+                    "size": 74441
                 },
                 {
-                    "size": 39759
+                    "size": 39787
                 },
                 {
                     "size": 35815
@@ -1044,7 +1044,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 11222272,
+            "totalSize": 11222306,
             "nodes": [
                 {
                     "name": "C++",
@@ -1081,7 +1081,7 @@
             ],
             "edges": [
                 {
-                    "size": 7573230
+                    "size": 7573264
                 },
                 {
                     "size": 2406337
@@ -1804,7 +1804,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 12010697,
+            "totalSize": 12021571,
             "nodes": [
                 {
                     "name": "C",
@@ -1861,13 +1861,13 @@
             ],
             "edges": [
                 {
-                    "size": 8721950
+                    "size": 8722261
                 },
                 {
                     "size": 1566261
                 },
                 {
-                    "size": 1203931
+                    "size": 1214494
                 },
                 {
                     "size": 167479
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23664311,
+            "totalSize": 23697112,
             "nodes": [
                 {
                     "name": "Python",
@@ -2320,7 +2320,7 @@
             ],
             "edges": [
                 {
-                    "size": 22946006
+                    "size": 22978807
                 },
                 {
                     "size": 495072
@@ -2382,7 +2382,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 99588968,
+            "totalSize": 99595264,
             "nodes": [
                 {
                     "name": "C",
@@ -2481,7 +2481,7 @@
                     "size": 12742736
                 },
                 {
-                    "size": 3795687
+                    "size": 3801983
                 },
                 {
                     "size": 3014135
