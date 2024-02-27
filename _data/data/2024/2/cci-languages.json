@@ -1804,7 +1804,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 12120973,
+            "totalSize": 12120931,
             "nodes": [
                 {
                     "name": "C",
@@ -1864,7 +1864,7 @@
                     "size": 8772842
                 },
                 {
-                    "size": 1591546
+                    "size": 1591504
                 },
                 {
                     "size": 1235390
@@ -1905,7 +1905,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 2948968,
+            "totalSize": 2965462,
             "nodes": [
                 {
                     "name": "C++",
@@ -1954,10 +1954,10 @@
             ],
             "edges": [
                 {
-                    "size": 2137816
+                    "size": 2150841
                 },
                 {
-                    "size": 489084
+                    "size": 490060
                 },
                 {
                     "size": 83481
@@ -1966,16 +1966,16 @@
                     "size": 80085
                 },
                 {
-                    "size": 54698
+                    "size": 56337
                 },
                 {
-                    "size": 31240
+                    "size": 32058
                 },
                 {
                     "size": 24316
                 },
                 {
-                    "size": 22327
+                    "size": 22363
                 },
                 {
                     "size": 11707
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 19,
-            "totalSize": 23791789,
+            "totalSize": 23791940,
             "nodes": [
                 {
                     "name": "Python",
@@ -2320,7 +2320,7 @@
             ],
             "edges": [
                 {
-                    "size": 23072212
+                    "size": 23072363
                 },
                 {
                     "size": 495933
