@@ -675,6 +675,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v4.3.0",
+                    "publishedAt": "2024-03-05T00:05:28Z",
+                    "tagName": "v-4-3-0"
+                },
+                {
                     "name": "v4.2.1",
                     "publishedAt": "2023-08-31T20:41:02Z",
                     "tagName": "v-4-2-1"
@@ -2477,6 +2482,11 @@
     "flux-framework/flux-sched": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-sched v0.33.0",
+                    "publishedAt": "2024-03-04T23:08:13Z",
+                    "tagName": "v0.33.0"
+                },
                 {
                     "name": "flux-sched v0.32.0",
                     "publishedAt": "2024-01-05T01:15:20Z",
