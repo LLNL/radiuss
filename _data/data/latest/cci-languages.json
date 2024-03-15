@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4807715,
+            "totalSize": 4807983,
             "nodes": [
                 {
                     "name": "C++",
@@ -415,13 +415,13 @@
             ],
             "edges": [
                 {
-                    "size": 4538467
+                    "size": 4538302
                 },
                 {
                     "size": 181847
                 },
                 {
-                    "size": 72292
+                    "size": 72725
                 },
                 {
                     "size": 15109
@@ -599,19 +599,19 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10951906,
+            "totalSize": 11064571,
             "nodes": [
                 {
                     "name": "C++",
                     "color": "#f34b7d"
                 },
                 {
-                    "name": "Fortran",
-                    "color": "#4d41b1"
-                },
-                {
                     "name": "CMake",
                     "color": "#DA3434"
+                },
+                {
+                    "name": "Fortran",
+                    "color": "#4d41b1"
                 },
                 {
                     "name": "Vue",
@@ -648,19 +648,19 @@
             ],
             "edges": [
                 {
-                    "size": 9563189
+                    "size": 9563168
                 },
                 {
-                    "size": 558575
+                    "size": 589445
                 },
                 {
-                    "size": 477240
+                    "size": 558588
                 },
                 {
                     "size": 115337
                 },
                 {
-                    "size": 109979
+                    "size": 110447
                 },
                 {
                     "size": 73565
@@ -1905,7 +1905,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 2969823,
+            "totalSize": 2969543,
             "nodes": [
                 {
                     "name": "C++",
@@ -1957,7 +1957,7 @@
                     "size": 2155202
                 },
                 {
-                    "size": 490060
+                    "size": 489784
                 },
                 {
                     "size": 83481
@@ -1978,7 +1978,7 @@
                     "size": 22363
                 },
                 {
-                    "size": 11707
+                    "size": 11703
                 },
                 {
                     "size": 7408
@@ -2159,7 +2159,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 16082720,
+            "totalSize": 16083928,
             "nodes": [
                 {
                     "name": "C++",
@@ -2204,7 +2204,7 @@
             ],
             "edges": [
                 {
-                    "size": 15525845
+                    "size": 15527053
                 },
                 {
                     "size": 248358
@@ -2238,8 +2238,8 @@
     },
     "spack/spack": {
         "languages": {
-            "totalCount": 19,
-            "totalSize": 24047793,
+            "totalCount": 20,
+            "totalSize": 24059782,
             "nodes": [
                 {
                     "name": "Python",
@@ -2278,10 +2278,6 @@
                     "color": "#012456"
                 },
                 {
-                    "name": "C++",
-                    "color": "#f34b7d"
-                },
-                {
                     "name": "HTML",
                     "color": "#e34c26"
                 },
@@ -2294,6 +2290,10 @@
                     "color": "#e4cc98"
                 },
                 {
+                    "name": "C++",
+                    "color": "#f34b7d"
+                },
+                {
                     "name": "Standard ML",
                     "color": "#dc566d"
                 },
@@ -2304,6 +2304,10 @@
                 {
                     "name": "M4",
                     "color": null
+                },
+                {
+                    "name": "BitBake",
+                    "color": "#00bce4"
                 },
                 {
                     "name": "Perl",
@@ -2320,13 +2324,13 @@
             ],
             "edges": [
                 {
-                    "size": 23328216
+                    "size": 23336976
                 },
                 {
-                    "size": 495933
+                    "size": 498971
                 },
                 {
-                    "size": 93888
+                    "size": 94079
                 },
                 {
                     "size": 49894
@@ -2347,9 +2351,6 @@
                     "size": 8123
                 },
                 {
-                    "size": 4922
-                },
-                {
                     "size": 4442
                 },
                 {
@@ -2359,6 +2360,9 @@
                     "size": 2844
                 },
                 {
+                    "size": 2816
+                },
+                {
                     "size": 2592
                 },
                 {
@@ -2366,6 +2370,9 @@
                 },
                 {
                     "size": 2111
+                },
+                {
+                    "size": 2106
                 },
                 {
                     "size": 615
