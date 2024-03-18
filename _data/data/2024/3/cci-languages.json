@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11065214,
+            "totalSize": 11063440,
             "nodes": [
                 {
                     "name": "C++",
@@ -648,10 +648,10 @@
             ],
             "edges": [
                 {
-                    "size": 9563803
+                    "size": 9562002
                 },
                 {
-                    "size": 589453
+                    "size": 589480
                 },
                 {
                     "size": 558588
