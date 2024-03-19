@@ -948,6 +948,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v0.6.2",
+                    "publishedAt": "2024-03-18T21:32:37Z",
+                    "tagName": "v0.6.2"
+                },
+                {
                     "name": "v0.6.1",
                     "publishedAt": "2024-01-30T01:13:15Z",
                     "tagName": "v0.6.1"
