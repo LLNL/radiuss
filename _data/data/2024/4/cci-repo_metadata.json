@@ -1,0 +1,508 @@
+{
+    "Alpine-DAV/ascent": {
+        "name": "Alpine-DAV/ascent",
+        "description": "A flyweight in situ visualization and analysis runtime for multi-physics HPC simulations",
+        "website": "https://alpine-dav.github.io/ascent/",
+        "topics": [
+            "hpc",
+            "parallel-computing",
+            "cuda",
+            "mpi",
+            "rendering",
+            "analysis",
+            "scientific-computing",
+            "data-viz",
+            "radiuss"
+        ]
+    },
+    "flux-framework/flux-core": {
+        "name": "flux-framework/flux-core",
+        "description": "core  services for the Flux resource management framework",
+        "website": "",
+        "topics": [
+            "hpc",
+            "resource-manager",
+            "workflows",
+            "radiuss"
+        ]
+    },
+    "flux-framework/flux-sched": {
+        "name": "flux-framework/flux-sched",
+        "description": "Fluxion Graph-based Scheduler",
+        "website": "",
+        "topics": [
+            "hpc",
+            "job-scheduler",
+            "scheduling",
+            "workflows",
+            "radiuss"
+        ]
+    },
+    "GLVis/glvis": {
+        "name": "GLVis/glvis",
+        "description": "Lightweight OpenGL tool for accurate and flexible finite element visualization",
+        "website": "http://glvis.org",
+        "topics": [
+            "finite-elements",
+            "opengl",
+            "visualization",
+            "computational-science",
+            "data-viz",
+            "radiuss"
+        ]
+    },
+    "GEOS-DEV/LvArray": {
+        "name": "GEOS-DEV/LvArray",
+        "description": "Portable HPC Containers (C++)",
+        "website": "",
+        "topics": [
+            "radiuss",
+            "portability",
+            "llnl",
+            "hpc",
+            "gpu-computing",
+            "cpp",
+            "c-plus-plus"
+        ]
+    },
+    "hpc/Spindle": {
+        "name": "hpc/Spindle",
+        "description": "Scalable dynamic library and python loading in HPC environments",
+        "website": null,
+        "topics": [
+            "radiuss",
+            "performance"
+        ]
+    },
+    "hypre-space/hypre": {
+        "name": "hypre-space/hypre",
+        "description": "Parallel solvers for sparse linear systems featuring multigrid methods.",
+        "website": "https://www.llnl.gov/casc/hypre/",
+        "topics": [
+            "math-physics",
+            "library",
+            "hpc",
+            "radiuss"
+        ]
+    },
+    "LLNL/axom": {
+        "name": "LLNL/axom",
+        "description": "CS infrastructure components for HPC applications",
+        "website": null,
+        "topics": [
+            "hpc",
+            "parallel-computing",
+            "llnl",
+            "cpp",
+            "c-plus-plus",
+            "app-infrastructure",
+            "radiuss",
+            "fortran"
+        ]
+    },
+    "LLNL/blt": {
+        "name": "LLNL/blt",
+        "description": "A streamlined CMake build system foundation for developing HPC software",
+        "website": "",
+        "topics": [
+            "cmake",
+            "testing",
+            "build-system",
+            "hpc",
+            "blt",
+            "build-tools",
+            "radiuss",
+            "cpp",
+            "cuda"
+        ]
+    },
+    "LLNL/b-mpi3": {
+        "name": "LLNL/b-mpi3",
+        "description": "  This aims to be an wrapper to C-MPI3 for C++, using the principles of simplicity, STL, RAII and Boost and enforcing type-safety. This is a mirror of https://gitlab.com/correaa/boost-mpi3.",
+        "website": "",
+        "topics": [
+            "mpi",
+            "cpp",
+            "radiuss",
+            "header-only",
+            "c-plus-plus"
+        ]
+    },
+    "LLNL/Caliper": {
+        "name": "LLNL/Caliper",
+        "description": "Caliper is an instrumentation and performance profiling library",
+        "website": "http://software.llnl.gov/Caliper/",
+        "topics": [
+            "caliper",
+            "annotation-apis",
+            "instrumentation",
+            "performance-analysis",
+            "performance-monitoring",
+            "trace",
+            "hpc",
+            "performance",
+            "radiuss",
+            "cpp"
+        ]
+    },
+    "LLNL/CARE": {
+        "name": "LLNL/CARE",
+        "description": "CHAI and RAJA provide an excellent base on which to build portable codes. CARE expands that functionality, adding new features such as loop fusion capability and a portable interface for many numerical algorithms. It provides all the basics for anyone wanting to write portable code.",
+        "website": "",
+        "topics": [
+            "gpu",
+            "gpu-computing",
+            "gpu-programming",
+            "gpu-acceleration",
+            "portable",
+            "portable-library",
+            "portable-apps",
+            "portableapps",
+            "portable-executable",
+            "portable-class-library",
+            "portable-object",
+            "hpc",
+            "hpc-applications",
+            "portability",
+            "radiuss"
+        ]
+    },
+    "LLNL/CHAI": {
+        "name": "LLNL/CHAI",
+        "description": "Copy-hiding array abstraction to automatically migrate data between memory spaces",
+        "website": null,
+        "topics": [
+            "cpp",
+            "data-abstraction",
+            "gpu",
+            "memory-management",
+            "blt",
+            "raja",
+            "portability",
+            "radiuss"
+        ]
+    },
+    "LLNL/conduit": {
+        "name": "LLNL/conduit",
+        "description": "Simplified Data Exchange for HPC Simulations",
+        "website": "https://software.llnl.gov/conduit/",
+        "topics": [
+            "hpc",
+            "scientific-computing",
+            "cpp",
+            "fortran",
+            "python",
+            "llnl",
+            "json",
+            "yaml",
+            "hdf5",
+            "radiuss",
+            "data-management"
+        ]
+    },
+    "LLNL/hatchet": {
+        "name": "LLNL/hatchet",
+        "description": "Graph-indexed Pandas DataFrames for analyzing hierarchical performance data",
+        "website": "https://llnl-hatchet.readthedocs.io",
+        "topics": [
+            "python",
+            "performance",
+            "hpc",
+            "graphs",
+            "data-analytics",
+            "performance-analysis",
+            "hierarchical-data",
+            "trees",
+            "comparative-analysis",
+            "radiuss"
+        ]
+    },
+    "LLNL/hiop": {
+        "name": "LLNL/hiop",
+        "description": "HPC solver for nonlinear optimization problems",
+        "website": "",
+        "topics": [
+            "hpc",
+            "nonlinear-optimization",
+            "nonlinear-programming",
+            "nonlinear-programming-algorithms",
+            "interior-point-method",
+            "parallel-programming",
+            "mpi",
+            "bfgs",
+            "quasi-newton",
+            "constrained-optimization",
+            "solver",
+            "optimization",
+            "acopf",
+            "gpu-support",
+            "cuda",
+            "math-physics",
+            "radiuss",
+            "interior-point-optimizer",
+            "nonsmooth-optimization",
+            "rocm"
+        ]
+    },
+    "LLNL/lbann": {
+        "name": "LLNL/lbann",
+        "description": "Livermore Big Artificial Neural Network Toolkit",
+        "website": "http://software.llnl.gov/lbann/",
+        "topics": [
+            "machine-learning",
+            "neural-network",
+            "hpc",
+            "cpp",
+            "radiuss",
+            "performance",
+            "artificial-intelligence"
+        ]
+    },
+    "LLNL/maestrowf": {
+        "name": "LLNL/maestrowf",
+        "description": "A tool to easily orchestrate general computational workflows both locally and on supercomputers",
+        "website": "https://maestrowf.readthedocs.io",
+        "topics": [
+            "simulation-study",
+            "workflow-processes",
+            "hpc",
+            "science-research",
+            "workflows",
+            "radiuss",
+            "python",
+            "workflow"
+        ]
+    },
+    "LLNL/merlin": {
+        "name": "LLNL/merlin",
+        "description": "Machine Learning for HPC Workflows",
+        "website": "",
+        "topics": [
+            "machine-learning",
+            "big-data",
+            "simulation",
+            "workflow",
+            "redis-server",
+            "celery-workers",
+            "workflows",
+            "hpc",
+            "radiuss"
+        ]
+    },
+    "LLNL/merlin-spellbook": {
+        "name": "LLNL/merlin-spellbook",
+        "description": "Useful utilities for merlin workflows!",
+        "website": "",
+        "topics": [
+            "workflows",
+            "merlin",
+            "radiuss"
+        ]
+    },
+    "LLNL/MerlinWorkflows": {
+        "name": "LLNL/MerlinWorkflows",
+        "description": "Example Merlin Workflows",
+        "website": "",
+        "topics": [
+            "workflows",
+            "radiuss",
+            "machine-learning"
+        ]
+    },
+    "LLNL/psuade": {
+        "name": "LLNL/psuade",
+        "description": "Problem Solving environment for Uncertainty Analysis and Design Exploration",
+        "website": "https://computing.llnl.gov/projects/psuade",
+        "topics": [
+            "uncertainty-quantification",
+            "radiuss",
+            "math-physics"
+        ]
+    },
+    "LLNL/RAJA": {
+        "name": "LLNL/RAJA",
+        "description": "RAJA Performance Portability Layer (C++)",
+        "website": "",
+        "topics": [
+            "c-plus-plus",
+            "portability",
+            "programming-model",
+            "parallel-computing",
+            "raja",
+            "llnl",
+            "cpp",
+            "blt",
+            "radiuss"
+        ]
+    },
+    "LLNL/SAMRAI": {
+        "name": "LLNL/SAMRAI",
+        "description": "Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development",
+        "website": "https://computing.llnl.gov/projects/samrai",
+        "topics": [
+            "hpc",
+            "scientific-computing",
+            "parallel-computing",
+            "adaptive-mesh-refinement",
+            "amr",
+            "cpp",
+            "math-physics",
+            "radiuss"
+        ]
+    },
+    "LLNL/scr": {
+        "name": "LLNL/scr",
+        "description": "SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.",
+        "website": "http://computing.llnl.gov/projects/scalable-checkpoint-restart-for-mpi",
+        "topics": [
+            "scalable",
+            "checkpoint",
+            "mpi",
+            "radiuss",
+            "data-management"
+        ]
+    },
+    "LLNL/shroud": {
+        "name": "LLNL/shroud",
+        "description": "Shroud: generate Fortran and Python wrappers for C and C++ libraries",
+        "website": "",
+        "topics": [
+            "fortran",
+            "python",
+            "language-bindings",
+            "cpp",
+            "c-plus-plus",
+            "c",
+            "build-tools",
+            "radiuss"
+        ]
+    },
+    "LLNL/spotbe": {
+        "name": "LLNL/spotbe",
+        "description": "The web backend for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
+            "radiuss",
+            "python"
+        ]
+    },
+    "LLNL/spotfe": {
+        "name": "LLNL/spotfe",
+        "description": "The web frontend for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
+            "radiuss"
+        ]
+    },
+    "LLNL/spot2_container": {
+        "name": "LLNL/spot2_container",
+        "description": "The container infrastructure for the SPOT performance visualization tool",
+        "website": "",
+        "topics": [
+            "radiuss"
+        ]
+    },
+    "LLNL/sundials": {
+        "name": "LLNL/sundials",
+        "description": "Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes.",
+        "website": "https://computing.llnl.gov/projects/sundials",
+        "topics": [
+            "ode-solver",
+            "dae-solver",
+            "nonlinear-equation-solver",
+            "sensitivity-analysis",
+            "time-integration",
+            "scientific-computing",
+            "parallel-computing",
+            "hpc",
+            "math-physics",
+            "radiuss",
+            "solver",
+            "high-performance-computing"
+        ]
+    },
+    "LLNL/Umpire": {
+        "name": "LLNL/Umpire",
+        "description": "An application-focused API for memory management on NUMA & GPU architectures",
+        "website": "",
+        "topics": [
+            "hpc",
+            "memory-management",
+            "gpu",
+            "blt",
+            "portability",
+            "radiuss",
+            "cpp"
+        ]
+    },
+    "LLNL/zfp": {
+        "name": "LLNL/zfp",
+        "description": "Compressed numerical arrays that support high-speed random access",
+        "website": "http://zfp.llnl.gov",
+        "topics": [
+            "radiuss",
+            "data-viz",
+            "compression",
+            "floating-point",
+            "arrays"
+        ]
+    },
+    "mfem/mfem": {
+        "name": "mfem/mfem",
+        "description": "Lightweight, general, scalable C++ library for finite element methods",
+        "website": "http://mfem.org",
+        "topics": [
+            "finite-elements",
+            "high-order",
+            "high-performance-computing",
+            "parallel-computing",
+            "amr",
+            "computational-science",
+            "fem",
+            "scientific-computing",
+            "hpc",
+            "math-physics",
+            "radiuss"
+        ]
+    },
+    "spack/spack": {
+        "name": "spack/spack",
+        "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+        "website": "https://spack.io",
+        "topics": [
+            "python",
+            "spack",
+            "package-manager",
+            "hpc",
+            "build-tools",
+            "radiuss",
+            "scientific-computing",
+            "macos",
+            "linux"
+        ]
+    },
+    "visit-dav/visit": {
+        "name": "visit-dav/visit",
+        "description": "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data",
+        "website": "https://visit.llnl.gov",
+        "topics": [
+            "hpc",
+            "scientific-visualization",
+            "scientific-computing",
+            "visualization",
+            "data-analysis",
+            "radiuss",
+            "data-viz",
+            "python"
+        ]
+    },
+    "XBraid/xbraid": {
+        "name": "XBraid/xbraid",
+        "description": "XBraid Parallel-in-Time Solvers",
+        "website": null,
+        "topics": [
+            "radiuss",
+            "math-physics"
+        ]
+    }
+}
