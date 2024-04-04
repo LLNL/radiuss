@@ -489,6 +489,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2024.02.1",
+                    "publishedAt": "2024-04-03T16:47:53Z",
+                    "tagName": "v2024.02.1"
+                },
+                {
                     "name": "v2024.02.0",
                     "publishedAt": "2024-02-14T20:43:29Z",
                     "tagName": "v2024.02.0"
