@@ -1155,6 +1155,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2024.1.1",
+                    "publishedAt": "2024-04-09T17:40:47Z",
+                    "tagName": "v2024.1.1"
+                },
+                {
                     "name": "v2024.1.0",
                     "publishedAt": "2024-03-11T22:43:14Z",
                     "tagName": "v2024.1.0"
@@ -2197,6 +2202,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-core v0.61.1",
+                    "publishedAt": "2024-04-09T18:35:17Z",
+                    "tagName": "v0.61.1"
+                },
+                {
                     "name": "flux-core v0.61.0",
                     "publishedAt": "2024-04-02T22:36:28Z",
                     "tagName": "v0.61.0"
@@ -2522,6 +2532,11 @@
     "flux-framework/flux-sched": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-sched v0.33.1",
+                    "publishedAt": "2024-04-09T21:58:03Z",
+                    "tagName": "v0.33.1"
+                },
                 {
                     "name": "flux-sched v0.33.0",
                     "publishedAt": "2024-03-04T23:08:13Z",
