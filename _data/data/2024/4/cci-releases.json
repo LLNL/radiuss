@@ -726,6 +726,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2024.02.1",
+                    "publishedAt": "2024-04-16T12:56:16Z",
+                    "tagName": "v2024.02.1"
+                },
+                {
                     "name": "v2024.02.0",
                     "publishedAt": "2024-02-23T00:40:26Z",
                     "tagName": "v2024.02.0"
@@ -1468,6 +1473,11 @@
     "LLNL/merlin": {
         "releases": {
             "nodes": [
+                {
+                    "name": "Version 1.12.1",
+                    "publishedAt": "2024-04-16T15:21:01Z",
+                    "tagName": "1.12.1"
+                },
                 {
                     "name": "Version 1.12.0",
                     "publishedAt": "2024-02-15T22:46:25Z",
