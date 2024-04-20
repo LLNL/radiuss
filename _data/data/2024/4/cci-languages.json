@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 36304041,
+            "totalSize": 36307945,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34007469
+                    "size": 34011373
                 },
                 {
                     "size": 556925
@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4808449,
+            "totalSize": 4840022,
             "nodes": [
                 {
                     "name": "C++",
@@ -415,10 +415,10 @@
             ],
             "edges": [
                 {
-                    "size": 4538789
+                    "size": 4570296
                 },
                 {
-                    "size": 181847
+                    "size": 181913
                 },
                 {
                     "size": 72746
@@ -1804,7 +1804,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 14,
-            "totalSize": 12205369,
+            "totalSize": 12214199,
             "nodes": [
                 {
                     "name": "C",
@@ -1865,10 +1865,10 @@
             ],
             "edges": [
                 {
-                    "size": 8796410
+                    "size": 8803823
                 },
                 {
-                    "size": 1614734
+                    "size": 1616151
                 },
                 {
                     "size": 1240628
@@ -1912,7 +1912,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 2973898,
+            "totalSize": 3000498,
             "nodes": [
                 {
                     "name": "C++",
@@ -1931,12 +1931,12 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "C",
-                    "color": "#555555"
-                },
-                {
                     "name": "CMake",
                     "color": "#DA3434"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
                 },
                 {
                     "name": "Go",
@@ -1961,10 +1961,10 @@
             ],
             "edges": [
                 {
-                    "size": 2156089
+                    "size": 2154825
                 },
                 {
-                    "size": 490038
+                    "size": 492590
                 },
                 {
                     "size": 83481
@@ -1973,10 +1973,10 @@
                     "size": 83299
                 },
                 {
-                    "size": 56337
+                    "size": 56408
                 },
                 {
-                    "size": 32058
+                    "size": 56337
                 },
                 {
                     "size": 24316
@@ -1985,7 +1985,7 @@
                     "size": 22363
                 },
                 {
-                    "size": 11703
+                    "size": 12665
                 },
                 {
                     "size": 7408
@@ -2246,7 +2246,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 24340749,
+            "totalSize": 24347884,
             "nodes": [
                 {
                     "name": "Python",
@@ -2331,7 +2331,7 @@
             ],
             "edges": [
                 {
-                    "size": 23606392
+                    "size": 23613527
                 },
                 {
                     "size": 508837
