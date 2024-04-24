@@ -383,6 +383,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Caliper v2.11.0",
+                    "publishedAt": "2024-04-23T21:40:02Z",
+                    "tagName": "v2.11.0"
+                },
+                {
                     "name": "Caliper v2.10.0",
                     "publishedAt": "2023-07-26T18:04:05Z",
                     "tagName": "v2.10.0"
