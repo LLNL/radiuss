@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-sched
 
 <a href='https://github.com/trws' target='_blank'>trws</a> commented on issue <a href='https://github.com/flux-framework/flux-sched/pull/1196' target='_blank'>flux-framework/flux-sched#1196</a>.
 
-<small>I saw that, it's extremely odd to me that this just happened now... Maybe it's just when the containers got poked? Not sure....</small>
+<small>Turns out autogen being missing just pops a warning in `docker-run-checks.sh` AFAICT, so assuming this passes that should be cleaned up....</small>
 
 <a href='https://github.com/flux-framework/flux-sched/pull/1196' target='_blank'>View Comment</a>
