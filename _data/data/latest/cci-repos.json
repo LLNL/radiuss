@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 70
         },
         "pullRequests_Merged": {
-            "totalCount": 727
+            "totalCount": 728
         },
         "issues_Open": {
-            "totalCount": 172
+            "totalCount": 173
         },
         "issues_Closed": {
             "totalCount": 305
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 232
+            "totalCount": 234
         },
         "mentionableUsers": {
             "totalCount": 69
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 246
+            "totalCount": 247
         },
         "mentionableUsers": {
             "totalCount": 52
@@ -796,7 +796,7 @@
             "totalCount": 30
         },
         "forks": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "primaryLanguage": {
             "name": "JavaScript"
@@ -1629,13 +1629,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 64
         },
         "pullRequests_Merged": {
-            "totalCount": 211
+            "totalCount": 212
         },
         "issues_Open": {
             "totalCount": 23
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 737
+            "totalCount": 738
         },
         "mentionableUsers": {
             "totalCount": 35
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1557
+            "totalCount": 1560
         },
         "mentionableUsers": {
             "totalCount": 649
@@ -1803,10 +1803,10 @@
             "totalCount": 1574
         },
         "issues_Open": {
-            "totalCount": 151
+            "totalCount": 146
         },
         "issues_Closed": {
-            "totalCount": 1938
+            "totalCount": 1945
         }
     },
     "spack/spack": {
@@ -1836,7 +1836,7 @@
             "totalCount": 1504
         },
         "forks": {
-            "totalCount": 2055
+            "totalCount": 2056
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1849,13 +1849,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 856
+            "totalCount": 861
         },
         "pullRequests_Closed": {
             "totalCount": 3685
         },
         "pullRequests_Merged": {
-            "totalCount": 31199
+            "totalCount": 31202
         },
         "issues_Open": {
             "totalCount": 2319
