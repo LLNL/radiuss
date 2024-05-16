@@ -439,7 +439,7 @@
     "LLNL/SAMRAI": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 17535965,
+            "totalSize": 17536452,
             "nodes": [
                 {
                     "name": "C++",
@@ -492,7 +492,7 @@
             ],
             "edges": [
                 {
-                    "size": 15657616
+                    "size": 15658103
                 },
                 {
                     "size": 926074
@@ -1610,13 +1610,13 @@
             ],
             "edges": [
                 {
-                    "size": 6720627
+                    "size": 6698945
                 },
                 {
                     "size": 1582949
                 },
                 {
-                    "size": 1251155
+                    "size": 1272837
                 },
                 {
                     "size": 523032
@@ -1811,7 +1811,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 14,
-            "totalSize": 12285350,
+            "totalSize": 12285519,
             "nodes": [
                 {
                     "name": "C",
@@ -1872,7 +1872,7 @@
             ],
             "edges": [
                 {
-                    "size": 8845195
+                    "size": 8845364
                 },
                 {
                     "size": 1640946
@@ -2239,7 +2239,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 24539054,
+            "totalSize": 24548655,
             "nodes": [
                 {
                     "name": "Python",
@@ -2324,7 +2324,7 @@
             ],
             "edges": [
                 {
-                    "size": 23800858
+                    "size": 23810459
                 },
                 {
                     "size": 511214
