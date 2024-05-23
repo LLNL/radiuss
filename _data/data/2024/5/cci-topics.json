@@ -1343,34 +1343,6 @@
             ]
         }
     },
-    "LLNL/psuade": {
-        "repositoryTopics": {
-            "totalCount": 3,
-            "nodes": [
-                {
-                    "topic": {
-                        "name": "uncertainty-quantification"
-                    },
-                    "resourcePath": "/topics/uncertainty-quantification",
-                    "url": "https://github.com/topics/uncertainty-quantification"
-                },
-                {
-                    "topic": {
-                        "name": "radiuss"
-                    },
-                    "resourcePath": "/topics/radiuss",
-                    "url": "https://github.com/topics/radiuss"
-                },
-                {
-                    "topic": {
-                        "name": "math-physics"
-                    },
-                    "resourcePath": "/topics/math-physics",
-                    "url": "https://github.com/topics/math-physics"
-                }
-            ]
-        }
-    },
     "LLNL/scr": {
         "repositoryTopics": {
             "totalCount": 5,

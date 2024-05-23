@@ -309,16 +309,6 @@
             "machine-learning"
         ]
     },
-    "LLNL/psuade": {
-        "name": "LLNL/psuade",
-        "description": "Problem Solving environment for Uncertainty Analysis and Design Exploration",
-        "website": "https://computing.llnl.gov/projects/psuade",
-        "topics": [
-            "uncertainty-quantification",
-            "radiuss",
-            "math-physics"
-        ]
-    },
     "LLNL/RAJA": {
         "name": "LLNL/RAJA",
         "description": "RAJA Performance Portability Layer (C++)",
