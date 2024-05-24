@@ -30,7 +30,6 @@ repos:
 - LLNL/merlin
 - LLNL/merlin-spellbook
 - LLNL/MerlinWorkflows
-- LLNL/psuade
 - LLNL/Raja
 - LLNL/SAMRAI
 - LLNL/scr
