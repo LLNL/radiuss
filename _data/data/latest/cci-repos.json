@@ -1360,7 +1360,7 @@
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 333
+            "totalCount": 334
         },
         "issues_Open": {
             "totalCount": 10
@@ -1739,19 +1739,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 156
+            "totalCount": 153
         },
         "pullRequests_Closed": {
             "totalCount": 268
         },
         "pullRequests_Merged": {
-            "totalCount": 1583
+            "totalCount": 1586
         },
         "issues_Open": {
-            "totalCount": 151
+            "totalCount": 131
         },
         "issues_Closed": {
-            "totalCount": 1954
+            "totalCount": 1974
         }
     },
     "spack/spack": {
@@ -1800,7 +1800,7 @@
             "totalCount": 3704
         },
         "pullRequests_Merged": {
-            "totalCount": 31378
+            "totalCount": 31380
         },
         "issues_Open": {
             "totalCount": 2315
