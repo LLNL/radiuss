@@ -10,6 +10,6 @@ repo_url: https://github.com/visit-dav/visit
 
 <a href='https://github.com/markcmiller86' target='_blank'>markcmiller86</a> commented on issue <a href='https://github.com/visit-dav/visit/issues/19565' target='_blank'>visit-dav/visit#19565</a>.
 
-<small>@iulian787 and @vijaysm if I disable conduit, mfem and fsm in my build, I can get the engine to run and use MOAB in parallel correctly......</small>
+<small>> When you say MOAB parallel engine is working correctly, I assume this means there are no HDF5 property table errors that we were seeing before?...</small>
 
 <a href='https://github.com/visit-dav/visit/issues/19565' target='_blank'>View Comment</a>
