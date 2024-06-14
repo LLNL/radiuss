@@ -45,7 +45,7 @@
             "totalCount": 70
         },
         "pullRequests_Merged": {
-            "totalCount": 737
+            "totalCount": 739
         },
         "issues_Open": {
             "totalCount": 175
@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 203
@@ -576,7 +576,7 @@
             "totalCount": 34
         },
         "forks": {
-            "totalCount": 56
+            "totalCount": 57
         },
         "primaryLanguage": {
             "name": "C++"
@@ -644,13 +644,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 3
         },
         "pullRequests_Closed": {
-            "totalCount": 23
+            "totalCount": 24
         },
         "pullRequests_Merged": {
-            "totalCount": 204
+            "totalCount": 206
         },
         "issues_Open": {
             "totalCount": 31
@@ -699,13 +699,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 35
         },
         "pullRequests_Merged": {
-            "totalCount": 188
+            "totalCount": 189
         },
         "issues_Open": {
             "totalCount": 17
@@ -809,7 +809,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 11
@@ -1176,7 +1176,7 @@
             "totalCount": 71
         },
         "forks": {
-            "totalCount": 99
+            "totalCount": 100
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1189,13 +1189,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 31
+            "totalCount": 30
         },
         "pullRequests_Closed": {
             "totalCount": 192
         },
         "pullRequests_Merged": {
-            "totalCount": 971
+            "totalCount": 972
         },
         "issues_Open": {
             "totalCount": 171
@@ -1629,10 +1629,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 5
         },
         "pullRequests_Closed": {
-            "totalCount": 114
+            "totalCount": 115
         },
         "pullRequests_Merged": {
             "totalCount": 678
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 743
+            "totalCount": 744
         },
         "mentionableUsers": {
             "totalCount": 35
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1597
+            "totalCount": 1598
         },
         "mentionableUsers": {
             "totalCount": 655
         },
         "forks": {
-            "totalCount": 452
+            "totalCount": 453
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1739,13 +1739,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 151
+            "totalCount": 150
         },
         "pullRequests_Closed": {
             "totalCount": 268
         },
         "pullRequests_Merged": {
-            "totalCount": 1599
+            "totalCount": 1601
         },
         "issues_Open": {
             "totalCount": 138
@@ -1781,7 +1781,7 @@
             "totalCount": 1517
         },
         "forks": {
-            "totalCount": 2064
+            "totalCount": 2067
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 894
+            "totalCount": 883
         },
         "pullRequests_Closed": {
-            "totalCount": 3746
+            "totalCount": 3749
         },
         "pullRequests_Merged": {
-            "totalCount": 31578
+            "totalCount": 31602
         },
         "issues_Open": {
-            "totalCount": 2335
+            "totalCount": 2334
         },
         "issues_Closed": {
-            "totalCount": 5883
+            "totalCount": 5886
         }
     },
     "visit-dav/visit": {
