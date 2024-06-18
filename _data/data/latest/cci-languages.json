@@ -401,7 +401,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 4925340,
+            "totalSize": 4925330,
             "nodes": [
                 {
                     "name": "C++",
@@ -422,7 +422,7 @@
             ],
             "edges": [
                 {
-                    "size": 4654140
+                    "size": 4654130
                 },
                 {
                     "size": 182174
@@ -533,7 +533,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2607845,
+            "totalSize": 2621995,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,19 +574,19 @@
             ],
             "edges": [
                 {
-                    "size": 2236331
+                    "size": 2248179
                 },
                 {
                     "size": 155267
                 },
                 {
-                    "size": 84986
+                    "size": 86136
                 },
                 {
                     "size": 69267
                 },
                 {
-                    "size": 26526
+                    "size": 27678
                 },
                 {
                     "size": 26455
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 24622284,
+            "totalSize": 24651847,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 23881001
+                    "size": 23910564
                 },
                 {
                     "size": 513472
