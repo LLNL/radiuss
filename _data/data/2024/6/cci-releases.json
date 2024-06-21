@@ -1948,6 +1948,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "SUNDIALS v7.1.0",
+                    "publishedAt": "2024-06-20T19:32:10Z",
+                    "tagName": "v7.1.0"
+                },
+                {
                     "name": "SUNDIALS v7.0.0",
                     "publishedAt": "2024-02-29T23:01:26Z",
                     "tagName": "v7.0.0"
