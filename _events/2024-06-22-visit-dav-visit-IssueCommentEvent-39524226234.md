@@ -2,7 +2,7 @@
 event_type: IssueCommentEvent
 avatar: "https://avatars.githubusercontent.com/u/138562383?"
 user: phy-ak
-date: 2024-06-21
+date: 2024-06-22
 repo_name: visit-dav/visit
 html_url: https://github.com/visit-dav/visit/issues/19493
 repo_url: https://github.com/visit-dav/visit
@@ -10,6 +10,6 @@ repo_url: https://github.com/visit-dav/visit
 
 <a href='https://github.com/phy-ak' target='_blank'>phy-ak</a> commented on issue <a href='https://github.com/visit-dav/visit/issues/19493' target='_blank'>visit-dav/visit#19493</a>.
 
-<small>![21-01](https://github.com/visit-dav/visit/assets/138562383/dcd18c06-591d-4d18-88c6-14d198e3f6b1)...</small>
+<small>No, I havent succeeded with this still. I am getting the above error if i follow the above steps. The problem in installing other versions of visit is the gcc version is incompatible. ( my version is gcc 12)....</small>
 
 <a href='https://github.com/visit-dav/visit/issues/19493' target='_blank'>View Comment</a>
