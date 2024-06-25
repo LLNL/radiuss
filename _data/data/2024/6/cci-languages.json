@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1866778,
+            "totalSize": 1869431,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,7 +121,7 @@
             ],
             "edges": [
                 {
-                    "size": 1705901
+                    "size": 1708554
                 },
                 {
                     "size": 73892
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 24646530,
+            "totalSize": 24651284,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 23905247
+                    "size": 23910001
                 },
                 {
                     "size": 513472
@@ -2351,7 +2351,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 22,
-            "totalSize": 98478165,
+            "totalSize": 98477719,
             "nodes": [
                 {
                     "name": "C",
@@ -2459,10 +2459,10 @@
                     "size": 1544531
                 },
                 {
-                    "size": 1313484
+                    "size": 1313582
                 },
                 {
-                    "size": 1085179
+                    "size": 1084635
                 },
                 {
                     "size": 435142
