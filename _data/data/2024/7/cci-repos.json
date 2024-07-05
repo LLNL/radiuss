@@ -100,13 +100,13 @@
             "totalCount": 204
         },
         "pullRequests_Merged": {
-            "totalCount": 2752
+            "totalCount": 2753
         },
         "issues_Open": {
-            "totalCount": 433
+            "totalCount": 432
         },
         "issues_Closed": {
-            "totalCount": 2577
+            "totalCount": 2578
         }
     },
     "flux-framework/flux-sched": {
@@ -149,16 +149,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 57
         },
         "pullRequests_Merged": {
-            "totalCount": 534
+            "totalCount": 537
         },
         "issues_Open": {
-            "totalCount": 127
+            "totalCount": 128
         },
         "issues_Closed": {
             "totalCount": 488
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 242
+            "totalCount": 243
         },
         "mentionableUsers": {
             "totalCount": 69
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 642
+            "totalCount": 645
         },
         "mentionableUsers": {
             "totalCount": 51
@@ -405,7 +405,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 145
+            "totalCount": 146
         },
         "mentionableUsers": {
             "totalCount": 65
@@ -845,7 +845,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 206
+            "totalCount": 208
         },
         "mentionableUsers": {
             "totalCount": 29
@@ -1170,7 +1170,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 448
+            "totalCount": 449
         },
         "mentionableUsers": {
             "totalCount": 71
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1616
+            "totalCount": 1617
         },
         "mentionableUsers": {
             "totalCount": 659
@@ -1748,7 +1748,7 @@
             "totalCount": 1609
         },
         "issues_Open": {
-            "totalCount": 144
+            "totalCount": 146
         },
         "issues_Closed": {
             "totalCount": 1990
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4095
+            "totalCount": 4097
         },
         "mentionableUsers": {
             "totalCount": 1537
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 890
+            "totalCount": 884
         },
         "pullRequests_Closed": {
-            "totalCount": 3782
+            "totalCount": 3786
         },
         "pullRequests_Merged": {
-            "totalCount": 31839
+            "totalCount": 31850
         },
         "issues_Open": {
-            "totalCount": 2322
+            "totalCount": 2321
         },
         "issues_Closed": {
-            "totalCount": 5948
+            "totalCount": 5949
         }
     },
     "visit-dav/visit": {
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 404
+            "totalCount": 405
         },
         "mentionableUsers": {
             "totalCount": 61
@@ -1858,7 +1858,7 @@
             "totalCount": 2811
         },
         "issues_Open": {
-            "totalCount": 1895
+            "totalCount": 1896
         },
         "issues_Closed": {
             "totalCount": 3338
