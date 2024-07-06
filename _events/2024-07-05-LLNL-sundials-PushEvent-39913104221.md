@@ -2,9 +2,9 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/33010171?"
 user: maggul
-date: 2024-07-03
+date: 2024-07-05
 repo_name: LLNL/sundials
-html_url: https://github.com/LLNL/sundials/commit/5905f16ba5f1ae157c4489c1e5ad93fd38cd617f
+html_url: https://github.com/LLNL/sundials/commit/58f7bdc8e59c774b0b9aadc73cefe0e20bb28c83
 repo_url: https://github.com/LLNL/sundials
 ---
 
@@ -12,4 +12,4 @@ repo_url: https://github.com/LLNL/sundials
 
 <small>some progress</small>
 
-<a href='https://github.com/LLNL/sundials/commit/5905f16ba5f1ae157c4489c1e5ad93fd38cd617f' target='_blank'>View Commit</a>
+<a href='https://github.com/LLNL/sundials/commit/58f7bdc8e59c774b0b9aadc73cefe0e20bb28c83' target='_blank'>View Commit</a>
