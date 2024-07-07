@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-sched
 
 <a href='https://github.com/milroy' target='_blank'>milroy</a> commented on issue <a href='https://github.com/flux-framework/flux-sched/pull/1163' target='_blank'>flux-framework/flux-sched#1163</a>.
 
-<small>> I found a way to get the tests to pass but I'm not too happy with it. If the sched loop is invoked after partial cancel in the derived-class remove everything works as expected......</small>
+<small>> That makes sense, the idea though is to avoid the logic triplication for removals. As an alternative, could each of the derived classes provide a function just implementing the difference...</small>
 
 <a href='https://github.com/flux-framework/flux-sched/pull/1163' target='_blank'>View Comment</a>
