@@ -1870,7 +1870,7 @@
     },
     "spack/spack": {
         "repositoryTopics": {
-            "totalCount": 9,
+            "totalCount": 10,
             "nodes": [
                 {
                     "topic": {
@@ -1934,6 +1934,13 @@
                     },
                     "resourcePath": "/topics/linux",
                     "url": "https://github.com/topics/linux"
+                },
+                {
+                    "topic": {
+                        "name": "hpsf"
+                    },
+                    "resourcePath": "/topics/hpsf",
+                    "url": "https://github.com/topics/hpsf"
                 }
             ]
         }

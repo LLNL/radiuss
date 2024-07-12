@@ -468,7 +468,8 @@
             "radiuss",
             "scientific-computing",
             "macos",
-            "linux"
+            "linux",
+            "hpsf"
         ]
     },
     "visit-dav/visit": {
