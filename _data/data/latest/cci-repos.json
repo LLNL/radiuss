@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 204
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 58
@@ -589,7 +589,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 21
@@ -1748,10 +1748,10 @@
             "totalCount": 1610
         },
         "issues_Open": {
-            "totalCount": 148
+            "totalCount": 144
         },
         "issues_Closed": {
-            "totalCount": 1999
+            "totalCount": 2003
         }
     },
     "spack/spack": {
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4105
+            "totalCount": 4107
         },
         "mentionableUsers": {
             "totalCount": 1538
         },
         "forks": {
-            "totalCount": 2090
+            "totalCount": 2091
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 896
+            "totalCount": 897
         },
         "pullRequests_Closed": {
             "totalCount": 3820
         },
         "pullRequests_Merged": {
-            "totalCount": 31942
+            "totalCount": 31944
         },
         "issues_Open": {
             "totalCount": 2344
@@ -1836,7 +1836,7 @@
             "totalCount": 61
         },
         "forks": {
-            "totalCount": 106
+            "totalCount": 105
         },
         "primaryLanguage": {
             "name": "C"
