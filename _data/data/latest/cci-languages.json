@@ -832,7 +832,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10475956,
+            "totalSize": 10495236,
             "nodes": [
                 {
                     "name": "C++",
@@ -881,7 +881,7 @@
             ],
             "edges": [
                 {
-                    "size": 8706342
+                    "size": 8706874
                 },
                 {
                     "size": 874996
@@ -890,16 +890,16 @@
                     "size": 370852
                 },
                 {
-                    "size": 264382
+                    "size": 273028
                 },
                 {
-                    "size": 198201
+                    "size": 199031
                 },
                 {
                     "size": 30835
                 },
                 {
-                    "size": 13292
+                    "size": 22564
                 },
                 {
                     "size": 5141
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25003148,
+            "totalSize": 25003197,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 24263970
+                    "size": 24264019
                 },
                 {
                     "size": 512455
