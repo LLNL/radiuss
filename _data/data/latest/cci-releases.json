@@ -520,7 +520,7 @@
             "nodes": [
                 {
                     "name": "v2024.07.0",
-                    "publishedAt": null,
+                    "publishedAt": "2024-07-24T19:55:34Z",
                     "tagName": "v2024.07.0"
                 },
                 {
@@ -765,6 +765,11 @@
     "LLNL/Umpire": {
         "releases": {
             "nodes": [
+                {
+                    "name": "v2024.07.0",
+                    "publishedAt": "2024-07-24T20:24:34Z",
+                    "tagName": "v2024.07.0"
+                },
                 {
                     "name": "v2024.02.1",
                     "publishedAt": "2024-04-16T12:56:16Z",
