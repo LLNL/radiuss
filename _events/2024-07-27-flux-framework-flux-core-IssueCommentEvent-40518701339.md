@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/trws' target='_blank'>trws</a> commented on issue <a href='https://github.com/flux-framework/flux-core/pull/6128' target='_blank'>flux-framework/flux-core#6128</a>.
 
-<small>The focal docker build has been restored....</small>
+<small>Looks like we're green here pending branch check updates....</small>
 
 <a href='https://github.com/flux-framework/flux-core/pull/6128' target='_blank'>View Comment</a>
