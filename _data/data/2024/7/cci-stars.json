@@ -12257,6 +12257,10 @@
         {
             "date": "2024-07-15",
             "value": 2
+        },
+        {
+            "date": "2024-07-22",
+            "value": 2
         }
     ],
     "flux-framework/flux-sched": [
@@ -17191,6 +17195,10 @@
         {
             "date": "2024-07-22",
             "value": 13
+        },
+        {
+            "date": "2024-07-29",
+            "value": 11
         }
     ],
     "visit-dav/visit": [
