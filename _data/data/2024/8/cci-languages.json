@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 36729687,
+            "totalSize": 36986260,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34352872
+                    "size": 34605187
                 },
                 {
                     "size": 556925
@@ -67,10 +67,10 @@
                     "size": 478091
                 },
                 {
-                    "size": 318427
+                    "size": 318973
                 },
                 {
-                    "size": 246074
+                    "size": 249375
                 },
                 {
                     "size": 128450
@@ -82,7 +82,7 @@
                     "size": 27373
                 },
                 {
-                    "size": 24790
+                    "size": 25201
                 },
                 {
                     "size": 8787
@@ -141,7 +141,7 @@
     "GLVis/glvis": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1374215,
+            "totalSize": 1374886,
             "nodes": [
                 {
                     "name": "C++",
@@ -182,7 +182,7 @@
             ],
             "edges": [
                 {
-                    "size": 1110332
+                    "size": 1111003
                 },
                 {
                     "size": 204508
@@ -1881,7 +1881,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2969142,
+            "totalSize": 2969148,
             "nodes": [
                 {
                     "name": "C++",
@@ -1922,7 +1922,7 @@
             ],
             "edges": [
                 {
-                    "size": 2227669
+                    "size": 2227675
                 },
                 {
                     "size": 479502
@@ -2006,7 +2006,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29680242,
+            "totalSize": 29680627,
             "nodes": [
                 {
                     "name": "C",
@@ -2071,7 +2071,7 @@
             ],
             "edges": [
                 {
-                    "size": 21242020
+                    "size": 21242405
                 },
                 {
                     "size": 3586630
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25065926,
+            "totalSize": 25102409,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 24326748
+                    "size": 24363231
                 },
                 {
                     "size": 512455
