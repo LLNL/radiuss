@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/garlick' target='_blank'>garlick</a> commented on issue <a href='https://github.com/flux-framework/flux-core/issues/6179' target='_blank'>flux-framework/flux-core#6179</a>.
 
-<small>Somehow the job would need to get out of the `hk->allocations` list without going through `allocation_remove()` (which logs that message).  I don't see a way for that to happen, other than if the scheduler were reloaded and the job was partially released or another less likely error, but then we would see another log message...</small>
+<small>Good thoughts.  The final flag would be a simple change to the protocol and perhaps fluxion could detect and log any extra resources that needed to be freed at that point....</small>
 
 <a href='https://github.com/flux-framework/flux-core/issues/6179' target='_blank'>View Comment</a>
