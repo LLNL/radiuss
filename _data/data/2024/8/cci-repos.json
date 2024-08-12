@@ -48,7 +48,7 @@
             "totalCount": 761
         },
         "issues_Open": {
-            "totalCount": 173
+            "totalCount": 174
         },
         "issues_Closed": {
             "totalCount": 326
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 58
@@ -515,7 +515,7 @@
             "url": "http://choosealicense.com/licenses/bsl-1.0/"
         },
         "stargazers": {
-            "totalCount": 19
+            "totalCount": 20
         },
         "mentionableUsers": {
             "totalCount": 14
@@ -1726,7 +1726,7 @@
             "totalCount": 667
         },
         "forks": {
-            "totalCount": 458
+            "totalCount": 459
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 887
+            "totalCount": 882
         },
         "pullRequests_Closed": {
             "totalCount": 3868
         },
         "pullRequests_Merged": {
-            "totalCount": 32286
+            "totalCount": 32297
         },
         "issues_Open": {
-            "totalCount": 2351
+            "totalCount": 2350
         },
         "issues_Closed": {
-            "totalCount": 6009
+            "totalCount": 6010
         }
     },
     "visit-dav/visit": {
