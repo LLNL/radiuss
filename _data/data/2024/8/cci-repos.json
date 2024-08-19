@@ -1561,7 +1561,7 @@
             "totalCount": 36
         },
         "forks": {
-            "totalCount": 116
+            "totalCount": 117
         },
         "primaryLanguage": {
             "name": "C"
@@ -1748,10 +1748,10 @@
             "totalCount": 1630
         },
         "issues_Open": {
-            "totalCount": 158
+            "totalCount": 157
         },
         "issues_Closed": {
-            "totalCount": 2016
+            "totalCount": 2019
         }
     },
     "spack/spack": {
@@ -1800,7 +1800,7 @@
             "totalCount": 3883
         },
         "pullRequests_Merged": {
-            "totalCount": 32393
+            "totalCount": 32395
         },
         "issues_Open": {
             "totalCount": 2355
