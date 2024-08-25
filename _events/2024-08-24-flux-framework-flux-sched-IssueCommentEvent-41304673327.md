@@ -2,7 +2,7 @@
 event_type: IssueCommentEvent
 avatar: "https://avatars.githubusercontent.com/u/22429695?"
 user: codecov[bot]
-date: 2024-08-23
+date: 2024-08-24
 repo_name: flux-framework/flux-sched
 html_url: https://github.com/flux-framework/flux-sched/pull/1282
 repo_url: https://github.com/flux-framework/flux-sched
