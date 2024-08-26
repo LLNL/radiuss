@@ -2,9 +2,9 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1102718?"
 user: brugger1
-date: 2024-08-24
+date: 2024-08-25
 repo_name: visit-dav/visit
-html_url: https://github.com/visit-dav/visit/commit/b10d5ea5dd56a6a170292b7873fa9147e5b0dcb0
+html_url: https://github.com/visit-dav/visit/commit/262acabcf6c98f90a91e4b81d85dc9ecd62c958f
 repo_url: https://github.com/visit-dav/visit
 ---
 
@@ -12,4 +12,4 @@ repo_url: https://github.com/visit-dav/visit
 
 <small>Update the last test suite pass on pascal.</small>
 
-<a href='https://github.com/visit-dav/visit/commit/b10d5ea5dd56a6a170292b7873fa9147e5b0dcb0' target='_blank'>View Commit</a>
+<a href='https://github.com/visit-dav/visit/commit/262acabcf6c98f90a91e4b81d85dc9ecd62c958f' target='_blank'>View Commit</a>
