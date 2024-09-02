@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1872129,
+            "totalSize": 1874624,
             "nodes": [
                 {
                     "name": "C++",
@@ -127,7 +127,7 @@
                     "size": 73892
                 },
                 {
-                    "size": 42418
+                    "size": 44913
                 },
                 {
                     "size": 35815
@@ -1304,7 +1304,7 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 6177172,
+            "totalSize": 6173770,
             "nodes": [
                 {
                     "name": "Fortran",
@@ -1349,13 +1349,13 @@
             ],
             "edges": [
                 {
-                    "size": 1883373
+                    "size": 1883369
                 },
                 {
                     "size": 1883361
                 },
                 {
-                    "size": 1219806
+                    "size": 1216408
                 },
                 {
                     "size": 1045099
@@ -2121,7 +2121,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 16728696,
+            "totalSize": 16733004,
             "nodes": [
                 {
                     "name": "C++",
@@ -2166,7 +2166,7 @@
             ],
             "edges": [
                 {
-                    "size": 16142950
+                    "size": 16147258
                 },
                 {
                     "size": 264419
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25204193,
+            "totalSize": 25203027,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 24461111
+                    "size": 24459945
                 },
                 {
                     "size": 513864
