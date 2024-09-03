@@ -1304,15 +1304,15 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 6173770,
+            "totalSize": 6173630,
             "nodes": [
-                {
-                    "name": "Fortran",
-                    "color": "#4d41b1"
-                },
                 {
                     "name": "C++",
                     "color": "#f34b7d"
+                },
+                {
+                    "name": "Fortran",
+                    "color": "#4d41b1"
                 },
                 {
                     "name": "Python",
@@ -1349,10 +1349,10 @@
             ],
             "edges": [
                 {
-                    "size": 1883369
+                    "size": 1883361
                 },
                 {
-                    "size": 1883361
+                    "size": 1883229
                 },
                 {
                     "size": 1216408
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25203027,
+            "totalSize": 25208370,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,7 +2286,7 @@
             ],
             "edges": [
                 {
-                    "size": 24459945
+                    "size": 24465288
                 },
                 {
                     "size": 513864
