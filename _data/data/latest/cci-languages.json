@@ -1057,8 +1057,8 @@
     },
     "LLNL/lbann": {
         "languages": {
-            "totalCount": 8,
-            "totalSize": 11587129,
+            "totalCount": 6,
+            "totalSize": 11626919,
             "nodes": [
                 {
                     "name": "C++",
@@ -1081,39 +1081,25 @@
                     "color": "#89e051"
                 },
                 {
-                    "name": "Pawn",
-                    "color": "#dbb284"
-                },
-                {
-                    "name": "Tcl",
-                    "color": "#e4cc98"
-                },
-                {
                     "name": "Dockerfile",
                     "color": "#384d54"
                 }
             ],
             "edges": [
                 {
-                    "size": 7703470
+                    "size": 7708001
                 },
                 {
-                    "size": 2517711
+                    "size": 2517848
                 },
                 {
                     "size": 756237
                 },
                 {
-                    "size": 429543
+                    "size": 433725
                 },
                 {
-                    "size": 172288
-                },
-                {
-                    "size": 3903
-                },
-                {
-                    "size": 3053
+                    "size": 210184
                 },
                 {
                     "size": 924
@@ -1772,8 +1758,8 @@
     },
     "flux-framework/flux-core": {
         "languages": {
-            "totalCount": 15,
-            "totalSize": 12589149,
+            "totalCount": 17,
+            "totalSize": 12598945,
             "nodes": [
                 {
                     "name": "C",
@@ -1816,41 +1802,49 @@
                     "color": "#00004c"
                 },
                 {
-                    "name": "SourcePawn",
-                    "color": "#f69e1d"
+                    "name": "Pawn",
+                    "color": "#dbb284"
                 },
                 {
-                    "name": "Perl",
-                    "color": "#0298c3"
+                    "name": "Raku",
+                    "color": "#0000fb"
                 },
                 {
                     "name": "Vim Script",
                     "color": "#199f4b"
                 },
                 {
-                    "name": "Rebol",
-                    "color": "#358a5b"
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Rez",
+                    "color": "#FFDAB3"
                 },
                 {
                     "name": "R",
                     "color": "#198CE7"
+                },
+                {
+                    "name": "Rebol",
+                    "color": "#358a5b"
                 }
             ],
             "edges": [
                 {
-                    "size": 9042797
+                    "size": 9047408
                 },
                 {
-                    "size": 1714300
+                    "size": 1719415
                 },
                 {
-                    "size": 1263331
+                    "size": 1263374
                 },
                 {
                     "size": 168636
                 },
                 {
-                    "size": 159118
+                    "size": 159145
                 },
                 {
                     "size": 98927
@@ -1871,16 +1865,22 @@
                     "size": 10804
                 },
                 {
-                    "size": 7596
+                    "size": 4910
                 },
                 {
                     "size": 4657
                 },
                 {
-                    "size": 1833
+                    "size": 2686
                 },
                 {
-                    "size": 1571
+                    "size": 2508
+                },
+                {
+                    "size": 504
+                },
+                {
+                    "size": 392
                 }
             ]
         }
@@ -1888,7 +1888,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2075255,
+            "totalSize": 2072081,
             "nodes": [
                 {
                     "name": "C++",
@@ -1925,13 +1925,13 @@
             ],
             "edges": [
                 {
-                    "size": 1323313
+                    "size": 1320163
                 },
                 {
-                    "size": 497846
+                    "size": 497831
                 },
                 {
-                    "size": 90800
+                    "size": 90791
                 },
                 {
                     "size": 62847
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25208370,
+            "totalSize": 25208363,
             "nodes": [
                 {
                     "name": "Python",
@@ -2240,8 +2240,8 @@
                     "color": "#012456"
                 },
                 {
-                    "name": "HTML",
-                    "color": "#e34c26"
+                    "name": "BitBake",
+                    "color": "#00bce4"
                 },
                 {
                     "name": "Lua",
@@ -2264,12 +2264,12 @@
                     "color": "#701516"
                 },
                 {
-                    "name": "M4",
-                    "color": null
+                    "name": "HTML",
+                    "color": "#e34c26"
                 },
                 {
-                    "name": "BitBake",
-                    "color": "#00bce4"
+                    "name": "M4",
+                    "color": null
                 },
                 {
                     "name": "Perl",
@@ -2286,13 +2286,13 @@
             ],
             "edges": [
                 {
-                    "size": 24465288
+                    "size": 24465777
                 },
                 {
                     "size": 513864
                 },
                 {
-                    "size": 99522
+                    "size": 99026
                 },
                 {
                     "size": 49894
@@ -2313,7 +2313,7 @@
                     "size": 8138
                 },
                 {
-                    "size": 4808
+                    "size": 4549
                 },
                 {
                     "size": 3080
@@ -2331,10 +2331,10 @@
                     "size": 2492
                 },
                 {
-                    "size": 2111
+                    "size": 2365
                 },
                 {
-                    "size": 2106
+                    "size": 2111
                 },
                 {
                     "size": 615
@@ -2351,7 +2351,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98532607,
+            "totalSize": 98534865,
             "nodes": [
                 {
                     "name": "C",
@@ -2406,8 +2406,8 @@
                     "color": "#ecdebe"
                 },
                 {
-                    "name": "NASL",
-                    "color": null
+                    "name": "BitBake",
+                    "color": "#00bce4"
                 },
                 {
                     "name": "Makefile",
@@ -2448,13 +2448,13 @@
             ],
             "edges": [
                 {
-                    "size": 74559602
+                    "size": 74559927
                 },
                 {
                     "size": 12614449
                 },
                 {
-                    "size": 3835264
+                    "size": 3836990
                 },
                 {
                     "size": 2973895
@@ -2463,7 +2463,7 @@
                     "size": 1530798
                 },
                 {
-                    "size": 1316966
+                    "size": 1317173
                 },
                 {
                     "size": 1087795
