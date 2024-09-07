@@ -1058,7 +1058,7 @@
     "LLNL/lbann": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 11626919,
+            "totalSize": 11626959,
             "nodes": [
                 {
                     "name": "C++",
@@ -1090,7 +1090,7 @@
                     "size": 7708001
                 },
                 {
-                    "size": 2517848
+                    "size": 2517888
                 },
                 {
                     "size": 756237
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25209832,
+            "totalSize": 25236675,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,13 +2286,13 @@
             ],
             "edges": [
                 {
-                    "size": 24467297
+                    "size": 24495600
                 },
                 {
-                    "size": 513813
+                    "size": 514001
                 },
                 {
-                    "size": 99026
+                    "size": 97378
                 },
                 {
                     "size": 49894
