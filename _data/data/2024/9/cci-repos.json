@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 668
+            "totalCount": 669
         },
         "mentionableUsers": {
             "totalCount": 51
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 886
+            "totalCount": 893
         },
         "pullRequests_Closed": {
             "totalCount": 3923
         },
         "pullRequests_Merged": {
-            "totalCount": 32673
+            "totalCount": 32676
         },
         "issues_Open": {
-            "totalCount": 2374
+            "totalCount": 2375
         },
         "issues_Closed": {
             "totalCount": 6044
@@ -1830,7 +1830,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 426
+            "totalCount": 427
         },
         "mentionableUsers": {
             "totalCount": 62
