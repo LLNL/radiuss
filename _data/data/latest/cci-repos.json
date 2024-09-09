@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 24
         },
         "pullRequests_Closed": {
             "totalCount": 205
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 61
         },
         "pullRequests_Merged": {
-            "totalCount": 572
+            "totalCount": 573
         },
         "issues_Open": {
-            "totalCount": 101
+            "totalCount": 100
         },
         "issues_Closed": {
-            "totalCount": 527
+            "totalCount": 528
         }
     },
     "GLVis/glvis": {
@@ -424,7 +424,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 48
@@ -1170,7 +1170,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 460
+            "totalCount": 461
         },
         "mentionableUsers": {
             "totalCount": 71
@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 81
@@ -1745,10 +1745,10 @@
             "totalCount": 273
         },
         "pullRequests_Merged": {
-            "totalCount": 1636
+            "totalCount": 1637
         },
         "issues_Open": {
-            "totalCount": 158
+            "totalCount": 159
         },
         "issues_Closed": {
             "totalCount": 2034
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 893
+            "totalCount": 894
         },
         "pullRequests_Closed": {
-            "totalCount": 3923
+            "totalCount": 3924
         },
         "pullRequests_Merged": {
-            "totalCount": 32676
+            "totalCount": 32677
         },
         "issues_Open": {
             "totalCount": 2375
