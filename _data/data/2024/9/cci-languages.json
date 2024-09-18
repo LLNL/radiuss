@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37057350,
+            "totalSize": 37060813,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34669452
+                    "size": 34672915
                 },
                 {
                     "size": 556925
@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 5169081,
+            "totalSize": 5169134,
             "nodes": [
                 {
                     "name": "C++",
@@ -415,7 +415,7 @@
             ],
             "edges": [
                 {
-                    "size": 4883623
+                    "size": 4883676
                 },
                 {
                     "size": 193256
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25285444,
+            "totalSize": 25314400,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,13 +2279,13 @@
             ],
             "edges": [
                 {
-                    "size": 24544213
+                    "size": 24569250
                 },
                 {
                     "size": 514205
                 },
                 {
-                    "size": 97330
+                    "size": 101249
                 },
                 {
                     "size": 49894
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98544937,
+            "totalSize": 98545076,
             "nodes": [
                 {
                     "name": "C",
@@ -2447,7 +2447,7 @@
                     "size": 12614504
                 },
                 {
-                    "size": 3838941
+                    "size": 3839080
                 },
                 {
                     "size": 2973895
