@@ -141,7 +141,7 @@
     "GLVis/glvis": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1381579,
+            "totalSize": 1382163,
             "nodes": [
                 {
                     "name": "C++",
@@ -182,7 +182,7 @@
             ],
             "edges": [
                 {
-                    "size": 1113582
+                    "size": 1114166
                 },
                 {
                     "size": 204508
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25313635,
+            "totalSize": 25307206,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 24568440
+                    "size": 24562011
                 },
                 {
                     "size": 514250
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98549362,
+            "totalSize": 98535361,
             "nodes": [
                 {
                     "name": "C",
@@ -2459,7 +2459,7 @@
                     "size": 1317551
                 },
                 {
-                    "size": 1087796
+                    "size": 1073795
                 },
                 {
                     "size": 435142
