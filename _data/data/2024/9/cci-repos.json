@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 251
+            "totalCount": 252
         },
         "mentionableUsers": {
             "totalCount": 69
@@ -268,7 +268,7 @@
             "totalCount": 237
         },
         "issues_Open": {
-            "totalCount": 22
+            "totalCount": 23
         },
         "issues_Closed": {
             "totalCount": 34
@@ -864,13 +864,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 45
         },
         "pullRequests_Merged": {
-            "totalCount": 363
+            "totalCount": 364
         },
         "issues_Open": {
             "totalCount": 35
@@ -1170,7 +1170,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 466
+            "totalCount": 468
         },
         "mentionableUsers": {
             "totalCount": 71
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1672
+            "totalCount": 1673
         },
         "mentionableUsers": {
             "totalCount": 676
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4219
+            "totalCount": 4220
         },
         "mentionableUsers": {
             "totalCount": 1576
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 940
+            "totalCount": 914
         },
         "pullRequests_Closed": {
             "totalCount": 3942
         },
         "pullRequests_Merged": {
-            "totalCount": 32841
+            "totalCount": 32875
         },
         "issues_Open": {
             "totalCount": 2367
