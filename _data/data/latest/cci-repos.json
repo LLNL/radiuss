@@ -103,7 +103,7 @@
             "totalCount": 2859
         },
         "issues_Open": {
-            "totalCount": 497
+            "totalCount": 498
         },
         "issues_Closed": {
             "totalCount": 2640
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 252
+            "totalCount": 253
         },
         "mentionableUsers": {
             "totalCount": 69
@@ -353,7 +353,7 @@
             "totalCount": 673
         },
         "mentionableUsers": {
-            "totalCount": 52
+            "totalCount": 54
         },
         "forks": {
             "totalCount": 182
@@ -369,13 +369,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 32
+            "totalCount": 27
         },
         "pullRequests_Closed": {
             "totalCount": 32
         },
         "pullRequests_Merged": {
-            "totalCount": 549
+            "totalCount": 556
         },
         "issues_Open": {
             "totalCount": 172
@@ -1583,7 +1583,7 @@
             "totalCount": 283
         },
         "issues_Open": {
-            "totalCount": 21
+            "totalCount": 24
         },
         "issues_Closed": {
             "totalCount": 175
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 314
+            "totalCount": 315
         },
         "mentionableUsers": {
             "totalCount": 45
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 767
+            "totalCount": 768
         },
         "mentionableUsers": {
             "totalCount": 35
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1678
+            "totalCount": 1679
         },
         "mentionableUsers": {
             "totalCount": 677
@@ -1778,7 +1778,7 @@
             "totalCount": 4231
         },
         "mentionableUsers": {
-            "totalCount": 1580
+            "totalCount": 1581
         },
         "forks": {
             "totalCount": 2131
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 859
+            "totalCount": 863
         },
         "pullRequests_Closed": {
-            "totalCount": 3959
+            "totalCount": 3963
         },
         "pullRequests_Merged": {
-            "totalCount": 32987
+            "totalCount": 33000
         },
         "issues_Open": {
-            "totalCount": 2365
+            "totalCount": 2363
         },
         "issues_Closed": {
-            "totalCount": 6085
+            "totalCount": 6087
         }
     },
     "visit-dav/visit": {
