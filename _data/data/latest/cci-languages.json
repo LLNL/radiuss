@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37062122,
+            "totalSize": 37110352,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34672915
+                    "size": 34721145
                 },
                 {
                     "size": 556925
@@ -297,7 +297,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2489946,
+            "totalSize": 2491768,
             "nodes": [
                 {
                     "name": "C++",
@@ -342,7 +342,7 @@
             ],
             "edges": [
                 {
-                    "size": 1762094
+                    "size": 1763916
                 },
                 {
                     "size": 297832
@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11410310,
+            "totalSize": 11410452,
             "nodes": [
                 {
                     "name": "C++",
@@ -651,7 +651,7 @@
                     "size": 9919726
                 },
                 {
-                    "size": 561397
+                    "size": 561491
                 },
                 {
                     "size": 558588
@@ -672,7 +672,7 @@
                     "size": 18923
                 },
                 {
-                    "size": 4430
+                    "size": 4478
                 },
                 {
                     "size": 2185
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25583496,
+            "totalSize": 25586258,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 24838372
+                    "size": 24841134
                 },
                 {
                     "size": 514448
