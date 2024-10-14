@@ -213,7 +213,7 @@
             "totalCount": 140
         },
         "issues_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "issues_Closed": {
             "totalCount": 124
@@ -735,7 +735,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 209
+            "totalCount": 211
         },
         "mentionableUsers": {
             "totalCount": 55
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 836
+            "totalCount": 824
         },
         "pullRequests_Closed": {
-            "totalCount": 3987
+            "totalCount": 3988
         },
         "pullRequests_Merged": {
-            "totalCount": 33279
+            "totalCount": 33299
         },
         "issues_Open": {
-            "totalCount": 2364
+            "totalCount": 2365
         },
         "issues_Closed": {
             "totalCount": 6107
