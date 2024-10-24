@@ -297,7 +297,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2474901,
+            "totalSize": 2460958,
             "nodes": [
                 {
                     "name": "C++",
@@ -342,7 +342,7 @@
             ],
             "edges": [
                 {
-                    "size": 1732219
+                    "size": 1718276
                 },
                 {
                     "size": 307626
@@ -599,7 +599,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11416801,
+            "totalSize": 11475448,
             "nodes": [
                 {
                     "name": "C++",
@@ -651,7 +651,7 @@
                     "size": 9926075
                 },
                 {
-                    "size": 561491
+                    "size": 620420
                 },
                 {
                     "size": 558588
@@ -660,7 +660,7 @@
                     "size": 115337
                 },
                 {
-                    "size": 114199
+                    "size": 113917
                 },
                 {
                     "size": 87042
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25726847,
+            "totalSize": 25696984,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,10 +2279,10 @@
             ],
             "edges": [
                 {
-                    "size": 24982034
+                    "size": 24952719
                 },
                 {
-                    "size": 514124
+                    "size": 513576
                 },
                 {
                     "size": 100980
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98551783,
+            "totalSize": 98569570,
             "nodes": [
                 {
                     "name": "C",
@@ -2441,22 +2441,22 @@
             ],
             "edges": [
                 {
-                    "size": 74588554
+                    "size": 74603491
                 },
                 {
-                    "size": 12618134
+                    "size": 12618811
                 },
                 {
-                    "size": 3843950
+                    "size": 3845792
                 },
                 {
-                    "size": 2973895
+                    "size": 2973967
                 },
                 {
-                    "size": 1517984
+                    "size": 1517997
                 },
                 {
-                    "size": 1320615
+                    "size": 1320861
                 },
                 {
                     "size": 1074086
