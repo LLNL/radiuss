@@ -12176,6 +12176,10 @@
         {
             "date": "2024-09-09",
             "value": 1
+        },
+        {
+            "date": "2024-10-28",
+            "value": 1
         }
     ],
     "flux-framework/flux-core": [
@@ -17780,6 +17784,10 @@
         {
             "date": "2024-10-21",
             "value": 8
+        },
+        {
+            "date": "2024-10-28",
+            "value": 20
         }
     ],
     "visit-dav/visit": [
