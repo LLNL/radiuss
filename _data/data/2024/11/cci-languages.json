@@ -1947,7 +1947,7 @@
     "hpc/Spindle": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 2639674,
+            "totalSize": 2679650,
             "nodes": [
                 {
                     "name": "Makefile",
@@ -1976,19 +1976,19 @@
             ],
             "edges": [
                 {
-                    "size": 1020464
+                    "size": 1028740
                 },
                 {
-                    "size": 985384
+                    "size": 986218
                 },
                 {
-                    "size": 345606
+                    "size": 345704
                 },
                 {
-                    "size": 252915
+                    "size": 270429
                 },
                 {
-                    "size": 35225
+                    "size": 48479
                 },
                 {
                     "size": 80
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25972085,
+            "totalSize": 25961394,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25223044
+                    "size": 25212353
                 },
                 {
                     "size": 514720
