@@ -543,6 +543,10 @@
         {
             "date": "2024-10-28",
             "value": 1
+        },
+        {
+            "date": "2024-11-04",
+            "value": 1
         }
     ],
     "GEOS-DEV/LvArray": [
@@ -2733,6 +2737,10 @@
         {
             "date": "2024-10-28",
             "value": 2
+        },
+        {
+            "date": "2024-11-11",
+            "value": 3
         }
     ],
     "LLNL/MerlinWorkflows": [
