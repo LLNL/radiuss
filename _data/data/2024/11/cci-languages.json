@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26074569,
+            "totalSize": 26078529,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25313021
+                    "size": 25316981
                 },
                 {
                     "size": 522262
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98634423,
+            "totalSize": 98661385,
             "nodes": [
                 {
                     "name": "C",
@@ -2453,13 +2453,13 @@
                     "size": 2974689
                 },
                 {
-                    "size": 1501235
+                    "size": 1513820
                 },
                 {
                     "size": 1323091
                 },
                 {
-                    "size": 1069117
+                    "size": 1083494
                 },
                 {
                     "size": 435142
