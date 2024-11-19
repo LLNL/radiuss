@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 196
+            "totalCount": 197
         },
         "mentionableUsers": {
             "totalCount": 53
@@ -100,13 +100,13 @@
             "totalCount": 214
         },
         "pullRequests_Merged": {
-            "totalCount": 2917
+            "totalCount": 2919
         },
         "issues_Open": {
             "totalCount": 511
         },
         "issues_Closed": {
-            "totalCount": 2686
+            "totalCount": 2687
         }
     },
     "flux-framework/flux-sched": {
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 699
+            "totalCount": 700
         },
         "mentionableUsers": {
             "totalCount": 54
@@ -424,13 +424,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 54
         },
         "pullRequests_Merged": {
-            "totalCount": 808
+            "totalCount": 809
         },
         "issues_Open": {
             "totalCount": 218
@@ -738,10 +738,10 @@
             "totalCount": 212
         },
         "mentionableUsers": {
-            "totalCount": 54
+            "totalCount": 55
         },
         "forks": {
-            "totalCount": 65
+            "totalCount": 64
         },
         "primaryLanguage": {
             "name": "C++"
@@ -754,13 +754,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 29
         },
         "pullRequests_Merged": {
-            "totalCount": 703
+            "totalCount": 704
         },
         "issues_Open": {
             "totalCount": 164
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 324
+            "totalCount": 325
         },
         "mentionableUsers": {
             "totalCount": 44
@@ -1684,7 +1684,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 27
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1717
+            "totalCount": 1719
         },
         "mentionableUsers": {
             "totalCount": 686
@@ -1775,10 +1775,10 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4401
+            "totalCount": 4403
         },
         "mentionableUsers": {
-            "totalCount": 1606
+            "totalCount": 1607
         },
         "forks": {
             "totalCount": 2166
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 880
+            "totalCount": 845
         },
         "pullRequests_Closed": {
             "totalCount": 4030
         },
         "pullRequests_Merged": {
-            "totalCount": 33829
+            "totalCount": 33872
         },
         "issues_Open": {
-            "totalCount": 2373
+            "totalCount": 2374
         },
         "issues_Closed": {
             "totalCount": 6175
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 124
         },
         "pullRequests_Merged": {
-            "totalCount": 3044
+            "totalCount": 3046
         },
         "issues_Open": {
             "totalCount": 1886
         },
         "issues_Closed": {
-            "totalCount": 3472
+            "totalCount": 3473
         }
     },
     "XBraid/xbraid": {
