@@ -10,6 +10,6 @@ repo_url: https://github.com/flux-framework/flux-core
 
 <a href='https://github.com/garlick' target='_blank'>garlick</a> commented on issue <a href='https://github.com/flux-framework/flux-core/issues/6463' target='_blank'>flux-framework/flux-core#6463</a>.
 
-<small>Don't bother running valgrind on `flux-archive` - the segfault is in the broker.  At least that's what I thought?  If you can find the conditions needed to recreate it then maybe we can do it under gdb or in circumstances where it'll be easier to retrieve the core....</small>
+<small>Is there a way we could create a reproducer for just the `flux archive` failure?  It seems like that ought to be reproducible with a size=1 instance since it's just `flux archive create` writing to the KVS, correct?  Is it maybe something to do with content of the files you are putting in the archive?  In my unsuccessful attempts, I was just getting random bytes from `/dev/urandom` and trying to create an archive with one big "file" in it (up to 10G).   There were hundreds of G available in /tmp....</small>
 
 <a href='https://github.com/flux-framework/flux-core/issues/6463' target='_blank'>View Comment</a>
