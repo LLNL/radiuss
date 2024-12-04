@@ -50,7 +50,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 }
             ],
             "edges": [
@@ -643,7 +643,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 }
             ],
             "edges": [
@@ -861,7 +861,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 },
                 {
                     "name": "Makefile",
@@ -1452,7 +1452,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 },
                 {
                     "name": "Python",
@@ -1752,7 +1752,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12745110,
+            "totalSize": 12751595,
             "nodes": [
                 {
                     "name": "C",
@@ -1825,19 +1825,19 @@
             ],
             "edges": [
                 {
-                    "size": 9164499
+                    "size": 9168267
                 },
                 {
-                    "size": 1718119
+                    "size": 1719078
                 },
                 {
-                    "size": 1292130
+                    "size": 1293650
                 },
                 {
-                    "size": 169583
+                    "size": 169601
                 },
                 {
-                    "size": 160586
+                    "size": 160806
                 },
                 {
                     "size": 98924
@@ -2059,7 +2059,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 }
             ],
             "edges": [
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26172504,
+            "totalSize": 26176066,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25410934
+                    "size": 25414496
                 },
                 {
                     "size": 522284
@@ -2408,7 +2408,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 },
                 {
                     "name": "Dockerfile",
