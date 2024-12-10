@@ -259,7 +259,7 @@
     "LLNL/CHAI": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 378202,
+            "totalSize": 379823,
             "nodes": [
                 {
                     "name": "C++",
@@ -280,7 +280,7 @@
             ],
             "edges": [
                 {
-                    "size": 331716
+                    "size": 333337
                 },
                 {
                     "size": 26462
@@ -1947,7 +1947,7 @@
     "hpc/Spindle": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 2771733,
+            "totalSize": 2772011,
             "nodes": [
                 {
                     "name": "Makefile",
@@ -1976,10 +1976,10 @@
             ],
             "edges": [
                 {
-                    "size": 1077754
+                    "size": 1077730
                 },
                 {
-                    "size": 1017143
+                    "size": 1017445
                 },
                 {
                     "size": 347881
@@ -2114,7 +2114,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 16951225,
+            "totalSize": 16951695,
             "nodes": [
                 {
                     "name": "C++",
@@ -2159,7 +2159,7 @@
             ],
             "edges": [
                 {
-                    "size": 16364793
+                    "size": 16365263
                 },
                 {
                     "size": 264763
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26196276,
+            "totalSize": 26202194,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25439890
+                    "size": 25445808
                 },
                 {
                     "size": 516981

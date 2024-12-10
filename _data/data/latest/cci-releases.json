@@ -3040,6 +3040,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v1.0.0-alpha.2 (2024-12-09)",
+                    "publishedAt": "2024-12-09T08:53:38Z",
+                    "tagName": "v1.0.0-alpha.2"
+                },
+                {
                     "name": "v1.0.0-alpha.1 (2024-11-21)",
                     "publishedAt": "2024-11-21T17:07:40Z",
                     "tagName": "v1.0.0-alpha.1"
