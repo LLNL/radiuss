@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 214
@@ -1189,10 +1189,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 32
+            "totalCount": 31
         },
         "pullRequests_Closed": {
-            "totalCount": 206
+            "totalCount": 207
         },
         "pullRequests_Merged": {
             "totalCount": 1030
@@ -1720,10 +1720,10 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1770
+            "totalCount": 1771
         },
         "mentionableUsers": {
-            "totalCount": 693
+            "totalCount": 699
         },
         "forks": {
             "totalCount": 489
@@ -1739,7 +1739,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 165
+            "totalCount": 166
         },
         "pullRequests_Closed": {
             "totalCount": 286
@@ -1775,10 +1775,10 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4473
+            "totalCount": 4474
         },
         "mentionableUsers": {
-            "totalCount": 1616
+            "totalCount": 1617
         },
         "forks": {
             "totalCount": 2197
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 830
+            "totalCount": 827
         },
         "pullRequests_Closed": {
             "totalCount": 4190
         },
         "pullRequests_Merged": {
-            "totalCount": 34252
+            "totalCount": 34255
         },
         "issues_Open": {
-            "totalCount": 2383
+            "totalCount": 2384
         },
         "issues_Closed": {
             "totalCount": 6230
@@ -1858,7 +1858,7 @@
             "totalCount": 3097
         },
         "issues_Open": {
-            "totalCount": 1897
+            "totalCount": 1898
         },
         "issues_Closed": {
             "totalCount": 3500
