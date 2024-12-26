@@ -243,7 +243,7 @@
             "totalCount": 49
         },
         "mentionableUsers": {
-            "totalCount": 102
+            "totalCount": 103
         },
         "forks": {
             "totalCount": 9
@@ -1720,10 +1720,10 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1771
+            "totalCount": 1770
         },
         "mentionableUsers": {
-            "totalCount": 730
+            "totalCount": 731
         },
         "forks": {
             "totalCount": 489
@@ -1739,7 +1739,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 168
+            "totalCount": 169
         },
         "pullRequests_Closed": {
             "totalCount": 286
@@ -1748,7 +1748,7 @@
             "totalCount": 1683
         },
         "issues_Open": {
-            "totalCount": 98
+            "totalCount": 99
         },
         "issues_Closed": {
             "totalCount": 2160
@@ -1800,13 +1800,13 @@
             "totalCount": 4190
         },
         "pullRequests_Merged": {
-            "totalCount": 34262
+            "totalCount": 34263
         },
         "issues_Open": {
-            "totalCount": 2382
+            "totalCount": 2381
         },
         "issues_Closed": {
-            "totalCount": 6233
+            "totalCount": 6234
         }
     },
     "visit-dav/visit": {
