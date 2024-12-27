@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/35237779?"
 user: JustinPrivitera
-date: 2024-12-20
+date: 2024-12-26
 repo_name: LLNL/conduit
-html_url: https://github.com/LLNL/conduit/commit/a0dc0f8b79d67e5074d529958e1b70c3fdd9b7c8
+html_url: https://github.com/LLNL/conduit/commit/d1dfc24c7a04710aa62c3ffc7c5c9706a201ec21
 repo_url: https://github.com/LLNL/conduit
 ---
 
 <a href='https://github.com/JustinPrivitera' target='_blank'>JustinPrivitera</a> pushed to <a href='https://github.com/LLNL/conduit' target='_blank'>LLNL/conduit</a>
 
-<small>Silo/Overlink I/O Careful Handling of Names (#1337)</small>
+<small>specname calculator for overlink</small>
 
-<a href='https://github.com/LLNL/conduit/commit/a0dc0f8b79d67e5074d529958e1b70c3fdd9b7c8' target='_blank'>View Commit</a>
+<a href='https://github.com/LLNL/conduit/commit/d1dfc24c7a04710aa62c3ffc7c5c9706a201ec21' target='_blank'>View Commit</a>
