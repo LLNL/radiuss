@@ -103,7 +103,7 @@
             "totalCount": 2964
         },
         "issues_Open": {
-            "totalCount": 529
+            "totalCount": 530
         },
         "issues_Closed": {
             "totalCount": 2707
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 333
+            "totalCount": 334
         },
         "mentionableUsers": {
             "totalCount": 44
@@ -1723,7 +1723,7 @@
             "totalCount": 1771
         },
         "mentionableUsers": {
-            "totalCount": 732
+            "totalCount": 733
         },
         "forks": {
             "totalCount": 488
@@ -1748,10 +1748,10 @@
             "totalCount": 1686
         },
         "issues_Open": {
-            "totalCount": 97
+            "totalCount": 96
         },
         "issues_Closed": {
-            "totalCount": 2163
+            "totalCount": 2164
         }
     },
     "spack/spack": {
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4483
+            "totalCount": 4484
         },
         "mentionableUsers": {
             "totalCount": 1617
         },
         "forks": {
-            "totalCount": 2198
+            "totalCount": 2199
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 846
+            "totalCount": 849
         },
         "pullRequests_Closed": {
             "totalCount": 4190
