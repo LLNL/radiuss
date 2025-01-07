@@ -2785,6 +2785,10 @@
         {
             "date": "2024-12-23",
             "value": 2
+        },
+        {
+            "date": "2025-01-06",
+            "value": 1
         }
     ],
     "LLNL/MerlinWorkflows": [
@@ -18253,6 +18257,10 @@
         {
             "date": "2024-12-30",
             "value": 10
+        },
+        {
+            "date": "2025-01-06",
+            "value": 6
         }
     ],
     "visit-dav/visit": [
