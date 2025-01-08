@@ -297,7 +297,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2504438,
+            "totalSize": 2504442,
             "nodes": [
                 {
                     "name": "C++",
@@ -342,7 +342,7 @@
             ],
             "edges": [
                 {
-                    "size": 1767048
+                    "size": 1767052
                 },
                 {
                     "size": 308294
@@ -394,7 +394,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 5230196,
+            "totalSize": 5229847,
             "nodes": [
                 {
                     "name": "C++",
@@ -415,16 +415,16 @@
             ],
             "edges": [
                 {
-                    "size": 4945876
+                    "size": 4945803
                 },
                 {
                     "size": 189394
                 },
                 {
-                    "size": 79154
+                    "size": 78627
                 },
                 {
-                    "size": 15772
+                    "size": 16023
                 }
             ]
         }
@@ -825,7 +825,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 10583108,
+            "totalSize": 10590668,
             "nodes": [
                 {
                     "name": "C++",
@@ -874,7 +874,7 @@
             ],
             "edges": [
                 {
-                    "size": 8793371
+                    "size": 8800931
                 },
                 {
                     "size": 874996
@@ -1752,7 +1752,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12815492,
+            "totalSize": 12816636,
             "nodes": [
                 {
                     "name": "C",
@@ -1825,10 +1825,10 @@
             ],
             "edges": [
                 {
-                    "size": 9219439
+                    "size": 9219114
                 },
                 {
-                    "size": 1727425
+                    "size": 1728863
                 },
                 {
                     "size": 1298952
@@ -1837,7 +1837,7 @@
                     "size": 170311
                 },
                 {
-                    "size": 161806
+                    "size": 161837
                 },
                 {
                     "size": 98924
@@ -2114,7 +2114,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 17190718,
+            "totalSize": 17200453,
             "nodes": [
                 {
                     "name": "C++",
@@ -2159,13 +2159,13 @@
             ],
             "edges": [
                 {
-                    "size": 16601257
+                    "size": 16610879
                 },
                 {
                     "size": 267588
                 },
                 {
-                    "size": 152188
+                    "size": 152301
                 },
                 {
                     "size": 75239
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25616754,
+            "totalSize": 25617461,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 24862325
+                    "size": 24863032
                 },
                 {
                     "size": 515962
