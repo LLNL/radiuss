@@ -738,7 +738,7 @@
             "totalCount": 214
         },
         "mentionableUsers": {
-            "totalCount": 55
+            "totalCount": 56
         },
         "forks": {
             "totalCount": 64
@@ -760,7 +760,7 @@
             "totalCount": 29
         },
         "pullRequests_Merged": {
-            "totalCount": 713
+            "totalCount": 714
         },
         "issues_Open": {
             "totalCount": 166
@@ -955,7 +955,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 139
+            "totalCount": 140
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 88
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 336
+            "totalCount": 337
         },
         "mentionableUsers": {
             "totalCount": 44
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1781
+            "totalCount": 1782
         },
         "mentionableUsers": {
             "totalCount": 733
@@ -1748,10 +1748,10 @@
             "totalCount": 1691
         },
         "issues_Open": {
-            "totalCount": 98
+            "totalCount": 95
         },
         "issues_Closed": {
-            "totalCount": 2169
+            "totalCount": 2173
         }
     },
     "spack/spack": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4497
+            "totalCount": 4498
         },
         "mentionableUsers": {
             "totalCount": 1620
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 876
+            "totalCount": 879
         },
         "pullRequests_Closed": {
             "totalCount": 4206
         },
         "pullRequests_Merged": {
-            "totalCount": 34437
+            "totalCount": 34438
         },
         "issues_Open": {
             "totalCount": 2389
