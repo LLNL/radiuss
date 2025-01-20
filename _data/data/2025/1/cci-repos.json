@@ -100,13 +100,13 @@
             "totalCount": 215
         },
         "pullRequests_Merged": {
-            "totalCount": 2980
+            "totalCount": 2981
         },
         "issues_Open": {
             "totalCount": 525
         },
         "issues_Closed": {
-            "totalCount": 2722
+            "totalCount": 2723
         }
     },
     "flux-framework/flux-sched": {
@@ -216,7 +216,7 @@
             "totalCount": 15
         },
         "issues_Closed": {
-            "totalCount": 127
+            "totalCount": 119
         }
     },
     "GEOS-DEV/LvArray": {
@@ -369,16 +369,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 33
+            "totalCount": 32
         },
         "pullRequests_Closed": {
             "totalCount": 38
         },
         "pullRequests_Merged": {
-            "totalCount": 592
+            "totalCount": 593
         },
         "issues_Open": {
-            "totalCount": 155
+            "totalCount": 156
         },
         "issues_Closed": {
             "totalCount": 389
@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 90
@@ -1739,7 +1739,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 168
+            "totalCount": 169
         },
         "pullRequests_Closed": {
             "totalCount": 288
@@ -1751,7 +1751,7 @@
             "totalCount": 93
         },
         "issues_Closed": {
-            "totalCount": 2177
+            "totalCount": 2166
         }
     },
     "spack/spack": {
@@ -1794,10 +1794,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 861
+            "totalCount": 864
         },
         "pullRequests_Closed": {
-            "totalCount": 4212
+            "totalCount": 4215
         },
         "pullRequests_Merged": {
             "totalCount": 34534

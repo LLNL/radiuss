@@ -1752,7 +1752,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12846530,
+            "totalSize": 12848742,
             "nodes": [
                 {
                     "name": "C",
@@ -1825,10 +1825,10 @@
             ],
             "edges": [
                 {
-                    "size": 9246334
+                    "size": 9247226
                 },
                 {
-                    "size": 1731209
+                    "size": 1732529
                 },
                 {
                     "size": 1298952
@@ -1999,7 +1999,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29715540,
+            "totalSize": 29715684,
             "nodes": [
                 {
                     "name": "C",
@@ -2064,7 +2064,7 @@
             ],
             "edges": [
                 {
-                    "size": 21233464
+                    "size": 21233608
                 },
                 {
                     "size": 3593754
