@@ -85,21 +85,6 @@
             "radiuss"
         ]
     },
-    "LLNL/axom": {
-        "name": "LLNL/axom",
-        "description": "CS infrastructure components for HPC applications",
-        "website": null,
-        "topics": [
-            "hpc",
-            "parallel-computing",
-            "llnl",
-            "cpp",
-            "c-plus-plus",
-            "app-infrastructure",
-            "radiuss",
-            "fortran"
-        ]
-    },
     "LLNL/blt": {
         "name": "LLNL/blt",
         "description": "A streamlined CMake build system foundation for developing HPC software",
