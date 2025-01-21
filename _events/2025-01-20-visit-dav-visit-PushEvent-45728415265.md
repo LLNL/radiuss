@@ -2,9 +2,9 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1102718?"
 user: brugger1
-date: 2025-01-19
+date: 2025-01-20
 repo_name: visit-dav/visit
-html_url: https://github.com/visit-dav/visit/commit/3781be7f71a730d855710c73055fd8286342c49f
+html_url: https://github.com/visit-dav/visit/commit/9cbe3431a185f23fd1c07cedba9c07de0bc4c992
 repo_url: https://github.com/visit-dav/visit
 ---
 
@@ -12,4 +12,4 @@ repo_url: https://github.com/visit-dav/visit
 
 <small>Update the last test suite pass on poodle.</small>
 
-<a href='https://github.com/visit-dav/visit/commit/3781be7f71a730d855710c73055fd8286342c49f' target='_blank'>View Commit</a>
+<a href='https://github.com/visit-dav/visit/commit/9cbe3431a185f23fd1c07cedba9c07de0bc4c992' target='_blank'>View Commit</a>
