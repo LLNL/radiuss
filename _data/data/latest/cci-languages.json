@@ -259,7 +259,7 @@
     "LLNL/CHAI": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 379823,
+            "totalSize": 375422,
             "nodes": [
                 {
                     "name": "C++",
@@ -280,7 +280,7 @@
             ],
             "edges": [
                 {
-                    "size": 333337
+                    "size": 328936
                 },
                 {
                     "size": 26462
@@ -526,7 +526,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2674161,
+            "totalSize": 2675684,
             "nodes": [
                 {
                     "name": "C++",
@@ -567,7 +567,7 @@
             ],
             "edges": [
                 {
-                    "size": 2301684
+                    "size": 2303207
                 },
                 {
                     "size": 155267
@@ -1999,7 +1999,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29715684,
+            "totalSize": 29733913,
             "nodes": [
                 {
                     "name": "C",
@@ -2064,7 +2064,7 @@
             ],
             "edges": [
                 {
-                    "size": 21233608
+                    "size": 21251091
                 },
                 {
                     "size": 3593754
@@ -2082,7 +2082,7 @@
                     "size": 196492
                 },
                 {
-                    "size": 120324
+                    "size": 121070
                 },
                 {
                     "size": 96865
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25705952,
+            "totalSize": 25700830,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,10 +2279,10 @@
             ],
             "edges": [
                 {
-                    "size": 24951523
+                    "size": 24946374
                 },
                 {
-                    "size": 515962
+                    "size": 515989
                 },
                 {
                     "size": 108554
