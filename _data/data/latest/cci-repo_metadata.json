@@ -244,8 +244,8 @@
             "rocm"
         ]
     },
-    "LLNL/lbann": {
-        "name": "LLNL/lbann",
+    "LBANN/lbann": {
+        "name": "LBANN/lbann",
         "description": "Livermore Big Artificial Neural Network Toolkit",
         "website": "http://software.llnl.gov/lbann/",
         "topics": [
