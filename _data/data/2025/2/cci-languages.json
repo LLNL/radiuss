@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37214945,
+            "totalSize": 37230494,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34806970
+                    "size": 34822080
                 },
                 {
                     "size": 556925
@@ -64,7 +64,7 @@
                     "size": 488449
                 },
                 {
-                    "size": 482145
+                    "size": 482584
                 },
                 {
                     "size": 320485
@@ -311,7 +311,7 @@
     "LLNL/CHAI": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 375332,
+            "totalSize": 376859,
             "nodes": [
                 {
                     "name": "C++",
@@ -332,13 +332,13 @@
             ],
             "edges": [
                 {
-                    "size": 328846
+                    "size": 329147
                 },
                 {
-                    "size": 26462
+                    "size": 27684
                 },
                 {
-                    "size": 18093
+                    "size": 18097
                 },
                 {
                     "size": 1931
@@ -578,7 +578,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2675684,
+            "totalSize": 2676299,
             "nodes": [
                 {
                     "name": "C++",
@@ -619,7 +619,7 @@
             ],
             "edges": [
                 {
-                    "size": 2303207
+                    "size": 2303822
                 },
                 {
                     "size": 155267
@@ -1283,7 +1283,7 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 6236659,
+            "totalSize": 6236693,
             "nodes": [
                 {
                     "name": "Fortran",
@@ -1331,10 +1331,10 @@
                     "size": 1934654
                 },
                 {
-                    "size": 1923401
+                    "size": 1923399
                 },
                 {
-                    "size": 1195949
+                    "size": 1195985
                 },
                 {
                     "size": 1032115
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25750934,
+            "totalSize": 25757106,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 24996452
+                    "size": 25002624
                 },
                 {
                     "size": 516015
