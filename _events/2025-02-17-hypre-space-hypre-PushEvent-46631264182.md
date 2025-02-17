@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/5429263?"
 user: liruipeng
-date: 2025-02-15
+date: 2025-02-17
 repo_name: hypre-space/hypre
-html_url: https://github.com/hypre-space/hypre/commit/8b6fee512f16869605f3097cf5359e26de5f6a41
+html_url: https://github.com/hypre-space/hypre/commit/cefa018d0d6c7a4a3e829b5dd4766a95b71601c1
 repo_url: https://github.com/hypre-space/hypre
 ---
 
 <a href='https://github.com/liruipeng' target='_blank'>liruipeng</a> pushed to <a href='https://github.com/hypre-space/hypre' target='_blank'>hypre-space/hypre</a>
 
-<small>Merge branch 'mpi' of github.com:hypre-space/hypre into mpi</small>
+<small>another attempt to fix this thing</small>
 
-<a href='https://github.com/hypre-space/hypre/commit/8b6fee512f16869605f3097cf5359e26de5f6a41' target='_blank'>View Commit</a>
+<a href='https://github.com/hypre-space/hypre/commit/cefa018d0d6c7a4a3e829b5dd4766a95b71601c1' target='_blank'>View Commit</a>
