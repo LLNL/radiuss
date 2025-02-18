@@ -1030,7 +1030,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3950454,
+            "totalSize": 3952331,
             "nodes": [
                 {
                     "name": "C++",
@@ -1071,7 +1071,7 @@
             ],
             "edges": [
                 {
-                    "size": 3682580
+                    "size": 3684457
                 },
                 {
                     "size": 69049
@@ -1283,7 +1283,7 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 6273066,
+            "totalSize": 6271134,
             "nodes": [
                 {
                     "name": "Fortran",
@@ -1331,13 +1331,13 @@
                     "size": 1945893
                 },
                 {
-                    "size": 1935402
+                    "size": 1934336
                 },
                 {
-                    "size": 1208643
+                    "size": 1208141
                 },
                 {
-                    "size": 1032525
+                    "size": 1032161
                 },
                 {
                     "size": 134566
@@ -1752,7 +1752,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12869913,
+            "totalSize": 12869958,
             "nodes": [
                 {
                     "name": "C",
@@ -1825,7 +1825,7 @@
             ],
             "edges": [
                 {
-                    "size": 9223283
+                    "size": 9223328
                 },
                 {
                     "size": 1741036
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25825431,
+            "totalSize": 25837640,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25071497
+                    "size": 25083706
                 },
                 {
                     "size": 515429
