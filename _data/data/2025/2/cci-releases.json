@@ -1795,6 +1795,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Version 0.9.0",
+                    "publishedAt": "2025-02-19T22:25:29Z",
+                    "tagName": "0.9.0"
+                },
+                {
                     "name": "v0.8.1",
                     "publishedAt": "2023-03-08T16:42:48Z",
                     "tagName": "0.8.1"
@@ -3089,6 +3094,16 @@
     "spack/spack": {
         "releases": {
             "nodes": [
+                {
+                    "name": "v0.23.1 (2025-02-19)",
+                    "publishedAt": "2025-02-19T15:05:59Z",
+                    "tagName": "v0.23.1"
+                },
+                {
+                    "name": "v0.22.4 (2025-02-18)",
+                    "publishedAt": "2025-02-19T11:20:02Z",
+                    "tagName": "v0.22.4"
+                },
                 {
                     "name": "v1.0.0-alpha.3 (2025-01-13)",
                     "publishedAt": "2025-01-13T10:11:32Z",

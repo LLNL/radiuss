@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1904956,
+            "totalSize": 1905262,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,13 +121,13 @@
             ],
             "edges": [
                 {
-                    "size": 1710520
+                    "size": 1710742
                 },
                 {
                     "size": 73892
                 },
                 {
-                    "size": 73294
+                    "size": 73378
                 },
                 {
                     "size": 35815
@@ -651,7 +651,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 13535030,
+            "totalSize": 13651918,
             "nodes": [
                 {
                     "name": "C++",
@@ -700,10 +700,10 @@
             ],
             "edges": [
                 {
-                    "size": 11920457
+                    "size": 12037244
                 },
                 {
-                    "size": 666810
+                    "size": 666911
                 },
                 {
                     "size": 566487
@@ -1141,7 +1141,7 @@
     "LLNL/merlin": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1367303,
+            "totalSize": 1367332,
             "nodes": [
                 {
                     "name": "Python",
@@ -1170,13 +1170,13 @@
             ],
             "edges": [
                 {
-                    "size": 1334106
+                    "size": 1334042
                 },
                 {
                     "size": 14878
                 },
                 {
-                    "size": 9067
+                    "size": 9160
                 },
                 {
                     "size": 4596
@@ -1193,7 +1193,7 @@
     "LLNL/merlin-spellbook": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 101462,
+            "totalSize": 102880,
             "nodes": [
                 {
                     "name": "Python",
@@ -1214,7 +1214,7 @@
             ],
             "edges": [
                 {
-                    "size": 80795
+                    "size": 80850
                 },
                 {
                     "size": 15164
@@ -1223,7 +1223,7 @@
                     "size": 3870
                 },
                 {
-                    "size": 1633
+                    "size": 2996
                 }
             ]
         }
@@ -1283,7 +1283,7 @@
     "LLNL/shroud": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 6268063,
+            "totalSize": 6268071,
             "nodes": [
                 {
                     "name": "Fortran",
@@ -1334,13 +1334,13 @@
                     "size": 1936311
                 },
                 {
-                    "size": 1208874
+                    "size": 1208878
                 },
                 {
                     "size": 1032368
                 },
                 {
-                    "size": 126160
+                    "size": 126164
                 },
                 {
                     "size": 5898
@@ -2114,7 +2114,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 17328445,
+            "totalSize": 17328981,
             "nodes": [
                 {
                     "name": "C++",
@@ -2159,7 +2159,7 @@
             ],
             "edges": [
                 {
-                    "size": 16738659
+                    "size": 16739195
                 },
                 {
                     "size": 267779
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25855672,
+            "totalSize": 25896807,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25101767
+                    "size": 25142902
                 },
                 {
                     "size": 515400
