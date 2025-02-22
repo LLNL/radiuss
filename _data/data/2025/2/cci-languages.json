@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1905262,
+            "totalSize": 1905970,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,7 +121,7 @@
             ],
             "edges": [
                 {
-                    "size": 1710742
+                    "size": 1711450
                 },
                 {
                     "size": 73892
@@ -446,7 +446,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 5455266,
+            "totalSize": 5457442,
             "nodes": [
                 {
                     "name": "C++",
@@ -467,7 +467,7 @@
             ],
             "edges": [
                 {
-                    "size": 5163292
+                    "size": 5165468
                 },
                 {
                     "size": 195969
@@ -651,7 +651,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 13651890,
+            "totalSize": 13651958,
             "nodes": [
                 {
                     "name": "C++",
@@ -700,7 +700,7 @@
             ],
             "edges": [
                 {
-                    "size": 12037244
+                    "size": 12037312
                 },
                 {
                     "size": 666911
@@ -877,7 +877,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11433588,
+            "totalSize": 11460816,
             "nodes": [
                 {
                     "name": "C++",
@@ -900,12 +900,12 @@
                     "color": "#DA3434"
                 },
                 {
-                    "name": "JavaScript",
-                    "color": "#f1e05a"
-                },
-                {
                     "name": "Shell",
                     "color": "#89e051"
+                },
+                {
+                    "name": "JavaScript",
+                    "color": "#f1e05a"
                 },
                 {
                     "name": "HTML",
@@ -926,7 +926,7 @@
             ],
             "edges": [
                 {
-                    "size": 9640689
+                    "size": 9656672
                 },
                 {
                     "size": 874996
@@ -941,10 +941,10 @@
                     "size": 203053
                 },
                 {
-                    "size": 30835
+                    "size": 33809
                 },
                 {
-                    "size": 22564
+                    "size": 30835
                 },
                 {
                     "size": 5141
@@ -1030,7 +1030,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 3952331,
+            "totalSize": 3952598,
             "nodes": [
                 {
                     "name": "C++",
@@ -1071,19 +1071,19 @@
             ],
             "edges": [
                 {
-                    "size": 3684457
+                    "size": 3684452
                 },
                 {
                     "size": 69049
                 },
                 {
-                    "size": 66620
+                    "size": 66701
                 },
                 {
                     "size": 61977
                 },
                 {
-                    "size": 48360
+                    "size": 48551
                 },
                 {
                     "size": 18756
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25905354,
+            "totalSize": 25912527,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,10 +2279,10 @@
             ],
             "edges": [
                 {
-                    "size": 25151449
+                    "size": 25158326
                 },
                 {
-                    "size": 515400
+                    "size": 515696
                 },
                 {
                     "size": 108592
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98755059,
+            "totalSize": 98759204,
             "nodes": [
                 {
                     "name": "C",
@@ -2441,13 +2441,13 @@
             ],
             "edges": [
                 {
-                    "size": 74714017
+                    "size": 74716861
                 },
                 {
-                    "size": 12649379
+                    "size": 12650267
                 },
                 {
-                    "size": 3831883
+                    "size": 3831918
                 },
                 {
                     "size": 2974689
@@ -2459,7 +2459,7 @@
                     "size": 1328640
                 },
                 {
-                    "size": 1108783
+                    "size": 1108823
                 },
                 {
                     "size": 435142
@@ -2480,7 +2480,7 @@
                     "size": 5097
                 },
                 {
-                    "size": 3933
+                    "size": 4271
                 },
                 {
                     "size": 3369
