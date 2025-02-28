@@ -446,7 +446,7 @@
     "LLNL/RAJA": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 5457442,
+            "totalSize": 5457643,
             "nodes": [
                 {
                     "name": "C++",
@@ -467,7 +467,7 @@
             ],
             "edges": [
                 {
-                    "size": 5165468
+                    "size": 5165669
                 },
                 {
                     "size": 195969
@@ -2114,7 +2114,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 17362382,
+            "totalSize": 17366962,
             "nodes": [
                 {
                     "name": "C++",
@@ -2159,13 +2159,13 @@
             ],
             "edges": [
                 {
-                    "size": 16772507
+                    "size": 16776501
                 },
                 {
-                    "size": 267860
+                    "size": 268380
                 },
                 {
-                    "size": 152330
+                    "size": 152396
                 },
                 {
                     "size": 75239
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25944541,
+            "totalSize": 25962153,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,10 +2279,10 @@
             ],
             "edges": [
                 {
-                    "size": 25188633
+                    "size": 25206109
                 },
                 {
-                    "size": 516895
+                    "size": 517031
                 },
                 {
                     "size": 109100
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98771968,
+            "totalSize": 98774016,
             "nodes": [
                 {
                     "name": "C",
@@ -2441,10 +2441,10 @@
             ],
             "edges": [
                 {
-                    "size": 74716861
+                    "size": 74719376
                 },
                 {
-                    "size": 12650267
+                    "size": 12649800
                 },
                 {
                     "size": 3831918
