@@ -349,7 +349,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2497805,
+            "totalSize": 2498709,
             "nodes": [
                 {
                     "name": "C++",
@@ -394,10 +394,10 @@
             ],
             "edges": [
                 {
-                    "size": 1760574
+                    "size": 1760598
                 },
                 {
-                    "size": 308294
+                    "size": 309174
                 },
                 {
                     "size": 216262
@@ -651,7 +651,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 13651958,
+            "totalSize": 13652364,
             "nodes": [
                 {
                     "name": "C++",
@@ -709,7 +709,7 @@
                     "size": 566487
                 },
                 {
-                    "size": 122822
+                    "size": 123228
                 },
                 {
                     "size": 115337
@@ -877,7 +877,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11460805,
+            "totalSize": 11460804,
             "nodes": [
                 {
                     "name": "C++",
@@ -926,7 +926,7 @@
             ],
             "edges": [
                 {
-                    "size": 9656664
+                    "size": 9656663
                 },
                 {
                     "size": 874996
@@ -1752,7 +1752,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12933969,
+            "totalSize": 12933907,
             "nodes": [
                 {
                     "name": "C",
@@ -1825,13 +1825,13 @@
             ],
             "edges": [
                 {
-                    "size": 9264820
+                    "size": 9264477
                 },
                 {
-                    "size": 1758621
+                    "size": 1758672
                 },
                 {
-                    "size": 1341402
+                    "size": 1341632
                 },
                 {
                     "size": 170311
@@ -1881,7 +1881,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2142645,
+            "totalSize": 2161244,
             "nodes": [
                 {
                     "name": "C++",
@@ -1918,10 +1918,10 @@
             ],
             "edges": [
                 {
-                    "size": 1363066
+                    "size": 1373893
                 },
                 {
-                    "size": 522824
+                    "size": 530570
                 },
                 {
                     "size": 90829
@@ -1930,7 +1930,7 @@
                     "size": 63286
                 },
                 {
-                    "size": 61968
+                    "size": 61994
                 },
                 {
                     "size": 24316
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25984041,
+            "totalSize": 25991207,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25227997
+                    "size": 25235163
                 },
                 {
                     "size": 517031
@@ -2344,7 +2344,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98774016,
+            "totalSize": 98774171,
             "nodes": [
                 {
                     "name": "C",
@@ -2459,7 +2459,7 @@
                     "size": 1328640
                 },
                 {
-                    "size": 1117301
+                    "size": 1117456
                 },
                 {
                     "size": 435142
