@@ -1999,7 +1999,7 @@
     "hypre-space/hypre": {
         "languages": {
             "totalCount": 15,
-            "totalSize": 29734852,
+            "totalSize": 29730024,
             "nodes": [
                 {
                     "name": "C",
@@ -2064,10 +2064,10 @@
             ],
             "edges": [
                 {
-                    "size": 21251655
+                    "size": 21246565
                 },
                 {
-                    "size": 3593754
+                    "size": 3593944
                 },
                 {
                     "size": 3362673
@@ -2076,7 +2076,7 @@
                     "size": 524882
                 },
                 {
-                    "size": 478654
+                    "size": 478726
                 },
                 {
                     "size": 196492
@@ -2194,7 +2194,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 25998928,
+            "totalSize": 25999582,
             "nodes": [
                 {
                     "name": "Python",
@@ -2279,7 +2279,7 @@
             ],
             "edges": [
                 {
-                    "size": 25242884
+                    "size": 25243538
                 },
                 {
                     "size": 517031
