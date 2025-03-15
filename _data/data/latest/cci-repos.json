@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 75
         },
         "pullRequests_Merged": {
-            "totalCount": 809
+            "totalCount": 811
         },
         "issues_Open": {
             "totalCount": 198
@@ -103,7 +103,7 @@
             "totalCount": 3048
         },
         "issues_Open": {
-            "totalCount": 554
+            "totalCount": 556
         },
         "issues_Closed": {
             "totalCount": 2761
@@ -259,7 +259,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 27
@@ -754,16 +754,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 29
         },
         "pullRequests_Merged": {
-            "totalCount": 731
+            "totalCount": 732
         },
         "issues_Open": {
-            "totalCount": 172
+            "totalCount": 173
         },
         "issues_Closed": {
             "totalCount": 450
@@ -857,23 +857,23 @@
             "name": "C++"
         },
         "languages": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "repositoryTopics": {
             "totalCount": 20
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 48
         },
         "pullRequests_Merged": {
-            "totalCount": 379
+            "totalCount": 380
         },
         "issues_Open": {
-            "totalCount": 31
+            "totalCount": 33
         },
         "issues_Closed": {
             "totalCount": 244
@@ -1244,13 +1244,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 16
         },
         "pullRequests_Merged": {
-            "totalCount": 168
+            "totalCount": 171
         },
         "issues_Open": {
             "totalCount": 50
@@ -1292,7 +1292,7 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 6
+            "totalCount": 8
         },
         "repositoryTopics": {
             "totalCount": 5
@@ -1305,7 +1305,7 @@
             "totalCount": 25
         },
         "pullRequests_Merged": {
-            "totalCount": 345
+            "totalCount": 346
         },
         "issues_Open": {
             "totalCount": 98
@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 92
@@ -1726,7 +1726,7 @@
             "totalCount": 749
         },
         "forks": {
-            "totalCount": 495
+            "totalCount": 494
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1748,10 +1748,10 @@
             "totalCount": 1729
         },
         "issues_Open": {
-            "totalCount": 95
+            "totalCount": 96
         },
         "issues_Closed": {
-            "totalCount": 2199
+            "totalCount": 2200
         }
     },
     "spack/spack": {
@@ -1778,7 +1778,7 @@
             "totalCount": 4587
         },
         "mentionableUsers": {
-            "totalCount": 1656
+            "totalCount": 1657
         },
         "forks": {
             "totalCount": 2237
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 895
+            "totalCount": 883
         },
         "pullRequests_Closed": {
             "totalCount": 4277
         },
         "pullRequests_Merged": {
-            "totalCount": 35176
+            "totalCount": 35197
         },
         "issues_Open": {
-            "totalCount": 2427
+            "totalCount": 2429
         },
         "issues_Closed": {
-            "totalCount": 6317
+            "totalCount": 6318
         }
     },
     "visit-dav/visit": {
@@ -1855,13 +1855,13 @@
             "totalCount": 129
         },
         "pullRequests_Merged": {
-            "totalCount": 3150
+            "totalCount": 3151
         },
         "issues_Open": {
             "totalCount": 1924
         },
         "issues_Closed": {
-            "totalCount": 3535
+            "totalCount": 3536
         }
     },
     "XBraid/xbraid": {
