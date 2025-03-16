@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 206
+            "totalCount": 207
         },
         "mentionableUsers": {
             "totalCount": 54
@@ -103,7 +103,7 @@
             "totalCount": 3048
         },
         "issues_Open": {
-            "totalCount": 556
+            "totalCount": 558
         },
         "issues_Closed": {
             "totalCount": 2761
@@ -433,7 +433,7 @@
             "totalCount": 841
         },
         "issues_Open": {
-            "totalCount": 222
+            "totalCount": 223
         },
         "issues_Closed": {
             "totalCount": 382
@@ -1583,7 +1583,7 @@
             "totalCount": 355
         },
         "issues_Open": {
-            "totalCount": 26
+            "totalCount": 27
         },
         "issues_Closed": {
             "totalCount": 184
@@ -1684,13 +1684,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "pullRequests_Merged": {
-            "totalCount": 68
+            "totalCount": 69
         },
         "issues_Open": {
             "totalCount": 35
@@ -1748,10 +1748,10 @@
             "totalCount": 1729
         },
         "issues_Open": {
-            "totalCount": 96
+            "totalCount": 95
         },
         "issues_Closed": {
-            "totalCount": 2200
+            "totalCount": 2201
         }
     },
     "spack/spack": {
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4587
+            "totalCount": 4588
         },
         "mentionableUsers": {
             "totalCount": 1657
         },
         "forks": {
-            "totalCount": 2237
+            "totalCount": 2238
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 883
+            "totalCount": 887
         },
         "pullRequests_Closed": {
-            "totalCount": 4277
+            "totalCount": 4278
         },
         "pullRequests_Merged": {
-            "totalCount": 35197
+            "totalCount": 35202
         },
         "issues_Open": {
             "totalCount": 2429
         },
         "issues_Closed": {
-            "totalCount": 6318
+            "totalCount": 6320
         }
     },
     "visit-dav/visit": {
