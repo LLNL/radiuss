@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37313179,
+            "totalSize": 37324059,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34894163
+                    "size": 34897641
                 },
                 {
                     "size": 556925
@@ -67,7 +67,7 @@
                     "size": 488449
                 },
                 {
-                    "size": 320485
+                    "size": 327887
                 },
                 {
                     "size": 255282
@@ -578,7 +578,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2676796,
+            "totalSize": 2688076,
             "nodes": [
                 {
                     "name": "C++",
@@ -619,13 +619,13 @@
             ],
             "edges": [
                 {
-                    "size": 2304071
+                    "size": 2314132
                 },
                 {
                     "size": 155267
                 },
                 {
-                    "size": 87222
+                    "size": 88311
                 },
                 {
                     "size": 69267
@@ -634,7 +634,7 @@
                     "size": 27536
                 },
                 {
-                    "size": 26455
+                    "size": 26585
                 },
                 {
                     "size": 3308
@@ -1773,7 +1773,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12954718,
+            "totalSize": 12954633,
             "nodes": [
                 {
                     "name": "C",
@@ -1846,13 +1846,13 @@
             ],
             "edges": [
                 {
-                    "size": 9275449
+                    "size": 9277248
                 },
                 {
-                    "size": 1765130
+                    "size": 1765068
                 },
                 {
-                    "size": 1344985
+                    "size": 1343163
                 },
                 {
                     "size": 170311
@@ -2135,7 +2135,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 17366967,
+            "totalSize": 17372134,
             "nodes": [
                 {
                     "name": "C++",
@@ -2180,7 +2180,7 @@
             ],
             "edges": [
                 {
-                    "size": 16776464
+                    "size": 16781631
                 },
                 {
                     "size": 268549
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26053403,
+            "totalSize": 26044470,
             "nodes": [
                 {
                     "name": "Python",
@@ -2300,7 +2300,7 @@
             ],
             "edges": [
                 {
-                    "size": 25296943
+                    "size": 25288010
                 },
                 {
                     "size": 517447
@@ -2365,7 +2365,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98796938,
+            "totalSize": 98812181,
             "nodes": [
                 {
                     "name": "C",
@@ -2408,10 +2408,6 @@
                     "color": null
                 },
                 {
-                    "name": "Perl",
-                    "color": "#0298c3"
-                },
-                {
                     "name": "Mathematica",
                     "color": "#dd1100"
                 },
@@ -2440,6 +2436,10 @@
                     "color": null
                 },
                 {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
                     "name": "Objective-C++",
                     "color": "#6866fb"
                 },
@@ -2462,7 +2462,7 @@
             ],
             "edges": [
                 {
-                    "size": 74737852
+                    "size": 74753095
                 },
                 {
                     "size": 12650691
@@ -2480,7 +2480,7 @@
                     "size": 1328958
                 },
                 {
-                    "size": 1117452
+                    "size": 1132416
                 },
                 {
                     "size": 435142
@@ -2490,9 +2490,6 @@
                 },
                 {
                     "size": 43669
-                },
-                {
-                    "size": 16985
                 },
                 {
                     "size": 8553
@@ -2514,6 +2511,9 @@
                 },
                 {
                     "size": 2494
+                },
+                {
+                    "size": 2021
                 },
                 {
                     "size": 1861
