@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 92
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 790
+            "totalCount": 791
         },
         "mentionableUsers": {
             "totalCount": 37
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4596
+            "totalCount": 4593
         },
         "mentionableUsers": {
-            "totalCount": 1660
+            "totalCount": 1659
         },
         "forks": {
-            "totalCount": 2249
+            "totalCount": 2248
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 876
+            "totalCount": 877
         },
         "pullRequests_Closed": {
             "totalCount": 4294
