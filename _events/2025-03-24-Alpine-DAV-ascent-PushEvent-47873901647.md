@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/1194526?"
 user: cyrush
-date: 2025-03-22
+date: 2025-03-24
 repo_name: Alpine-DAV/ascent
-html_url: https://github.com/Alpine-DAV/ascent/commit/f74f7e1fd3c20545e50c4f17b3cecf695ce7cd47
+html_url: https://github.com/Alpine-DAV/ascent/commit/7642d1731bdc2bb48a5adb26f2d4de6ba87773ac
 repo_url: https://github.com/Alpine-DAV/ascent
 ---
 
 <a href='https://github.com/cyrush' target='_blank'>cyrush</a> pushed to <a href='https://github.com/Alpine-DAV/ascent' target='_blank'>Alpine-DAV/ascent</a>
 
-<small>mpi defines to avoid cxx libs being used to implement mpi</small>
+<small>comment</small>
 
-<a href='https://github.com/Alpine-DAV/ascent/commit/f74f7e1fd3c20545e50c4f17b3cecf695ce7cd47' target='_blank'>View Commit</a>
+<a href='https://github.com/Alpine-DAV/ascent/commit/7642d1731bdc2bb48a5adb26f2d4de6ba87773ac' target='_blank'>View Commit</a>
