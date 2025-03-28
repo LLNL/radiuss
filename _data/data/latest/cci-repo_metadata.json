@@ -469,7 +469,8 @@
             "scientific-computing",
             "macos",
             "linux",
-            "hpsf"
+            "hpsf",
+            "windows"
         ]
     },
     "visit-dav/visit": {

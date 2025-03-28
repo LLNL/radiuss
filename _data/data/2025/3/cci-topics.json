@@ -1870,7 +1870,7 @@
     },
     "spack/spack": {
         "repositoryTopics": {
-            "totalCount": 10,
+            "totalCount": 11,
             "nodes": [
                 {
                     "topic": {
@@ -1941,6 +1941,13 @@
                     },
                     "resourcePath": "/topics/hpsf",
                     "url": "https://github.com/topics/hpsf"
+                },
+                {
+                    "topic": {
+                        "name": "windows"
+                    },
+                    "resourcePath": "/topics/windows",
+                    "url": "https://github.com/topics/windows"
                 }
             ]
         }
