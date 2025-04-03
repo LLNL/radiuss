@@ -3038,6 +3038,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Release v2.33.0",
+                    "publishedAt": "2025-04-02T16:09:07Z",
+                    "tagName": "v2.33.0"
+                },
+                {
                     "name": "Release v2.32.0",
                     "publishedAt": "2024-10-08T12:23:48Z",
                     "tagName": "v2.32.0"
