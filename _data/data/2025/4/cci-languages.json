@@ -1968,15 +1968,15 @@
     "hpc/Spindle": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 2831595,
+            "totalSize": 2843854,
             "nodes": [
-                {
-                    "name": "Makefile",
-                    "color": "#427819"
-                },
                 {
                     "name": "C",
                     "color": "#555555"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
                 },
                 {
                     "name": "Shell",
@@ -1997,16 +1997,16 @@
             ],
             "edges": [
                 {
-                    "size": 1077991
+                    "size": 1087682
                 },
                 {
-                    "size": 1076140
+                    "size": 1078595
                 },
                 {
                     "size": 347915
                 },
                 {
-                    "size": 280746
+                    "size": 280859
                 },
                 {
                     "size": 48723
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26090929,
+            "totalSize": 26091797,
             "nodes": [
                 {
                     "name": "Python",
@@ -2300,7 +2300,7 @@
             ],
             "edges": [
                 {
-                    "size": 25300550
+                    "size": 25301418
                 },
                 {
                     "size": 549120
