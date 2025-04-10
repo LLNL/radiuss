@@ -3100,6 +3100,11 @@
             "nodes": [
                 {
                     "name": "",
+                    "publishedAt": "2025-04-09T23:21:38Z",
+                    "tagName": "v4.8"
+                },
+                {
+                    "name": "",
                     "publishedAt": "2024-05-07T22:59:24Z",
                     "tagName": "v4.7"
                 },
