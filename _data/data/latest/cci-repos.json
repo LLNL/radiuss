@@ -356,7 +356,7 @@
             "totalCount": 53
         },
         "forks": {
-            "totalCount": 200
+            "totalCount": 199
         },
         "primaryLanguage": {
             "name": "C"
@@ -1739,7 +1739,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 163
+            "totalCount": 164
         },
         "pullRequests_Closed": {
             "totalCount": 296
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 900
+            "totalCount": 899
         },
         "pullRequests_Closed": {
-            "totalCount": 4320
+            "totalCount": 4321
         },
         "pullRequests_Merged": {
-            "totalCount": 35581
+            "totalCount": 35583
         },
         "issues_Open": {
             "totalCount": 2448

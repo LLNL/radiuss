@@ -349,7 +349,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2509877,
+            "totalSize": 2509801,
             "nodes": [
                 {
                     "name": "C++",
@@ -394,7 +394,7 @@
             ],
             "edges": [
                 {
-                    "size": 1769778
+                    "size": 1769702
                 },
                 {
                     "size": 310746
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26129314,
+            "totalSize": 26129714,
             "nodes": [
                 {
                     "name": "Python",
@@ -2300,7 +2300,7 @@
             ],
             "edges": [
                 {
-                    "size": 25339518
+                    "size": 25339918
                 },
                 {
                     "size": 546282
