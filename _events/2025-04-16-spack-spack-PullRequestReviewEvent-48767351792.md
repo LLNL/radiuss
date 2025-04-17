@@ -1,0 +1,15 @@
+---
+event_type: PullRequestReviewEvent
+avatar: "https://avatars.githubusercontent.com/u/147933?"
+user: kmorel
+date: 2025-04-16
+repo_name: spack/spack
+html_url: https://github.com/spack/spack/pull/50078#pullrequestreview-2773848401
+repo_url: https://github.com/spack/spack
+---
+
+<a href='https://github.com/kmorel' target='_blank'>kmorel</a> <a href='https://github.com/spack/spack/pull/50078#pullrequestreview-2773848401' target='_blank'>reviewed</a> a <a href='https://github.com/spack/spack/pull/50078' target='_blank'>spack/spack pull request</a>
+
+<small>I have not tried installing this package, but it looks good to me....</small>
+
+<a href='https://github.com/spack/spack/pull/50078#pullrequestreview-2773848401' target='_blank'>View Review</a>
