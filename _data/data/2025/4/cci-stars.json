@@ -12913,6 +12913,10 @@
         {
             "date": "2025-03-17",
             "value": 1
+        },
+        {
+            "date": "2025-04-14",
+            "value": 1
         }
     ],
     "flux-framework/flux-core": [
