@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 19
         },
         "pullRequests_Closed": {
             "totalCount": 218
@@ -589,7 +589,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 29
@@ -754,7 +754,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 29
@@ -1176,7 +1176,7 @@
             "totalCount": 72
         },
         "forks": {
-            "totalCount": 102
+            "totalCount": 103
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1189,13 +1189,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 29
+            "totalCount": 28
         },
         "pullRequests_Closed": {
             "totalCount": 219
         },
         "pullRequests_Merged": {
-            "totalCount": 1051
+            "totalCount": 1052
         },
         "issues_Open": {
             "totalCount": 198
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1865
+            "totalCount": 1869
         },
         "mentionableUsers": {
             "totalCount": 755
         },
         "forks": {
-            "totalCount": 504
+            "totalCount": 506
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1739,13 +1739,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 166
+            "totalCount": 165
         },
         "pullRequests_Closed": {
             "totalCount": 298
         },
         "pullRequests_Merged": {
-            "totalCount": 1757
+            "totalCount": 1758
         },
         "issues_Open": {
             "totalCount": 100
@@ -1781,7 +1781,7 @@
             "totalCount": 1678
         },
         "forks": {
-            "totalCount": 2262
+            "totalCount": 2263
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 877
+            "totalCount": 876
         },
         "pullRequests_Closed": {
             "totalCount": 4337
         },
         "pullRequests_Merged": {
-            "totalCount": 35671
+            "totalCount": 35672
         },
         "issues_Open": {
             "totalCount": 2452
@@ -1858,10 +1858,10 @@
             "totalCount": 3182
         },
         "issues_Open": {
-            "totalCount": 1913
+            "totalCount": 1912
         },
         "issues_Closed": {
-            "totalCount": 3564
+            "totalCount": 3565
         }
     },
     "XBraid/xbraid": {
