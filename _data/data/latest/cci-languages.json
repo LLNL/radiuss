@@ -349,7 +349,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2503437,
+            "totalSize": 2477272,
             "nodes": [
                 {
                     "name": "C++",
@@ -394,22 +394,22 @@
             ],
             "edges": [
                 {
-                    "size": 1767631
+                    "size": 1744289
                 },
                 {
                     "size": 310721
                 },
                 {
-                    "size": 211574
+                    "size": 208862
                 },
                 {
-                    "size": 80010
+                    "size": 79950
                 },
                 {
                     "size": 56251
                 },
                 {
-                    "size": 46433
+                    "size": 46382
                 },
                 {
                     "size": 14868
@@ -651,7 +651,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 13817404,
+            "totalSize": 13817524,
             "nodes": [
                 {
                     "name": "C++",
@@ -700,13 +700,13 @@
             ],
             "edges": [
                 {
-                    "size": 12310258
+                    "size": 12310290
                 },
                 {
                     "size": 563801
                 },
                 {
-                    "size": 546772
+                    "size": 546860
                 },
                 {
                     "size": 137985
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26154275,
+            "totalSize": 26173178,
             "nodes": [
                 {
                     "name": "Python",
@@ -2300,7 +2300,7 @@
             ],
             "edges": [
                 {
-                    "size": 25364358
+                    "size": 25383261
                 },
                 {
                     "size": 546282
