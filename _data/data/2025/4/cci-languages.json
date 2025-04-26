@@ -96,7 +96,7 @@
     "GEOS-DEV/LvArray": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 1911322,
+            "totalSize": 1911324,
             "nodes": [
                 {
                     "name": "C++",
@@ -121,7 +121,7 @@
             ],
             "edges": [
                 {
-                    "size": 1712117
+                    "size": 1712119
                 },
                 {
                     "size": 78063
@@ -1148,7 +1148,7 @@
     "LLNL/merlin": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1367002,
+            "totalSize": 1616691,
             "nodes": [
                 {
                     "name": "Python",
@@ -1177,7 +1177,7 @@
             ],
             "edges": [
                 {
-                    "size": 1333712
+                    "size": 1583401
                 },
                 {
                     "size": 14878
@@ -1773,7 +1773,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13143585,
+            "totalSize": 13143386,
             "nodes": [
                 {
                     "name": "C",
@@ -1846,7 +1846,7 @@
             ],
             "edges": [
                 {
-                    "size": 9298531
+                    "size": 9298332
                 },
                 {
                     "size": 1764496
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26225209,
+            "totalSize": 26233803,
             "nodes": [
                 {
                     "name": "Python",
@@ -2300,7 +2300,7 @@
             ],
             "edges": [
                 {
-                    "size": 25434135
+                    "size": 25442729
                 },
                 {
                     "size": 547439
