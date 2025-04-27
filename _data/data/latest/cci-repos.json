@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 179
+            "totalCount": 180
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -185,7 +185,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 281
+            "totalCount": 282
         },
         "mentionableUsers": {
             "totalCount": 70
@@ -1038,7 +1038,7 @@
             "totalCount": 357
         },
         "issues_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "issues_Closed": {
             "totalCount": 86
@@ -1198,10 +1198,10 @@
             "totalCount": 1053
         },
         "issues_Open": {
-            "totalCount": 200
+            "totalCount": 199
         },
         "issues_Closed": {
-            "totalCount": 327
+            "totalCount": 328
         }
     },
     "LLNL/SAMRAI": {
@@ -1720,10 +1720,10 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1875
+            "totalCount": 1876
         },
         "mentionableUsers": {
-            "totalCount": 755
+            "totalCount": 756
         },
         "forks": {
             "totalCount": 507
@@ -1778,7 +1778,7 @@
             "totalCount": 4629
         },
         "mentionableUsers": {
-            "totalCount": 1679
+            "totalCount": 1680
         },
         "forks": {
             "totalCount": 2261
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 878
+            "totalCount": 877
         },
         "pullRequests_Closed": {
             "totalCount": 4345
         },
         "pullRequests_Merged": {
-            "totalCount": 35737
+            "totalCount": 35739
         },
         "issues_Open": {
             "totalCount": 2462
