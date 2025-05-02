@@ -101,6 +101,11 @@
             "nodes": [
                 {
                     "name": "",
+                    "publishedAt": "2025-05-01T23:42:38Z",
+                    "tagName": "v4.4"
+                },
+                {
+                    "name": "",
                     "publishedAt": "2024-09-27T21:29:47Z",
                     "tagName": "v4.3.2"
                 },

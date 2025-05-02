@@ -7585,6 +7585,10 @@
         {
             "date": "2025-03-24",
             "value": 1
+        },
+        {
+            "date": "2025-04-14",
+            "value": 1
         }
     ],
     "LLNL/conduit": [
@@ -9583,6 +9587,10 @@
         {
             "date": "2025-03-10",
             "value": 1
+        },
+        {
+            "date": "2025-04-14",
+            "value": 2
         }
     ],
     "LLNL/merlin-spellbook": [
@@ -13515,6 +13523,10 @@
         {
             "date": "2025-04-07",
             "value": 1
+        },
+        {
+            "date": "2025-04-28",
+            "value": 2
         }
     ],
     "flux-framework/flux-sched": [
