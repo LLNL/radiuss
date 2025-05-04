@@ -10,6 +10,6 @@ repo_url: https://github.com/spack/spack
 
 <a href='https://github.com/v-dobrev' target='_blank'>v-dobrev</a> commented on issue <a href='https://github.com/spack/spack/pull/47642' target='_blank'>spack/spack#47642</a>.
 
-<small>@spackbot fix style...</small>
+<small>The reason the Gitlab CI failed for the last commit (cf172861) is the following:...</small>
 
 <a href='https://github.com/spack/spack/pull/47642' target='_blank'>View Comment</a>
