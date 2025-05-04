@@ -1030,7 +1030,7 @@
     "LLNL/hiop": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 3991957,
+            "totalSize": 3991854,
             "nodes": [
                 {
                     "name": "C++",
@@ -1075,7 +1075,7 @@
             ],
             "edges": [
                 {
-                    "size": 3684452
+                    "size": 3684349
                 },
                 {
                     "size": 69049
