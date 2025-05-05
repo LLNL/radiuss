@@ -356,7 +356,7 @@
             "totalCount": 54
         },
         "forks": {
-            "totalCount": 200
+            "totalCount": 202
         },
         "primaryLanguage": {
             "name": "C"
@@ -369,7 +369,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "pullRequests_Closed": {
             "totalCount": 41
@@ -424,7 +424,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 56
@@ -1198,10 +1198,10 @@
             "totalCount": 1055
         },
         "issues_Open": {
-            "totalCount": 201
+            "totalCount": 200
         },
         "issues_Closed": {
-            "totalCount": 330
+            "totalCount": 331
         }
     },
     "LLNL/SAMRAI": {
@@ -1574,13 +1574,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 94
         },
         "pullRequests_Merged": {
-            "totalCount": 376
+            "totalCount": 377
         },
         "issues_Open": {
             "totalCount": 30
@@ -1739,7 +1739,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 174
+            "totalCount": 175
         },
         "pullRequests_Closed": {
             "totalCount": 302
@@ -1748,10 +1748,10 @@
             "totalCount": 1765
         },
         "issues_Open": {
-            "totalCount": 99
+            "totalCount": 98
         },
         "issues_Closed": {
-            "totalCount": 2239
+            "totalCount": 2240
         }
     },
     "spack/spack": {
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 4641
+            "totalCount": 4643
         },
         "mentionableUsers": {
             "totalCount": 1681
         },
         "forks": {
-            "totalCount": 2263
+            "totalCount": 2264
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 880
+            "totalCount": 879
         },
         "pullRequests_Closed": {
             "totalCount": 4359
         },
         "pullRequests_Merged": {
-            "totalCount": 35789
+            "totalCount": 35793
         },
         "issues_Open": {
             "totalCount": 2459
