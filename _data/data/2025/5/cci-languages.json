@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37223240,
+            "totalSize": 37259395,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34934230
+                    "size": 34970385
                 },
                 {
                     "size": 556925
@@ -349,7 +349,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2467100,
+            "totalSize": 2467106,
             "nodes": [
                 {
                     "name": "C++",
@@ -394,7 +394,7 @@
             ],
             "edges": [
                 {
-                    "size": 1734117
+                    "size": 1734123
                 },
                 {
                     "size": 310721
@@ -1773,7 +1773,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13146061,
+            "totalSize": 13149429,
             "nodes": [
                 {
                     "name": "C",
@@ -1846,10 +1846,10 @@
             ],
             "edges": [
                 {
-                    "size": 9299114
+                    "size": 9301000
                 },
                 {
-                    "size": 1766346
+                    "size": 1767828
                 },
                 {
                     "size": 1510509
@@ -2215,7 +2215,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26278467,
+            "totalSize": 26380056,
             "nodes": [
                 {
                     "name": "Python",
@@ -2232,6 +2232,10 @@
                 {
                     "name": "C",
                     "color": "#555555"
+                },
+                {
+                    "name": "Standard ML",
+                    "color": "#dc566d"
                 },
                 {
                     "name": "CMake",
@@ -2270,10 +2274,6 @@
                     "color": "#f34b7d"
                 },
                 {
-                    "name": "Standard ML",
-                    "color": "#dc566d"
-                },
-                {
                     "name": "Ruby",
                     "color": "#701516"
                 },
@@ -2300,16 +2300,19 @@
             ],
             "edges": [
                 {
-                    "size": 25486014
+                    "size": 25566498
                 },
                 {
-                    "size": 547693
+                    "size": 549248
                 },
                 {
                     "size": 114847
                 },
                 {
                     "size": 49894
+                },
+                {
+                    "size": 22142
                 },
                 {
                     "size": 13351
@@ -2339,9 +2342,6 @@
                     "size": 2816
                 },
                 {
-                    "size": 2592
-                },
-                {
                     "size": 2492
                 },
                 {
@@ -2365,7 +2365,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 98962475,
+            "totalSize": 98963254,
             "nodes": [
                 {
                     "name": "C",
@@ -2474,13 +2474,13 @@
                     "size": 2988990
                 },
                 {
-                    "size": 1543813
+                    "size": 1544359
                 },
                 {
                     "size": 1303322
                 },
                 {
-                    "size": 1138401
+                    "size": 1138634
                 },
                 {
                     "size": 417170
