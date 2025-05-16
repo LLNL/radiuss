@@ -1134,7 +1134,7 @@
     "LLNL/merlin": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 1616521,
+            "totalSize": 1638389,
             "nodes": [
                 {
                     "name": "Python",
@@ -1163,7 +1163,7 @@
             ],
             "edges": [
                 {
-                    "size": 1583231
+                    "size": 1605099
                 },
                 {
                     "size": 14878
@@ -1672,7 +1672,7 @@
     "XBraid/xbraid": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 1646294,
+            "totalSize": 1648007,
             "nodes": [
                 {
                     "name": "C",
@@ -1724,7 +1724,7 @@
                     "size": 922598
                 },
                 {
-                    "size": 453956
+                    "size": 455669
                 },
                 {
                     "size": 180047
@@ -1759,7 +1759,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13164461,
+            "totalSize": 13164802,
             "nodes": [
                 {
                     "name": "C",
@@ -1838,7 +1838,7 @@
                     "size": 1772121
                 },
                 {
-                    "size": 1510509
+                    "size": 1510850
                 },
                 {
                     "size": 170311
@@ -2201,7 +2201,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 26422547,
+            "totalSize": 26436820,
             "nodes": [
                 {
                     "name": "Python",
@@ -2286,10 +2286,10 @@
             ],
             "edges": [
                 {
-                    "size": 25603149
+                    "size": 25616757
                 },
                 {
-                    "size": 549125
+                    "size": 549790
                 },
                 {
                     "size": 120810
