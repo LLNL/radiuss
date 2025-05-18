@@ -48,10 +48,10 @@
             "totalCount": 831
         },
         "issues_Open": {
-            "totalCount": 200
+            "totalCount": 199
         },
         "issues_Closed": {
-            "totalCount": 388
+            "totalCount": 389
         }
     },
     "flux-framework/flux-core": {
@@ -158,7 +158,7 @@
             "totalCount": 617
         },
         "issues_Open": {
-            "totalCount": 112
+            "totalCount": 114
         },
         "issues_Closed": {
             "totalCount": 540
@@ -191,7 +191,7 @@
             "totalCount": 70
         },
         "forks": {
-            "totalCount": 50
+            "totalCount": 51
         },
         "primaryLanguage": {
             "name": "C++"
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 749
+            "totalCount": 748
         },
         "mentionableUsers": {
             "totalCount": 54
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1890
+            "totalCount": 1889
         },
         "mentionableUsers": {
             "totalCount": 756
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 861
+            "totalCount": 864
         },
         "pullRequests_Closed": {
             "totalCount": 4399
         },
         "pullRequests_Merged": {
-            "totalCount": 35959
+            "totalCount": 35961
         },
         "issues_Open": {
             "totalCount": 2479
