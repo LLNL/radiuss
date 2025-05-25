@@ -2208,7 +2208,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 27263309,
+            "totalSize": 27263432,
             "nodes": [
                 {
                     "name": "Python",
@@ -2293,7 +2293,7 @@
             ],
             "edges": [
                 {
-                    "size": 26412839
+                    "size": 26412962
                 },
                 {
                     "size": 580197
