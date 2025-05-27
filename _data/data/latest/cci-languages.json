@@ -637,7 +637,7 @@
     "LLNL/axom": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 14226887,
+            "totalSize": 14273571,
             "nodes": [
                 {
                     "name": "C++",
@@ -690,7 +690,7 @@
             ],
             "edges": [
                 {
-                    "size": 12686825
+                    "size": 12733509
                 },
                 {
                     "size": 563801
@@ -2208,7 +2208,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 27264863,
+            "totalSize": 27266297,
             "nodes": [
                 {
                     "name": "Python",
@@ -2293,7 +2293,7 @@
             ],
             "edges": [
                 {
-                    "size": 26414393
+                    "size": 26415827
                 },
                 {
                     "size": 580197
