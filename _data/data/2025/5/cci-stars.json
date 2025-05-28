@@ -3575,6 +3575,10 @@
         {
             "date": "2025-05-19",
             "value": 1
+        },
+        {
+            "date": "2025-05-26",
+            "value": 2
         }
     ],
     "LLNL/MerlinWorkflows": [
@@ -9667,6 +9671,10 @@
         {
             "date": "2025-04-14",
             "value": 2
+        },
+        {
+            "date": "2025-05-05",
+            "value": 1
         }
     ],
     "LLNL/merlin-spellbook": [

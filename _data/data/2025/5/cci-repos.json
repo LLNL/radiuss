@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 76
         },
         "pullRequests_Merged": {
-            "totalCount": 838
+            "totalCount": 839
         },
         "issues_Open": {
-            "totalCount": 198
+            "totalCount": 199
         },
         "issues_Closed": {
             "totalCount": 394
@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 21
+            "totalCount": 22
         },
         "pullRequests_Closed": {
             "totalCount": 220
@@ -103,7 +103,7 @@
             "totalCount": 3105
         },
         "issues_Open": {
-            "totalCount": 575
+            "totalCount": 576
         },
         "issues_Closed": {
             "totalCount": 2805
@@ -210,7 +210,7 @@
             "totalCount": 14
         },
         "pullRequests_Merged": {
-            "totalCount": 149
+            "totalCount": 150
         },
         "issues_Open": {
             "totalCount": 15
@@ -369,7 +369,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 30
+            "totalCount": 31
         },
         "pullRequests_Closed": {
             "totalCount": 41
@@ -430,7 +430,7 @@
             "totalCount": 56
         },
         "pullRequests_Merged": {
-            "totalCount": 876
+            "totalCount": 877
         },
         "issues_Open": {
             "totalCount": 230
@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 374
+            "totalCount": 375
         },
         "mentionableUsers": {
             "totalCount": 37
@@ -763,7 +763,7 @@
             "totalCount": 756
         },
         "issues_Open": {
-            "totalCount": 176
+            "totalCount": 177
         },
         "issues_Closed": {
             "totalCount": 467
@@ -1010,7 +1010,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 132
+            "totalCount": 133
         },
         "mentionableUsers": {
             "totalCount": 23
@@ -1189,7 +1189,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 29
+            "totalCount": 30
         },
         "pullRequests_Closed": {
             "totalCount": 222
@@ -1198,10 +1198,10 @@
             "totalCount": 1065
         },
         "issues_Open": {
-            "totalCount": 200
+            "totalCount": 199
         },
         "issues_Closed": {
-            "totalCount": 333
+            "totalCount": 334
         }
     },
     "LLNL/SAMRAI": {
@@ -1583,7 +1583,7 @@
             "totalCount": 385
         },
         "issues_Open": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "issues_Closed": {
             "totalCount": 192
@@ -1723,7 +1723,7 @@
             "totalCount": 1895
         },
         "mentionableUsers": {
-            "totalCount": 756
+            "totalCount": 757
         },
         "forks": {
             "totalCount": 514
@@ -1739,19 +1739,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 181
+            "totalCount": 182
         },
         "pullRequests_Closed": {
             "totalCount": 304
         },
         "pullRequests_Merged": {
-            "totalCount": 1770
+            "totalCount": 1771
         },
         "issues_Open": {
-            "totalCount": 98
+            "totalCount": 96
         },
         "issues_Closed": {
-            "totalCount": 2251
+            "totalCount": 2253
         }
     },
     "spack/spack": {
@@ -1769,16 +1769,16 @@
             "name": "develop"
         },
         "licenseInfo": {
-            "name": "Other",
+            "name": "Apache License 2.0",
             "nickname": null,
-            "spdxId": "NOASSERTION",
-            "url": "http://choosealicense.com/licenses/other/"
+            "spdxId": "Apache-2.0",
+            "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
             "totalCount": 4670
         },
         "mentionableUsers": {
-            "totalCount": 1684
+            "totalCount": 1686
         },
         "forks": {
             "totalCount": 2276
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 864
+            "totalCount": 847
         },
         "pullRequests_Closed": {
-            "totalCount": 4411
+            "totalCount": 4413
         },
         "pullRequests_Merged": {
-            "totalCount": 36062
+            "totalCount": 36098
         },
         "issues_Open": {
-            "totalCount": 2483
+            "totalCount": 2479
         },
         "issues_Closed": {
-            "totalCount": 6427
+            "totalCount": 6433
         }
     },
     "visit-dav/visit": {
@@ -1849,7 +1849,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 135
