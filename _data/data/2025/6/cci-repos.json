@@ -103,7 +103,7 @@
             "totalCount": 3111
         },
         "issues_Open": {
-            "totalCount": 575
+            "totalCount": 576
         },
         "issues_Closed": {
             "totalCount": 2809
@@ -158,10 +158,10 @@
             "totalCount": 617
         },
         "issues_Open": {
-            "totalCount": 114
+            "totalCount": 113
         },
         "issues_Closed": {
-            "totalCount": 540
+            "totalCount": 541
         }
     },
     "GLVis/glvis": {
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 269
+            "totalCount": 268
         },
         "mentionableUsers": {
             "totalCount": 54
@@ -570,13 +570,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 376
+            "totalCount": 375
         },
         "mentionableUsers": {
             "totalCount": 38
         },
         "forks": {
-            "totalCount": 70
+            "totalCount": 71
         },
         "primaryLanguage": {
             "name": "C++"
@@ -790,7 +790,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 32
+            "totalCount": 33
         },
         "mentionableUsers": {
             "totalCount": 29
@@ -955,7 +955,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 147
+            "totalCount": 146
         },
         "mentionableUsers": {
             "totalCount": 34
@@ -1610,7 +1610,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 360
+            "totalCount": 361
         },
         "mentionableUsers": {
             "totalCount": 44
@@ -1726,7 +1726,7 @@
             "totalCount": 758
         },
         "forks": {
-            "totalCount": 515
+            "totalCount": 514
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1751,7 +1751,7 @@
             "totalCount": 91
         },
         "issues_Closed": {
-            "totalCount": 2261
+            "totalCount": 2260
         }
     },
     "spack/spack": {
@@ -1775,10 +1775,10 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4675
+            "totalCount": 4674
         },
         "mentionableUsers": {
-            "totalCount": 1688
+            "totalCount": 1687
         },
         "forks": {
             "totalCount": 2279
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 856
+            "totalCount": 860
         },
         "pullRequests_Closed": {
-            "totalCount": 4419
+            "totalCount": 4420
         },
         "pullRequests_Merged": {
-            "totalCount": 36137
+            "totalCount": 36138
         },
         "issues_Open": {
-            "totalCount": 2488
+            "totalCount": 2489
         },
         "issues_Closed": {
             "totalCount": 6436
