@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37472055,
+            "totalSize": 37473088,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 34998136
+                    "size": 34999244
                 },
                 {
                     "size": 556925
@@ -70,7 +70,7 @@
                     "size": 327887
                 },
                 {
-                    "size": 256650
+                    "size": 256575
                 },
                 {
                     "size": 128450
@@ -2208,7 +2208,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 20,
-            "totalSize": 27322255,
+            "totalSize": 27361068,
             "nodes": [
                 {
                     "name": "Python",
@@ -2293,10 +2293,10 @@
             ],
             "edges": [
                 {
-                    "size": 26467880
+                    "size": 26506199
                 },
                 {
-                    "size": 582134
+                    "size": 582628
                 },
                 {
                     "size": 122778
@@ -2358,7 +2358,7 @@
     "visit-dav/visit": {
         "languages": {
             "totalCount": 23,
-            "totalSize": 99010336,
+            "totalSize": 99014710,
             "nodes": [
                 {
                     "name": "C",
@@ -2455,13 +2455,13 @@
             ],
             "edges": [
                 {
-                    "size": 74961339
+                    "size": 74965127
                 },
                 {
-                    "size": 12694995
+                    "size": 12695458
                 },
                 {
-                    "size": 3800082
+                    "size": 3800205
                 },
                 {
                     "size": 2988990
