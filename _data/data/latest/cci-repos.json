@@ -45,7 +45,7 @@
             "totalCount": 76
         },
         "pullRequests_Merged": {
-            "totalCount": 844
+            "totalCount": 846
         },
         "issues_Open": {
             "totalCount": 200
@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 24
+            "totalCount": 26
         },
         "pullRequests_Closed": {
             "totalCount": 230
@@ -103,7 +103,7 @@
             "totalCount": 3115
         },
         "issues_Open": {
-            "totalCount": 580
+            "totalCount": 581
         },
         "issues_Closed": {
             "totalCount": 2812
@@ -378,7 +378,7 @@
             "totalCount": 639
         },
         "issues_Open": {
-            "totalCount": 126
+            "totalCount": 127
         },
         "issues_Closed": {
             "totalCount": 453
@@ -809,13 +809,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 13
         },
         "pullRequests_Merged": {
-            "totalCount": 96
+            "totalCount": 100
         },
         "issues_Open": {
             "totalCount": 20
@@ -848,7 +848,7 @@
             "totalCount": 218
         },
         "mentionableUsers": {
-            "totalCount": 28
+            "totalCount": 29
         },
         "forks": {
             "totalCount": 44
@@ -983,7 +983,7 @@
             "totalCount": 210
         },
         "issues_Open": {
-            "totalCount": 64
+            "totalCount": 65
         },
         "issues_Closed": {
             "totalCount": 112
@@ -1189,7 +1189,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 30
+            "totalCount": 31
         },
         "pullRequests_Closed": {
             "totalCount": 222
@@ -1198,7 +1198,7 @@
             "totalCount": 1068
         },
         "issues_Open": {
-            "totalCount": 199
+            "totalCount": 202
         },
         "issues_Closed": {
             "totalCount": 334
@@ -1555,13 +1555,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 574
+            "totalCount": 576
         },
         "mentionableUsers": {
             "totalCount": 38
         },
         "forks": {
-            "totalCount": 145
+            "totalCount": 146
         },
         "primaryLanguage": {
             "name": "C"
@@ -1748,10 +1748,10 @@
             "totalCount": 1772
         },
         "issues_Open": {
-            "totalCount": 92
+            "totalCount": 93
         },
         "issues_Closed": {
-            "totalCount": 2261
+            "totalCount": 2260
         }
     },
     "spack/spack": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4677
+            "totalCount": 4680
         },
         "mentionableUsers": {
             "totalCount": 1675
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 855
+            "totalCount": 770
         },
         "pullRequests_Closed": {
-            "totalCount": 4431
+            "totalCount": 4509
         },
         "pullRequests_Merged": {
-            "totalCount": 36212
+            "totalCount": 36234
         },
         "issues_Open": {
-            "totalCount": 2493
+            "totalCount": 2486
         },
         "issues_Closed": {
-            "totalCount": 6439
+            "totalCount": 6449
         }
     },
     "visit-dav/visit": {
@@ -1849,7 +1849,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 135
@@ -1858,7 +1858,7 @@
             "totalCount": 3206
         },
         "issues_Open": {
-            "totalCount": 1914
+            "totalCount": 1915
         },
         "issues_Closed": {
             "totalCount": 3585
