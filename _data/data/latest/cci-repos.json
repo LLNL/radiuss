@@ -1253,7 +1253,7 @@
             "totalCount": 175
         },
         "issues_Open": {
-            "totalCount": 50
+            "totalCount": 51
         },
         "issues_Closed": {
             "totalCount": 46
@@ -1723,7 +1723,7 @@
             "totalCount": 1906
         },
         "mentionableUsers": {
-            "totalCount": 758
+            "totalCount": 757
         },
         "forks": {
             "totalCount": 515
@@ -1748,7 +1748,7 @@
             "totalCount": 1772
         },
         "issues_Open": {
-            "totalCount": 93
+            "totalCount": 94
         },
         "issues_Closed": {
             "totalCount": 2260
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4680
+            "totalCount": 4683
         },
         "mentionableUsers": {
             "totalCount": 1675
         },
         "forks": {
-            "totalCount": 2281
+            "totalCount": 2280
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 770
+            "totalCount": 773
         },
         "pullRequests_Closed": {
-            "totalCount": 4509
+            "totalCount": 4512
         },
         "pullRequests_Merged": {
-            "totalCount": 36234
+            "totalCount": 36237
         },
         "issues_Open": {
             "totalCount": 2486
