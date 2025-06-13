@@ -1664,6 +1664,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Version 1.13.0b1",
+                    "publishedAt": "2025-06-13T00:47:51Z",
+                    "tagName": "1.13.0b1"
+                },
+                {
                     "name": "Version 1.12.2",
                     "publishedAt": "2024-10-28T21:33:47Z",
                     "tagName": "1.12.2"
