@@ -1748,10 +1748,10 @@
             "totalCount": 1782
         },
         "issues_Open": {
-            "totalCount": 91
+            "totalCount": 89
         },
         "issues_Closed": {
-            "totalCount": 2269
+            "totalCount": 2271
         }
     },
     "spack/spack": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4699
+            "totalCount": 4698
         },
         "mentionableUsers": {
             "totalCount": 1674
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 620
+            "totalCount": 621
         },
         "pullRequests_Closed": {
             "totalCount": 4676
