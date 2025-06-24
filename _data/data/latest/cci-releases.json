@@ -453,6 +453,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2025.03.1",
+                    "publishedAt": "2025-06-23T22:54:23Z",
+                    "tagName": "v2025.03.1"
+                },
+                {
                     "name": "v2025.03.0",
                     "publishedAt": "2025-03-20T22:59:46Z",
                     "tagName": "v2025.03.0"
@@ -2122,6 +2127,11 @@
     "LLNL/sundials": {
         "releases": {
             "nodes": [
+                {
+                    "name": "SUNDIALS v7.4.0",
+                    "publishedAt": "2025-06-23T17:14:51Z",
+                    "tagName": "v7.4.0"
+                },
                 {
                     "name": "SUNDIALS v7.3.0",
                     "publishedAt": "2025-04-07T17:32:15Z",
