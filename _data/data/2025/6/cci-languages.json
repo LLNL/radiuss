@@ -870,7 +870,7 @@
     "LLNL/conduit": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 11668465,
+            "totalSize": 11754634,
             "nodes": [
                 {
                     "name": "C++",
@@ -919,7 +919,7 @@
             ],
             "edges": [
                 {
-                    "size": 9827468
+                    "size": 9913637
                 },
                 {
                     "size": 912662
@@ -1766,7 +1766,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13187963,
+            "totalSize": 13189013,
             "nodes": [
                 {
                     "name": "C",
@@ -1839,7 +1839,7 @@
             ],
             "edges": [
                 {
-                    "size": 9322765
+                    "size": 9323815
                 },
                 {
                     "size": 1770000
@@ -2128,7 +2128,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 18412373,
+            "totalSize": 18476195,
             "nodes": [
                 {
                     "name": "C++",
@@ -2173,13 +2173,13 @@
             ],
             "edges": [
                 {
-                    "size": 17815642
+                    "size": 17876595
                 },
                 {
-                    "size": 271295
+                    "size": 273948
                 },
                 {
-                    "size": 155751
+                    "size": 155967
                 },
                 {
                     "size": 75239
