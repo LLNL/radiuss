@@ -2128,7 +2128,7 @@
     "mfem/mfem": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 18545938,
+            "totalSize": 18551928,
             "nodes": [
                 {
                     "name": "C++",
@@ -2173,7 +2173,7 @@
             ],
             "edges": [
                 {
-                    "size": 17941664
+                    "size": 17947654
                 },
                 {
                     "size": 275992
@@ -2208,7 +2208,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 7967904,
+            "totalSize": 7967999,
             "nodes": [
                 {
                     "name": "Python",
@@ -2265,10 +2265,10 @@
             ],
             "edges": [
                 {
-                    "size": 7212930
+                    "size": 7212980
                 },
                 {
-                    "size": 514197
+                    "size": 514242
                 },
                 {
                     "size": 126884
