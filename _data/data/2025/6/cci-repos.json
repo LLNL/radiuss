@@ -1555,7 +1555,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 578
+            "totalCount": 579
         },
         "mentionableUsers": {
             "totalCount": 39
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 802
+            "totalCount": 804
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4710
+            "totalCount": 4712
         },
         "mentionableUsers": {
             "totalCount": 1675
@@ -1794,7 +1794,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 617
+            "totalCount": 618
         },
         "pullRequests_Closed": {
             "totalCount": 4683
