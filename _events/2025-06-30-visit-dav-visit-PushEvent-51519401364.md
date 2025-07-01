@@ -2,14 +2,14 @@
 event_type: PushEvent
 avatar: "https://avatars.githubusercontent.com/u/17075318?"
 user: biagas
-date: 2025-06-27
+date: 2025-06-30
 repo_name: visit-dav/visit
-html_url: https://github.com/visit-dav/visit/commit/df2fe1d1ccd9a945c998fdd0f3a289816e0e6005
+html_url: https://github.com/visit-dav/visit/commit/ce4772e12675c7a8bace4c5da2796561b84a10cb
 repo_url: https://github.com/visit-dav/visit
 ---
 
 <a href='https://github.com/biagas' target='_blank'>biagas</a> pushed to <a href='https://github.com/visit-dav/visit' target='_blank'>visit-dav/visit</a>
 
-<small>Merge branch 'develop' into biagas/update_vtk_to_9.5</small>
+<small>Update poodle config-site for vtk 9.5 visit 3.5.0.</small>
 
-<a href='https://github.com/visit-dav/visit/commit/df2fe1d1ccd9a945c998fdd0f3a289816e0e6005' target='_blank'>View Commit</a>
+<a href='https://github.com/visit-dav/visit/commit/ce4772e12675c7a8bace4c5da2796561b84a10cb' target='_blank'>View Commit</a>
