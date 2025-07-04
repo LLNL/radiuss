@@ -2,7 +2,7 @@
     "Alpine-DAV/ascent": {
         "languages": {
             "totalCount": 12,
-            "totalSize": 37482397,
+            "totalSize": 37484704,
             "nodes": [
                 {
                     "name": "C++",
@@ -55,7 +55,7 @@
             ],
             "edges": [
                 {
-                    "size": 35008196
+                    "size": 35010302
                 },
                 {
                     "size": 556925
@@ -67,10 +67,10 @@
                     "size": 488449
                 },
                 {
-                    "size": 327887
+                    "size": 327957
                 },
                 {
-                    "size": 256666
+                    "size": 256797
                 },
                 {
                     "size": 128450
@@ -564,7 +564,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2800466,
+            "totalSize": 2812107,
             "nodes": [
                 {
                     "name": "C++",
@@ -605,13 +605,13 @@
             ],
             "edges": [
                 {
-                    "size": 2341636
+                    "size": 2352917
                 },
                 {
                     "size": 233255
                 },
                 {
-                    "size": 88977
+                    "size": 89337
                 },
                 {
                     "size": 74673
@@ -1961,7 +1961,7 @@
     "hpc/Spindle": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 3058067,
+            "totalSize": 3060170,
             "nodes": [
                 {
                     "name": "C",
@@ -1990,7 +1990,7 @@
             ],
             "edges": [
                 {
-                    "size": 1213858
+                    "size": 1215961
                 },
                 {
                     "size": 1148972
@@ -2208,7 +2208,7 @@
     "spack/spack": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 7973861,
+            "totalSize": 7972748,
             "nodes": [
                 {
                     "name": "Python",
@@ -2265,7 +2265,7 @@
             ],
             "edges": [
                 {
-                    "size": 7217591
+                    "size": 7216478
                 },
                 {
                     "size": 514757
