@@ -809,7 +809,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 13
@@ -845,7 +845,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 218
+            "totalCount": 219
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -1016,7 +1016,7 @@
             "totalCount": 25
         },
         "forks": {
-            "totalCount": 32
+            "totalCount": 31
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1574,7 +1574,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 99
@@ -1748,7 +1748,7 @@
             "totalCount": 1796
         },
         "issues_Open": {
-            "totalCount": 93
+            "totalCount": 94
         },
         "issues_Closed": {
             "totalCount": 2272
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4718
+            "totalCount": 4719
         },
         "mentionableUsers": {
             "totalCount": 1675
         },
         "forks": {
-            "totalCount": 2284
+            "totalCount": 2283
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 617
+            "totalCount": 616
         },
         "pullRequests_Closed": {
-            "totalCount": 4685
+            "totalCount": 4687
         },
         "pullRequests_Merged": {
             "totalCount": 36295
         },
         "issues_Open": {
-            "totalCount": 2215
+            "totalCount": 2216
         },
         "issues_Closed": {
             "totalCount": 6739
