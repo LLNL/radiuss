@@ -576,7 +576,7 @@
             "totalCount": 39
         },
         "forks": {
-            "totalCount": 71
+            "totalCount": 72
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 809
+            "totalCount": 810
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1926
+            "totalCount": 1927
         },
         "mentionableUsers": {
             "totalCount": 762
@@ -1739,13 +1739,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 183
+            "totalCount": 181
         },
         "pullRequests_Closed": {
             "totalCount": 307
         },
         "pullRequests_Merged": {
-            "totalCount": 1796
+            "totalCount": 1798
         },
         "issues_Open": {
             "totalCount": 93
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4719
+            "totalCount": 4718
         },
         "mentionableUsers": {
             "totalCount": 1675
@@ -1803,10 +1803,10 @@
             "totalCount": 36295
         },
         "issues_Open": {
-            "totalCount": 2217
+            "totalCount": 2216
         },
         "issues_Closed": {
-            "totalCount": 6739
+            "totalCount": 6740
         }
     },
     "visit-dav/visit": {
