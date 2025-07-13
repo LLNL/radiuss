@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 28
+            "totalCount": 27
         },
         "pullRequests_Closed": {
             "totalCount": 231
         },
         "pullRequests_Merged": {
-            "totalCount": 3135
+            "totalCount": 3136
         },
         "issues_Open": {
-            "totalCount": 583
+            "totalCount": 582
         },
         "issues_Closed": {
-            "totalCount": 2826
+            "totalCount": 2827
         }
     },
     "flux-framework/flux-sched": {
@@ -1555,7 +1555,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 583
+            "totalCount": 584
         },
         "mentionableUsers": {
             "totalCount": 39
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 812
+            "totalCount": 814
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1720,13 +1720,13 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1928
+            "totalCount": 1929
         },
         "mentionableUsers": {
             "totalCount": 762
         },
         "forks": {
-            "totalCount": 524
+            "totalCount": 523
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1797,7 +1797,7 @@
             "totalCount": 612
         },
         "pullRequests_Closed": {
-            "totalCount": 4697
+            "totalCount": 4698
         },
         "pullRequests_Merged": {
             "totalCount": 36312
