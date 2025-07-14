@@ -1748,10 +1748,10 @@
             "totalCount": 1802
         },
         "issues_Open": {
-            "totalCount": 93
+            "totalCount": 92
         },
         "issues_Closed": {
-            "totalCount": 2275
+            "totalCount": 2276
         }
     },
     "spack/spack": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4722
+            "totalCount": 4725
         },
         "mentionableUsers": {
             "totalCount": 1675
@@ -1797,7 +1797,7 @@
             "totalCount": 612
         },
         "pullRequests_Closed": {
-            "totalCount": 4698
+            "totalCount": 4699
         },
         "pullRequests_Merged": {
             "totalCount": 36312
@@ -1885,7 +1885,7 @@
             "url": "http://choosealicense.com/licenses/other/"
         },
         "stargazers": {
-            "totalCount": 78
+            "totalCount": 79
         },
         "mentionableUsers": {
             "totalCount": 13

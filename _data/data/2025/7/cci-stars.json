@@ -13241,6 +13241,10 @@
         {
             "date": "2025-04-14",
             "value": 1
+        },
+        {
+            "date": "2025-04-21",
+            "value": 1
         }
     ],
     "flux-framework/flux-core": [
@@ -19377,6 +19381,10 @@
         {
             "date": "2025-07-07",
             "value": 8
+        },
+        {
+            "date": "2025-07-14",
+            "value": 6
         }
     ],
     "visit-dav/visit": [
