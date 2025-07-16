@@ -559,6 +559,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Caliper v2.13.1",
+                    "publishedAt": "2025-07-15T21:49:04Z",
+                    "tagName": "v2.13.1"
+                },
+                {
                     "name": "Caliper v2.13.0",
                     "publishedAt": "2025-07-03T17:17:37Z",
                     "tagName": "v2.13.0"
