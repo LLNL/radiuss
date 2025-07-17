@@ -45,13 +45,13 @@
             "totalCount": 76
         },
         "pullRequests_Merged": {
-            "totalCount": 869
+            "totalCount": 870
         },
         "issues_Open": {
             "totalCount": 194
         },
         "issues_Closed": {
-            "totalCount": 411
+            "totalCount": 412
         }
     },
     "flux-framework/flux-core": {
@@ -100,13 +100,13 @@
             "totalCount": 231
         },
         "pullRequests_Merged": {
-            "totalCount": 3136
+            "totalCount": 3138
         },
         "issues_Open": {
-            "totalCount": 583
+            "totalCount": 582
         },
         "issues_Closed": {
-            "totalCount": 2827
+            "totalCount": 2828
         }
     },
     "flux-framework/flux-sched": {
@@ -314,10 +314,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 11
         },
         "pullRequests_Closed": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "pullRequests_Merged": {
             "totalCount": 42
@@ -430,10 +430,10 @@
             "totalCount": 57
         },
         "pullRequests_Merged": {
-            "totalCount": 897
+            "totalCount": 898
         },
         "issues_Open": {
-            "totalCount": 201
+            "totalCount": 202
         },
         "issues_Closed": {
             "totalCount": 436
@@ -570,7 +570,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 382
+            "totalCount": 381
         },
         "mentionableUsers": {
             "totalCount": 39
@@ -864,13 +864,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 50
         },
         "pullRequests_Merged": {
-            "totalCount": 391
+            "totalCount": 392
         },
         "issues_Open": {
             "totalCount": 36
@@ -1189,19 +1189,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 32
+            "totalCount": 31
         },
         "pullRequests_Closed": {
             "totalCount": 222
         },
         "pullRequests_Merged": {
-            "totalCount": 1071
+            "totalCount": 1072
         },
         "issues_Open": {
-            "totalCount": 203
+            "totalCount": 202
         },
         "issues_Closed": {
-            "totalCount": 336
+            "totalCount": 337
         }
     },
     "LLNL/SAMRAI": {
@@ -1244,7 +1244,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 16
@@ -1665,7 +1665,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 815
+            "totalCount": 816
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1720,7 +1720,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 1932
+            "totalCount": 1934
         },
         "mentionableUsers": {
             "totalCount": 762
@@ -1739,16 +1739,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 182
+            "totalCount": 188
         },
         "pullRequests_Closed": {
-            "totalCount": 308
+            "totalCount": 307
         },
         "pullRequests_Merged": {
             "totalCount": 1803
         },
         "issues_Open": {
-            "totalCount": 94
+            "totalCount": 96
         },
         "issues_Closed": {
             "totalCount": 2276
@@ -1794,19 +1794,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 611
+            "totalCount": 605
         },
         "pullRequests_Closed": {
-            "totalCount": 4701
+            "totalCount": 4702
         },
         "pullRequests_Merged": {
-            "totalCount": 36317
+            "totalCount": 36327
         },
         "issues_Open": {
-            "totalCount": 2203
+            "totalCount": 2201
         },
         "issues_Closed": {
-            "totalCount": 6757
+            "totalCount": 6759
         }
     },
     "visit-dav/visit": {
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 135
         },
         "pullRequests_Merged": {
-            "totalCount": 3238
+            "totalCount": 3243
         },
         "issues_Open": {
-            "totalCount": 1910
+            "totalCount": 1908
         },
         "issues_Closed": {
-            "totalCount": 3612
+            "totalCount": 3614
         }
     },
     "XBraid/xbraid": {
