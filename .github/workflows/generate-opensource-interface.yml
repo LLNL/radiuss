@@ -1,9 +1,10 @@
 name: opensource-heartbeat
 
 on:
+  workflow_dispatch: []
   # nightly at 4:30am
-  schedule:   
-    - cron: 30 4 * * *
+  # schedule:   
+  #  - cron: 30 4 * * *
 
 jobs:
   Update:
