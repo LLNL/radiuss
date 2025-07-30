@@ -10,7 +10,7 @@
   {% else %}<meta property="og:type" content="website">{% endif %}
 
   <meta property="og:url" content="{{ site.domain }}{{ site.baseurl }}{{ page.url }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{{ site.title }} | {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:image" content="{% if page.image %}{{ site.domain }}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.domain }}{{ site.baseurl }}{{ site.twitter-img }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -24,7 +24,7 @@
   {% if page.image %}<meta name="twitter:image" content="{{ site.domain }}{{ site.baseurl }}{{ page.image }}">{% else %}<meta name="twitter:image" content="{{ site.domain }}{{ site.baseurl }}{{ site.twitter-img }}">{% endif %}
 
   <!-- Social: Google+ / Schema.org  -->
-  <meta itemprop="name" content="{{ page.title }}">
+  <meta itemprop="name" content="{{ site.title }} | {{ page.title }}">
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ site.domain }}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.domain }}{{ site.baseurl }}{{ site.twitter-img }}{% endif %}">
   <script type="application/ld+json">
