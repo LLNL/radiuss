@@ -1,5 +1,6 @@
 ---
 layout: projects
+description: Searchable catalog of RADIUSS projects, also known as products.
 title: Projects
 permalink: /projects/
 hide_hero: true

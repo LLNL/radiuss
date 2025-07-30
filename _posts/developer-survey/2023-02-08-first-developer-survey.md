@@ -3,6 +3,7 @@ title: "Results from the 1st LLNL Developer Survey, 2022"
 date: 2023-02-08"
 draft: false
 layout: post
+description: A summary of results from the 2022 survey of LLNL developers' practices and preferences.
 ---
 
 > Author Vanessa Sochat, on behalf of the RADIUSS team
