@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "RADIUSS AWS Tutorials: August 2022"
 category: event
 tags: [tutorial, event]
+layout: post
+description: Details about the 2022 tutorial series including registration, documentation, and other materials.
 ---
 
 ## Learn how to use a modern HPC software stack

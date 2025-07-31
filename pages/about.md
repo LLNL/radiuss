@@ -1,5 +1,6 @@
 ---
 layout: page
+description: Information about RADIUSS mission, products, and DevOps.
 title: About
 permalink: /about/
 graph: true
