@@ -3,6 +3,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "0.9.5",
+                    "publishedAt": "2025-09-11T05:39:56Z",
+                    "tagName": "v0.9.5"
+                },
+                {
                     "name": "0.9.4",
                     "publishedAt": "2025-07-18T14:23:21Z",
                     "tagName": "v0.9.4"
@@ -1536,6 +1541,11 @@
     "LLNL/hiop": {
         "releases": {
             "nodes": [
+                {
+                    "name": "HiOpBBpy derivative-free solver and misc upgrades to quasi-Newton and Newton IPMs",
+                    "publishedAt": "2025-09-11T17:16:39Z",
+                    "tagName": "v1.2.0"
+                },
                 {
                     "name": "Misc updates to quasi-Newton solver and build system, updates to recent RAJA, and preliminary black-box solver",
                     "publishedAt": "2025-04-15T17:16:30Z",
