@@ -463,6 +463,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v2025.09.0",
+                    "publishedAt": "2025-09-12T19:47:20Z",
+                    "tagName": "v2025.09.0"
+                },
+                {
                     "name": "v2025.03.1",
                     "publishedAt": "2025-06-23T22:54:23Z",
                     "tagName": "v2025.03.1"
@@ -699,6 +704,11 @@
     "LLNL/RAJA": {
         "releases": {
             "nodes": [
+                {
+                    "name": "v2025.09.0",
+                    "publishedAt": "2025-09-12T16:13:44Z",
+                    "tagName": "v2025.09.0"
+                },
                 {
                     "name": "v2025.03.2",
                     "publishedAt": "2025-05-14T23:44:02Z",
