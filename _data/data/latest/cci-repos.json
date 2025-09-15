@@ -48,7 +48,7 @@
             "totalCount": 883
         },
         "issues_Open": {
-            "totalCount": 195
+            "totalCount": 196
         },
         "issues_Closed": {
             "totalCount": 429
@@ -103,7 +103,7 @@
             "totalCount": 3228
         },
         "issues_Open": {
-            "totalCount": 596
+            "totalCount": 597
         },
         "issues_Closed": {
             "totalCount": 2865
@@ -1335,7 +1335,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 91
+            "totalCount": 92
         },
         "mentionableUsers": {
             "totalCount": 17
@@ -1739,13 +1739,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 207
+            "totalCount": 203
         },
         "pullRequests_Closed": {
-            "totalCount": 312
+            "totalCount": 314
         },
         "pullRequests_Merged": {
-            "totalCount": 1828
+            "totalCount": 1830
         },
         "issues_Open": {
             "totalCount": 96
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4794
+            "totalCount": 4793
         },
         "mentionableUsers": {
             "totalCount": 1673
         },
         "forks": {
-            "totalCount": 2282
+            "totalCount": 2283
         },
         "primaryLanguage": {
             "name": "Python"

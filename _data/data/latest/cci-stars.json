@@ -10613,6 +10613,10 @@
         {
             "date": "2025-01-20",
             "value": 1
+        },
+        {
+            "date": "2025-07-28",
+            "value": 1
         }
     ],
     "LLNL/spot2_container": [
