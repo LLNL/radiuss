@@ -297,7 +297,7 @@
     "LLNL/CHAI": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 446891,
+            "totalSize": 446898,
             "nodes": [
                 {
                     "name": "C++",
@@ -318,10 +318,10 @@
             ],
             "edges": [
                 {
-                    "size": 397672
+                    "size": 397678
                 },
                 {
-                    "size": 28874
+                    "size": 28875
                 },
                 {
                     "size": 18414
@@ -335,7 +335,7 @@
     "LLNL/Caliper": {
         "languages": {
             "totalCount": 10,
-            "totalSize": 2468259,
+            "totalSize": 2468273,
             "nodes": [
                 {
                     "name": "C++",
@@ -398,7 +398,7 @@
                     "size": 46382
                 },
                 {
-                    "size": 14856
+                    "size": 14870
                 },
                 {
                     "size": 12274
@@ -564,7 +564,7 @@
     "LLNL/Umpire": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2816685,
+            "totalSize": 2816911,
             "nodes": [
                 {
                     "name": "C++",
@@ -611,13 +611,13 @@
                     "size": 233255
                 },
                 {
-                    "size": 90421
+                    "size": 90543
                 },
                 {
                     "size": 74673
                 },
                 {
-                    "size": 27609
+                    "size": 27713
                 },
                 {
                     "size": 26654
@@ -1766,7 +1766,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13511710,
+            "totalSize": 13512175,
             "nodes": [
                 {
                     "name": "C",
@@ -1845,7 +1845,7 @@
                     "size": 1865255
                 },
                 {
-                    "size": 1619588
+                    "size": 1620053
                 },
                 {
                     "size": 170304

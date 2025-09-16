@@ -247,6 +247,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "v0.15.2",
+                    "publishedAt": "2025-09-15T23:49:31Z",
+                    "tagName": "v0.15.2"
+                },
+                {
                     "name": "v0.15.1",
                     "publishedAt": "2025-04-07T16:33:53Z",
                     "tagName": "v0.15.1"
@@ -462,6 +467,11 @@
     "LLNL/CHAI": {
         "releases": {
             "nodes": [
+                {
+                    "name": "v2025.09.1",
+                    "publishedAt": "2025-09-15T21:39:31Z",
+                    "tagName": "v2025.09.1"
+                },
                 {
                     "name": "v2025.09.0",
                     "publishedAt": "2025-09-12T19:47:20Z",
