@@ -1766,7 +1766,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13510101,
+            "totalSize": 13510125,
             "nodes": [
                 {
                     "name": "C",
@@ -1845,7 +1845,7 @@
                     "size": 1863220
                 },
                 {
-                    "size": 1622741
+                    "size": 1622765
                 },
                 {
                     "size": 170304
@@ -1961,7 +1961,7 @@
     "hpc/Spindle": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 3062140,
+            "totalSize": 3063914,
             "nodes": [
                 {
                     "name": "C",
@@ -1994,13 +1994,13 @@
             ],
             "edges": [
                 {
-                    "size": 1216685
+                    "size": 1217903
                 },
                 {
-                    "size": 1149786
+                    "size": 1149904
                 },
                 {
-                    "size": 348993
+                    "size": 349431
                 },
                 {
                     "size": 297894
