@@ -65,8 +65,8 @@
             "c-plus-plus"
         ]
     },
-    "hpc/Spindle": {
-        "name": "hpc/Spindle",
+    "LLNL/Spindle": {
+        "name": "LLNL/Spindle",
         "description": "Scalable dynamic library and python loading in HPC environments",
         "website": null,
         "topics": [

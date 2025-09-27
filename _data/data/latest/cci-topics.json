@@ -643,6 +643,27 @@
             ]
         }
     },
+    "LLNL/Spindle": {
+        "repositoryTopics": {
+            "totalCount": 2,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                },
+                {
+                    "topic": {
+                        "name": "performance"
+                    },
+                    "resourcePath": "/topics/performance",
+                    "url": "https://github.com/topics/performance"
+                }
+            ]
+        }
+    },
     "LLNL/Umpire": {
         "repositoryTopics": {
             "totalCount": 7,
@@ -1724,27 +1745,6 @@
                     },
                     "resourcePath": "/topics/radiuss",
                     "url": "https://github.com/topics/radiuss"
-                }
-            ]
-        }
-    },
-    "hpc/Spindle": {
-        "repositoryTopics": {
-            "totalCount": 2,
-            "nodes": [
-                {
-                    "topic": {
-                        "name": "radiuss"
-                    },
-                    "resourcePath": "/topics/radiuss",
-                    "url": "https://github.com/topics/radiuss"
-                },
-                {
-                    "topic": {
-                        "name": "performance"
-                    },
-                    "resourcePath": "/topics/performance",
-                    "url": "https://github.com/topics/performance"
                 }
             ]
         }

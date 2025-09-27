@@ -983,6 +983,11 @@
             ]
         }
     },
+    "LLNL/Spindle": {
+        "releases": {
+            "nodes": []
+        }
+    },
     "LLNL/Umpire": {
         "releases": {
             "nodes": [
@@ -3219,14 +3224,14 @@
             ]
         }
     },
-    "hpc/Spindle": {
-        "releases": {
-            "nodes": []
-        }
-    },
     "hypre-space/hypre": {
         "releases": {
             "nodes": [
+                {
+                    "name": "Release v3.0.0",
+                    "publishedAt": "2025-09-26T13:24:23Z",
+                    "tagName": "v3.0.0"
+                },
                 {
                     "name": "Release v2.33.0",
                     "publishedAt": "2025-04-02T16:09:07Z",
