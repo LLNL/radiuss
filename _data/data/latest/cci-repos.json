@@ -136,7 +136,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 43
+            "totalCount": 44
         },
         "primaryLanguage": {
             "name": "C++"
@@ -369,7 +369,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 33
+            "totalCount": 34
         },
         "pullRequests_Closed": {
             "totalCount": 53
@@ -1170,7 +1170,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 536
+            "totalCount": 537
         },
         "mentionableUsers": {
             "totalCount": 77
@@ -1555,7 +1555,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 595
+            "totalCount": 596
         },
         "mentionableUsers": {
             "totalCount": 40
@@ -1775,13 +1775,13 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4807
+            "totalCount": 4808
         },
         "mentionableUsers": {
             "totalCount": 1674
         },
         "forks": {
-            "totalCount": 2291
+            "totalCount": 2289
         },
         "primaryLanguage": {
             "name": "Python"
@@ -1794,13 +1794,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 538
+            "totalCount": 537
         },
         "pullRequests_Closed": {
             "totalCount": 4843
         },
         "pullRequests_Merged": {
-            "totalCount": 36520
+            "totalCount": 36521
         },
         "issues_Open": {
             "totalCount": 1486
