@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 188
+            "totalCount": 190
         },
         "mentionableUsers": {
             "totalCount": 32
@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 239
         },
         "pullRequests_Merged": {
-            "totalCount": 3263
+            "totalCount": 3265
         },
         "issues_Open": {
             "totalCount": 595
         },
         "issues_Closed": {
-            "totalCount": 2880
+            "totalCount": 2881
         }
     },
     "flux-framework/flux-sched": {
@@ -136,7 +136,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 44
+            "totalCount": 45
         },
         "primaryLanguage": {
             "name": "C++"
@@ -317,13 +317,13 @@
             "totalCount": 8
         },
         "pullRequests_Closed": {
-            "totalCount": 15
+            "totalCount": 17
         },
         "pullRequests_Merged": {
             "totalCount": 48
         },
         "issues_Open": {
-            "totalCount": 14
+            "totalCount": 18
         },
         "issues_Closed": {
             "totalCount": 20
@@ -430,7 +430,7 @@
             "totalCount": 58
         },
         "pullRequests_Merged": {
-            "totalCount": 939
+            "totalCount": 940
         },
         "issues_Open": {
             "totalCount": 214
@@ -818,10 +818,10 @@
             "totalCount": 107
         },
         "issues_Open": {
-            "totalCount": 20
+            "totalCount": 19
         },
         "issues_Closed": {
-            "totalCount": 13
+            "totalCount": 14
         }
     },
     "LLNL/hiop": {
@@ -1189,13 +1189,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 36
+            "totalCount": 35
         },
         "pullRequests_Closed": {
             "totalCount": 226
         },
         "pullRequests_Merged": {
-            "totalCount": 1100
+            "totalCount": 1101
         },
         "issues_Open": {
             "totalCount": 215
@@ -1250,7 +1250,7 @@
             "totalCount": 16
         },
         "pullRequests_Merged": {
-            "totalCount": 183
+            "totalCount": 184
         },
         "issues_Open": {
             "totalCount": 51
@@ -1555,7 +1555,7 @@
             "url": "http://choosealicense.com/licenses/bsd-3-clause/"
         },
         "stargazers": {
-            "totalCount": 597
+            "totalCount": 601
         },
         "mentionableUsers": {
             "totalCount": 41
@@ -1580,7 +1580,7 @@
             "totalCount": 104
         },
         "pullRequests_Merged": {
-            "totalCount": 433
+            "totalCount": 434
         },
         "issues_Open": {
             "totalCount": 32
@@ -1726,7 +1726,7 @@
             "totalCount": 771
         },
         "forks": {
-            "totalCount": 542
+            "totalCount": 541
         },
         "primaryLanguage": {
             "name": "C++"
@@ -1742,16 +1742,16 @@
             "totalCount": 199
         },
         "pullRequests_Closed": {
-            "totalCount": 320
+            "totalCount": 321
         },
         "pullRequests_Merged": {
             "totalCount": 1849
         },
         "issues_Open": {
-            "totalCount": 92
+            "totalCount": 93
         },
         "issues_Closed": {
-            "totalCount": 2319
+            "totalCount": 2320
         }
     },
     "spack/spack": {
@@ -1775,7 +1775,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 4808
+            "totalCount": 4805
         },
         "mentionableUsers": {
             "totalCount": 1676
@@ -1794,16 +1794,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 535
+            "totalCount": 531
         },
         "pullRequests_Closed": {
-            "totalCount": 4845
+            "totalCount": 4846
         },
         "pullRequests_Merged": {
-            "totalCount": 36539
+            "totalCount": 36546
         },
         "issues_Open": {
-            "totalCount": 1485
+            "totalCount": 1487
         },
         "issues_Closed": {
             "totalCount": 7545
@@ -1833,7 +1833,7 @@
             "totalCount": 492
         },
         "mentionableUsers": {
-            "totalCount": 68
+            "totalCount": 67
         },
         "forks": {
             "totalCount": 123
@@ -1849,19 +1849,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 139
         },
         "pullRequests_Merged": {
-            "totalCount": 3303
+            "totalCount": 3306
         },
         "issues_Open": {
-            "totalCount": 1919
+            "totalCount": 1916
         },
         "issues_Closed": {
-            "totalCount": 3675
+            "totalCount": 3678
         }
     },
     "XBraid/xbraid": {
