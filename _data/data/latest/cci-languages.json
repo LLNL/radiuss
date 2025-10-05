@@ -1672,7 +1672,7 @@
     "LLNL/zfp": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 1869249,
+            "totalSize": 1869338,
             "nodes": [
                 {
                     "name": "C++",
@@ -1719,7 +1719,7 @@
                     "size": 747595
                 },
                 {
-                    "size": 119343
+                    "size": 119432
                 },
                 {
                     "size": 61978
