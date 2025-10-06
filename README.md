@@ -5,7 +5,7 @@ Welcome to the web home of RADIUSS! Here we maintain:
 - a website with information about radiuss
 - automated pipelines to update and render plots for RADIUSS projects
 
-The structure is under development so please come back soon!
+This repo was archived in October 6, 2025. See https://computing.llnl.gov/projects/radiuss for current information.
 
 ## Usage
 
